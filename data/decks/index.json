@@ -1,0 +1,64 @@
+{
+  "decks": [
+    {
+      "id": "vocabulary",
+      "title": "Vocabulary · ことば",
+      "kind": "vocabulary",
+      "totalCards": 3737,
+      "levels": {
+        "starter": {
+          "ja": "入門",
+          "en": "Starter (A1)"
+        },
+        "elementary-1": {
+          "ja": "初級1",
+          "en": "Elementary 1 (A2)"
+        },
+        "elementary-2": {
+          "ja": "初級2",
+          "en": "Elementary 2 (A2)"
+        }
+      }
+    },
+    {
+      "id": "kanji",
+      "title": "Kanji · かんじ",
+      "kind": "kanji",
+      "totalCards": 642,
+      "levels": {
+        "starter": {
+          "ja": "入門",
+          "en": "Starter (A1)"
+        },
+        "elementary-1": {
+          "ja": "初級1",
+          "en": "Elementary 1 (A2)"
+        },
+        "elementary-2": {
+          "ja": "初級2",
+          "en": "Elementary 2 (A2)"
+        }
+      }
+    },
+    {
+      "id": "grammar",
+      "title": "Grammar · ぶんぽう",
+      "kind": "grammar",
+      "totalCards": 348,
+      "levels": {
+        "starter": {
+          "ja": "入門",
+          "en": "Starter (A1)"
+        },
+        "elementary-1": {
+          "ja": "初級1",
+          "en": "Elementary 1 (A2)"
+        },
+        "elementary-2": {
+          "ja": "初級2",
+          "en": "Elementary 2 (A2)"
+        }
+      }
+    }
+  ]
+}

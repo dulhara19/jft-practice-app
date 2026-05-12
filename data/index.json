@@ -1,0 +1,39 @@
+{
+  "papers": [
+    {
+      "id": "paper-1",
+      "title": "JFT-Basic Model Paper 1",
+      "totalQuestions": 60,
+      "durationMinutes": 60,
+      "passMark": 200
+    },
+    {
+      "id": "paper-2",
+      "title": "JFT-Basic Model Paper 2",
+      "totalQuestions": 60,
+      "durationMinutes": 60,
+      "passMark": 200
+    },
+    {
+      "id": "paper-3",
+      "title": "JFT-Basic Model Paper 3",
+      "totalQuestions": 60,
+      "durationMinutes": 60,
+      "passMark": 200
+    },
+    {
+      "id": "paper-4",
+      "title": "JFT-Basic Model Paper 4",
+      "totalQuestions": 60,
+      "durationMinutes": 60,
+      "passMark": 200
+    },
+    {
+      "id": "paper-5",
+      "title": "JFT-Basic Model Paper 5",
+      "totalQuestions": 60,
+      "durationMinutes": 60,
+      "passMark": 200
+    }
+  ]
+}

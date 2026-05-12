@@ -1,0 +1,1749 @@
+{
+  "paperId": "paper-4",
+  "title": "JFT-Basic Model Paper 4",
+  "durationMinutes": 60,
+  "totalQuestions": 60,
+  "passMark": 200,
+  "questions": [
+    {
+      "id": "p4-q1",
+      "section": "script-vocab",
+      "prompt": "おつり",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "ものを かうとき、みせに はらう おかね"
+        },
+        {
+          "label": "B",
+          "text": "おかねを はらって、もどってくる おかね"
+        },
+        {
+          "label": "C",
+          "text": "ぎんこうに あずけている おかね"
+        },
+        {
+          "label": "D",
+          "text": "ともだちに かす おかね"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Question: おつり - What is its meaning?\nCorrect: B) おかねを はらって、もどってくる おかね (Money that comes back after\npaying)\nExplanation: おつり (change) is the money returned to you when you pay more than\nthe price. A is the money you pay, C is savings, D is money you lend.",
+        "ja": "こたえは B：おかねを はらって、もどってくる おかね です。"
+      }
+    },
+    {
+      "id": "p4-q2",
+      "section": "script-vocab",
+      "prompt": "レジ",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "ものを ならべる たな"
+        },
+        {
+          "label": "B",
+          "text": "ものを つつむ ふくろ"
+        },
+        {
+          "label": "C",
+          "text": "みせで おかねを はらう ところ"
+        },
+        {
+          "label": "D",
+          "text": "みせの いりぐち"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "en": "Question: レジ - What is its meaning?\nCorrect: C) みせで おかねを はらう ところ (The place in a store where you pay)\nExplanation: レジ (register/checkout) is the cash register counter where you pay.\nA is a shelf, B is a bag, D is the entrance.",
+        "ja": "こたえは C：みせで おかねを はらう ところ です。"
+      }
+    },
+    {
+      "id": "p4-q3",
+      "section": "script-vocab",
+      "prompt": "わりびき",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "ねだんが いつもより たかく なること"
+        },
+        {
+          "label": "B",
+          "text": "ねだんが いつもより やすく なること"
+        },
+        {
+          "label": "C",
+          "text": "おなじ ものを たくさん かうこと"
+        },
+        {
+          "label": "D",
+          "text": "あたらしい しょうひんを うること"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Question: わりびき - What is its meaning?\nCorrect: B) ねだんが いつもより やすく なること (The price becoming cheaper than\nusual)\nExplanation: わりびき (割引/discount) means a reduction in price. A is price\nincrease, C is bulk buying, D is selling new products.",
+        "ja": "こたえは B：ねだんが いつもより やすく なること です。"
+      }
+    },
+    {
+      "id": "p4-q4",
+      "section": "script-vocab",
+      "prompt": "しょうひぜい",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "ものを かうときに はらう ぜいきん"
+        },
+        {
+          "label": "B",
+          "text": "まいつき くにに はらう おかね"
+        },
+        {
+          "label": "C",
+          "text": "でんきや ガスの りょうきん"
+        },
+        {
+          "label": "D",
+          "text": "びょういんで はらう おかね"
+        }
+      ],
+      "answer": "A",
+      "explanation": {
+        "en": "Question: しょうひぜい - What is its meaning?\nCorrect: A) ものを かうときに はらう ぜいきん (Tax paid when buying things)\nExplanation: しょうひぜい (消費税/consumption tax) is the tax added when purchasing\ngoods. B is monthly tax, C is utility fees, D is hospital fees.",
+        "ja": "こたえは A：ものを かうときに はらう ぜいきん です。"
+      }
+    },
+    {
+      "id": "p4-q5",
+      "section": "script-vocab",
+      "prompt": "まいつき（　）を はらわなければなりません。おおやさんの ぎんこうに ふりこみます。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "しききん"
+        },
+        {
+          "label": "B",
+          "text": "やちん"
+        },
+        {
+          "label": "C",
+          "text": "れいきん"
+        },
+        {
+          "label": "D",
+          "text": "ほけんりょう"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Question: まいつき（　）を はらわなければなりません。おおやさんの ぎんこうに\nふりこみます。\nCorrect: B) やちん (Rent)\nExplanation: やちん (家賃) is rent - the monthly payment to the landlord (おおや).\nA しききん is security deposit (one-time), C れいきん is key money (one-time),\nD ほけんりょう is insurance premium.",
+        "ja": "こたえは B：やちん です。"
+      }
+    },
+    {
+      "id": "p4-q6",
+      "section": "script-vocab",
+      "prompt": "アパートに はいるとき、（　）を はらいました。へやを でるとき もどってきます。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "やちん"
+        },
+        {
+          "label": "B",
+          "text": "しききん"
+        },
+        {
+          "label": "C",
+          "text": "でんきだい"
+        },
+        {
+          "label": "D",
+          "text": "こうつうひ"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Question: アパートに はいるとき（　）を はらいました。へやを でるとき もどって\nきます。\nCorrect: B) しききん (Security deposit)\nExplanation: しききん (敷金) is a security deposit paid when moving in, returned\nwhen moving out. A やちん is monthly rent, C でんきだい is electricity bill,\nD こうつうひ is transportation costs.",
+        "ja": "こたえは B：しききん です。"
+      }
+    },
+    {
+      "id": "p4-q7",
+      "section": "script-vocab",
+      "prompt": "あさ 8じまでに（　）を しなければなりません。きめられた ばしょに だしてください。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "そうじ"
+        },
+        {
+          "label": "B",
+          "text": "せんたく"
+        },
+        {
+          "label": "C",
+          "text": "ゴミだし"
+        },
+        {
+          "label": "D",
+          "text": "かいもの"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "en": "Question: あさ 8じまでに（　）を しなければなりません。きめられた ばしょに\nだしてください。\nCorrect: C) ゴミだし (Taking out garbage)\nExplanation: ゴミだし (garbage disposal) must be done by 8 AM at the designated\nspot. This is standard Japanese apartment life. A is cleaning, B is laundry,\nD is shopping.",
+        "ja": "こたえは C：ゴミだし です。"
+      }
+    },
+    {
+      "id": "p4-q8",
+      "section": "script-vocab",
+      "prompt": "アパートの（　）が みずもれを なおしてくれました。とても しんせつな ひとです。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "かんりにん"
+        },
+        {
+          "label": "B",
+          "text": "りんじん"
+        },
+        {
+          "label": "C",
+          "text": "どうりょう"
+        },
+        {
+          "label": "D",
+          "text": "てんいん"
+        }
+      ],
+      "answer": "A",
+      "explanation": {
+        "en": "Question: アパートの（　）が みずもれを なおしてくれました。\nCorrect: A) かんりにん (Building manager)\nExplanation: かんりにん (管理人) is the apartment building manager who fixes\nthings like water leaks. B りんじん is neighbor, C どうりょう is colleague,\nD てんいん is store clerk.",
+        "ja": "こたえは A：かんりにん です。"
+      }
+    },
+    {
+      "id": "p4-q9",
+      "section": "script-vocab",
+      "prompt": "まいにち 食堂 で ひるごはんを たべます。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "しょくば"
+        },
+        {
+          "label": "B",
+          "text": "しょくどう"
+        },
+        {
+          "label": "C",
+          "text": "しょっき"
+        },
+        {
+          "label": "D",
+          "text": "しょくひん"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Question: 食堂 - Reading?\nCorrect: B) しょくどう\nExplanation: 食堂 (cafeteria/dining hall) is read しょくどう. A しょくば is\nworkplace, C しょっき is tableware, D しょくひん is food products.",
+        "ja": "こたえは B：しょくどう です。"
+      }
+    },
+    {
+      "id": "p4-q10",
+      "section": "script-vocab",
+      "prompt": "あした ともだちと 買い物 に いきます。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "かいもの"
+        },
+        {
+          "label": "B",
+          "text": "かいもん"
+        },
+        {
+          "label": "C",
+          "text": "ばいもの"
+        },
+        {
+          "label": "D",
+          "text": "かいぶつ"
+        }
+      ],
+      "answer": "A",
+      "explanation": {
+        "en": "Question: 買い物 - Reading?\nCorrect: A) かいもの\nExplanation: 買い物 (shopping) is read かいもの. 買い = かい + 物 = もの.",
+        "ja": "こたえは A：かいもの です。"
+      }
+    },
+    {
+      "id": "p4-q11",
+      "section": "script-vocab",
+      "prompt": "あめの ひは 洗濯 ができなくて こまります。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "そうじ"
+        },
+        {
+          "label": "B",
+          "text": "せんたく"
+        },
+        {
+          "label": "C",
+          "text": "りょうり"
+        },
+        {
+          "label": "D",
+          "text": "せいり"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Question: 洗濯 - Reading?\nCorrect: B) せんたく\nExplanation: 洗濯 (laundry) is read せんたく. A そうじ is cleaning (掃除),\nC りょうり is cooking (料理), D せいり is organizing (整理).",
+        "ja": "こたえは B：せんたく です。"
+      }
+    },
+    {
+      "id": "p4-q12",
+      "section": "script-vocab",
+      "prompt": "らいしゅう 引っ越し を します。荷物 が たくさん あります。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "ひっこし / にぶつ"
+        },
+        {
+          "label": "B",
+          "text": "ひきこし / かもつ"
+        },
+        {
+          "label": "C",
+          "text": "ひっこし / にもつ"
+        },
+        {
+          "label": "D",
+          "text": "ひきごし / にもつ"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "en": "Question: 引っ越し / 荷物 - Reading?\nCorrect: C) ひっこし / にもつ\nExplanation: 引っ越し (moving house) = ひっこし, 荷物 (luggage) = にもつ.\nA にぶつ is wrong for 荷物, B ひきこし lacks the っ, D ひきごし lacks the っ and\nhas wrong voicing.",
+        "ja": "こたえは C：ひっこし / にもつ です。"
+      }
+    },
+    {
+      "id": "p4-q13",
+      "section": "script-vocab",
+      "prompt": "しやくしょに じゅうしょ の とどけで を だしてください。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "住所の届け出"
+        },
+        {
+          "label": "B",
+          "text": "住処の届け出"
+        },
+        {
+          "label": "C",
+          "text": "住所の届け日"
+        },
+        {
+          "label": "D",
+          "text": "住居の届け出"
+        }
+      ],
+      "answer": "A",
+      "explanation": {
+        "en": "Question: じゅうしょ の とどけで - Which kanji?\nCorrect: A) 住所の届け出\nExplanation: じゅうしょ = 住所 (address), とどけで = 届け出 (notification/filing).\nB 住処 means dwelling place, C 届け日 means delivery date, D 住居 means\nresidence.",
+        "ja": "こたえは A：住所の届け出 です。"
+      }
+    },
+    {
+      "id": "p4-q14",
+      "section": "script-vocab",
+      "prompt": "でんわ の ばんごう が かわりました。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "電語の番合"
+        },
+        {
+          "label": "B",
+          "text": "電話の番号"
+        },
+        {
+          "label": "C",
+          "text": "電話の番合"
+        },
+        {
+          "label": "D",
+          "text": "電語の番号"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Question: でんわ の ばんごう - Which kanji?\nCorrect: B) 電話の番号\nExplanation: でんわ = 電話 (telephone), ばんごう = 番号 (number). A has wrong\nkanji for both, C has wrong 合 instead of 号, D has wrong 語 instead of 話.",
+        "ja": "こたえは B：電話の番号 です。"
+      }
+    },
+    {
+      "id": "p4-q15",
+      "section": "script-vocab",
+      "prompt": "あしたの よてい を おしえてください。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "余定"
+        },
+        {
+          "label": "B",
+          "text": "予定"
+        },
+        {
+          "label": "C",
+          "text": "与定"
+        },
+        {
+          "label": "D",
+          "text": "予届"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Question: よてい - Which kanji?\nCorrect: B) 予定\nExplanation: よてい (plan/schedule) is written 予定. A 余定 has wrong first kanji,\nC 与定 has wrong first kanji, D 予届 has wrong second kanji.\n\n\n  SECTION 2: かいわ・ひょうげん (Conversation and Expression) Q16-30",
+        "ja": "こたえは B：予定 です。"
+      }
+    },
+    {
+      "id": "p4-q16",
+      "section": "convo-expr",
+      "prompt": "A：にほんの ふゆは さむいですか。\n  B：ええ、とても さむいですよ。あたたかい コートを（　）。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "もっていったほうがいいですよ"
+        },
+        {
+          "label": "B",
+          "text": "もっていかなくてもいいですよ"
+        },
+        {
+          "label": "C",
+          "text": "もっていくことができますよ"
+        },
+        {
+          "label": "D",
+          "text": "もっていったばかりですよ"
+        }
+      ],
+      "answer": "A",
+      "explanation": {
+        "en": "Context: Japan winter is cold; advising about bringing a warm coat.\nCorrect: A) もっていったほうがいいですよ (You'd better bring one)\nExplanation: ～たほうがいい gives advice. \"You'd better bring a warm coat.\"\nB means \"you don't need to bring,\" C means \"you can bring,\" D means \"just\nbrought.\"",
+        "ja": "こたえは A：もっていったほうがいいですよ です。"
+      }
+    },
+    {
+      "id": "p4-q17",
+      "section": "convo-expr",
+      "prompt": "A：この アパートは ペットを かっても いいですか。\n  B：はい、ちいさい いぬや ねこなら（　）。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "かうほうがいいです"
+        },
+        {
+          "label": "B",
+          "text": "かわなくてもいいです"
+        },
+        {
+          "label": "C",
+          "text": "かうことができます"
+        },
+        {
+          "label": "D",
+          "text": "かうかもしれません"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "en": "Context: Can keep pets in this apartment? Yes, small dogs/cats are OK.\nCorrect: C) かうことができます (Can keep them)\nExplanation: ～ことができます means \"can do.\" Small pets can be kept. A is advice,\nB means \"don't need to keep,\" D means \"might keep.\"",
+        "ja": "こたえは C：かうことができます です。"
+      }
+    },
+    {
+      "id": "p4-q18",
+      "section": "convo-expr",
+      "prompt": "A：にほんでは くるまの うんてんに こくさいめんきょしょうが いりますか。\n  B：はい。でも、6かげつ いないなら こくさいめんきょしょうで（　）。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "うんてんしたばかりです"
+        },
+        {
+          "label": "B",
+          "text": "うんてんしたほうがいいです"
+        },
+        {
+          "label": "C",
+          "text": "うんてんしなくてもいいです"
+        },
+        {
+          "label": "D",
+          "text": "うんてんすることができます"
+        }
+      ],
+      "answer": "D",
+      "explanation": {
+        "en": "Context: Can drive with international license within 6 months.\nCorrect: D) うんてんすることができます (Can drive)\nExplanation: ～ことができます expresses ability/permission. Within 6 months, you\nCAN drive with an international license. A is \"just drove,\" B is advice,\nC means \"don't need to drive.\"",
+        "ja": "こたえは D：うんてんすることができます です。"
+      }
+    },
+    {
+      "id": "p4-q19",
+      "section": "convo-expr",
+      "prompt": "A：あの あたらしい ラーメンや、おいしいですか。\n  B：さあ、まだ いったことが ないですが、ネットで とても おいしい（　）。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "ようです"
+        },
+        {
+          "label": "B",
+          "text": "そうです"
+        },
+        {
+          "label": "C",
+          "text": "かもしれません"
+        },
+        {
+          "label": "D",
+          "text": "ばかりです"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Context: Haven't been to the ramen shop but heard online it's delicious.\nCorrect: B) そうです (I heard that / reportedly)\nExplanation: ～そうです (hearsay) means \"I heard/read that.\" The speaker read\nonline that it's delicious. A ようです is personal inference, C かもしれません\nis \"might be,\" D ばかりです is \"just did.\"",
+        "ja": "こたえは B：そうです です。"
+      }
+    },
+    {
+      "id": "p4-q20",
+      "section": "convo-expr",
+      "prompt": "A：パクさんは もう にほんの せいかつに なれましたか。\n  B：ええ。にほんは あんぜんだ（　）、たべものも おいしい（　）、とても すみやすいです。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "のに / のに"
+        },
+        {
+          "label": "B",
+          "text": "し / し"
+        },
+        {
+          "label": "C",
+          "text": "が / が"
+        },
+        {
+          "label": "D",
+          "text": "から / から"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Context: Listing reasons Japan is livable: safe, food is good.\nCorrect: B) し / し\nExplanation: ～し、～し lists multiple reasons. にほんは あんぜんだし、たべものも\nおいしいし = \"Japan is safe, and the food is delicious, and...\" A のに is\n\"despite,\" C が is \"but,\" D から is \"because\" (single reason).",
+        "ja": "こたえは B：し / し です。"
+      }
+    },
+    {
+      "id": "p4-q21",
+      "section": "convo-expr",
+      "prompt": "A：あしたの はなみ、てんきは だいじょうぶですか。\n  B：てんきよほうでは、ごごから あめが ふる（　）。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "そうです"
+        },
+        {
+          "label": "B",
+          "text": "ばかりです"
+        },
+        {
+          "label": "C",
+          "text": "ことができます"
+        },
+        {
+          "label": "D",
+          "text": "かもしれません"
+        }
+      ],
+      "answer": "D",
+      "explanation": {
+        "en": "Context: Tomorrow's hanami - weather forecast says rain might fall in afternoon.\nCorrect: D) かもしれません (Might)\nExplanation: ～かもしれません expresses possibility. \"It might rain in the\nafternoon.\" A そうです is hearsay, B ばかりです is \"just happened,\" C ことが\nできます is ability.",
+        "ja": "こたえは D：かもしれません です。"
+      }
+    },
+    {
+      "id": "p4-q22",
+      "section": "convo-expr",
+      "prompt": "A：しやくしょで じゅうみんとうろくを したいのですが、パスポートが いりますか。\n  B：はい。それから、ざいりゅうカードも（　）。よういしてください。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "もっていったほうがいいです"
+        },
+        {
+          "label": "B",
+          "text": "もっていかなくてもいいです"
+        },
+        {
+          "label": "C",
+          "text": "もっていくことができます"
+        },
+        {
+          "label": "D",
+          "text": "もっていくようです"
+        }
+      ],
+      "answer": "A",
+      "explanation": {
+        "en": "Context: Need passport and residence card for registration. Told to prepare both.\nCorrect: A) もっていったほうがいいです (You'd better bring it)\nExplanation: ～たほうがいい is advice. \"You'd better bring the residence card\ntoo.\" B means \"don't need to bring,\" C means \"can bring,\" D means \"it seems\nyou should bring.\"",
+        "ja": "こたえは A：もっていったほうがいいです です。"
+      }
+    },
+    {
+      "id": "p4-q23",
+      "section": "convo-expr",
+      "prompt": "A：グエンさん、その カメラ、あたらしいですね。\n  B：ええ、きのう（　）んです。まだ つかいかたが よく わかりません。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "かうことができた"
+        },
+        {
+          "label": "B",
+          "text": "かったほうがいい"
+        },
+        {
+          "label": "C",
+          "text": "かったばかりな"
+        },
+        {
+          "label": "D",
+          "text": "かうかもしれない"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "en": "Context: Bought a camera yesterday, still don't know how to use it.\nCorrect: C) かったばかりな (Just bought)\nExplanation: ～たばかり means \"just did recently.\" \"I just bought it, so I don't\nknow how to use it yet.\" A is \"was able to buy,\" B is advice, D is \"might buy.\"",
+        "ja": "こたえは C：かったばかりな です。"
+      }
+    },
+    {
+      "id": "p4-q24",
+      "section": "convo-expr",
+      "prompt": "いちばで やさいの ねだんを ききたいです。なんと いいますか。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "すみません、これは いくらですか。"
+        },
+        {
+          "label": "B",
+          "text": "すみません、これを ください。"
+        },
+        {
+          "label": "C",
+          "text": "すみません、これは なんですか。"
+        },
+        {
+          "label": "D",
+          "text": "すみません、これは どこですか。"
+        }
+      ],
+      "answer": "A",
+      "explanation": {
+        "en": "Context: Want to ask the price of vegetables at the market.\nCorrect: A) すみません、これは いくらですか。 (Excuse me, how much is this?)\nExplanation: いくらですか asks for the price. B is ordering, C asks what it is,\nD asks where it is.",
+        "ja": "こたえは A：すみません、これは いくらですか。 です。"
+      }
+    },
+    {
+      "id": "p4-q25",
+      "section": "convo-expr",
+      "prompt": "みせで かいものを しました。レシートが ほしいです。なんと いいますか。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "おつりを ください。"
+        },
+        {
+          "label": "B",
+          "text": "ふくろを ください。"
+        },
+        {
+          "label": "C",
+          "text": "レシートを おねがいします。"
+        },
+        {
+          "label": "D",
+          "text": "クレジットカードで おねがいします。"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "en": "Context: Want a receipt after shopping.\nCorrect: C) レシートを おねがいします。 (A receipt, please.)\nExplanation: This directly asks for a receipt. A asks for change, B asks for a\nbag, D asks to pay by credit card.",
+        "ja": "こたえは C：レシートを おねがいします。 です。"
+      }
+    },
+    {
+      "id": "p4-q26",
+      "section": "convo-expr",
+      "prompt": "あたらしい アパートに ひっこしました。となりの へやの ひとに はじめて あいます。なんと いいますか。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "おひさしぶりです。"
+        },
+        {
+          "label": "B",
+          "text": "おじゃまします。"
+        },
+        {
+          "label": "C",
+          "text": "はじめまして。となりに ひっこしてきました。よろしく おねがいします。"
+        },
+        {
+          "label": "D",
+          "text": "こんにちは。いつも ありがとうございます。"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "en": "Context: First time meeting neighbor after moving in.\nCorrect: C) はじめまして。となりに ひっこしてきました。よろしく おねがいします。\nExplanation: Standard self-introduction when meeting a new neighbor. A is for\nmeeting someone again after a long time, B is for entering someone's home,\nD implies familiarity.",
+        "ja": "こたえは C：はじめまして。となりに ひっこしてきました。よろしく おねがいします。 です。"
+      }
+    },
+    {
+      "id": "p4-q27",
+      "section": "convo-expr",
+      "prompt": "おおやさんが へやの エアコンを なおしてくれました。なんと いいますか。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "すみません、もういちど おねがいします。"
+        },
+        {
+          "label": "B",
+          "text": "なおしていただいて、ありがとうございます。"
+        },
+        {
+          "label": "C",
+          "text": "エアコンが こわれています。"
+        },
+        {
+          "label": "D",
+          "text": "いつ なおしてくれますか。"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Context: Landlord fixed the air conditioner. Express gratitude.\nCorrect: B) なおしていただいて、ありがとうございます。 (Thank you for fixing it.)\nExplanation: ～ていただいて、ありがとうございます politely thanks someone for\na favor using humble form. A asks for another fix, C reports the problem,\nD asks when it will be fixed.",
+        "ja": "こたえは B：なおしていただいて、ありがとうございます。 です。"
+      }
+    },
+    {
+      "id": "p4-q28",
+      "section": "convo-expr",
+      "prompt": "しやくしょに いきたいです。みちが わかりません。ちかくの ひとに ききます。なんと いいますか。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "すみません、しやくしょは なんじまでですか。"
+        },
+        {
+          "label": "B",
+          "text": "すみません、しやくしょは いつ やすみですか。"
+        },
+        {
+          "label": "C",
+          "text": "すみません、しやくしょへは どう いけばいいですか。"
+        },
+        {
+          "label": "D",
+          "text": "すみません、しやくしょで なにを しますか。"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "en": "Context: Want to go to city hall but don't know the way.\nCorrect: C) すみません、しやくしょへは どう いけばいいですか。 (How should I get\nto city hall?)\nExplanation: どう いけばいいですか asks for directions. A asks about hours,\nB asks about holidays, D asks what to do there.",
+        "ja": "こたえは C：すみません、しやくしょへは どう いけばいいですか。 です。"
+      }
+    },
+    {
+      "id": "p4-q29",
+      "section": "convo-expr",
+      "prompt": "にほんじんの ともだちの いえで ごはんを たべています。にくりょうりを すすめられましたが、\n  しゅうきょうの りゆうで にくが たべられません。なんと いいますか。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "にくは きらいです。いりません。"
+        },
+        {
+          "label": "B",
+          "text": "すみません、しゅうきょうの りゆうで にくは たべられないんです。"
+        },
+        {
+          "label": "C",
+          "text": "にくりょうりは おいしくないです。"
+        },
+        {
+          "label": "D",
+          "text": "にくは たべたくないです。けっこうです。"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Context: Cannot eat meat for religious reasons. Politely declining.\nCorrect: B) すみません、しゅうきょうの りゆうで にくは たべられないんです。\nExplanation: This politely explains the reason (religion) with ～んです pattern.\nA is too blunt (hate/don't need), C insults the food, D is too direct.",
+        "ja": "こたえは B：すみません、しゅうきょうの りゆうで にくは たべられないんです。 です。"
+      }
+    },
+    {
+      "id": "p4-q30",
+      "section": "convo-expr",
+      "prompt": "たいちょうが わるいので、かいしゃを はやく かえりたいです。じょうしに なんと いいますか。",
+      "context": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "きょうは もう かえります。"
+        },
+        {
+          "label": "B",
+          "text": "すみません、たいちょうが わるいので、おさきに しつれいしてもいいですか。"
+        },
+        {
+          "label": "C",
+          "text": "きょうは はやく かえったほうがいいです。"
+        },
+        {
+          "label": "D",
+          "text": "たいちょうが わるいです。さようなら。"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Context: Feeling unwell, want to leave work early. Speaking to supervisor.\nCorrect: B) すみません、たいちょうが わるいので、おさきに しつれいしても\nいいですか。\nExplanation: This politely asks permission to leave early. ～てもいいですか asks\npermission. A is too abrupt, C gives unsolicited advice, D is too casual.\n\n\n  SECTION 3: ちょうかい (Listening Comprehension) Questions 31-45",
+        "ja": "こたえは B：すみません、たいちょうが わるいので、おさきに しつれいしてもいいですか。 です。"
+      }
+    },
+    {
+      "id": "p4-q31",
+      "section": "listening",
+      "prompt": "ふたりが かう ものは ぜんぶで いくつですか。",
+      "context": "おっと：しゅうまつ、スーパーに かいものに いこう。なにが いる？\n  つま　：たまごと ぎゅうにゅうが なくなったから、かってきて。\n  おっと：わかった。ほかには？\n  つま　：あ、にくも おねがい。カレーを つくるから、にんじんと じゃがいもも。\n  おっと：りょうかい。ぜんぶで 5つだね。\n  つま　：あ、まって。おこめも すくないから、おこめも おねがい。",
+      "options": [
+        {
+          "label": "A",
+          "text": "4つ"
+        },
+        {
+          "label": "B",
+          "text": "5つ"
+        },
+        {
+          "label": "C",
+          "text": "6つ"
+        },
+        {
+          "label": "D",
+          "text": "7つ"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "en": "Script: Shopping list: eggs, milk, meat, carrots, potatoes, rice = 6 items.\nCorrect: C) 6つ\nKey info: たまご + ぎゅうにゅう + にく + にんじん + じゃがいも = 5, then\nおこめ is added = 6 total. The husband first says 5, then wife adds rice.",
+        "ja": "こたえは C：6つ です。"
+      }
+    },
+    {
+      "id": "p4-q32",
+      "section": "listening",
+      "prompt": "ふたりは どこで おひるごはんを たべますか。",
+      "context": "やまだ：おひるごはん、どこに いきますか。\n  チャン：えきまえに あたらしい タイりょうりの みせが できたそうですよ。\n  やまだ：いいですね。でも、えきまえは ちょっと とおいから、じかんが かかりますね。\n  チャン：そうですね。じゃあ、ちかくの しょくどうは どうですか。\n  やまだ：あそこは きのう いきました。きょうは べつの ところが いいなあ。\n  チャン：じゃあ、コンビニで おべんとうを かって、こうえんで たべませんか。\n  やまだ：それが いいですね。てんきも いいし。",
+      "options": [
+        {
+          "label": "A",
+          "text": "タイりょうりの みせ"
+        },
+        {
+          "label": "B",
+          "text": "ちかくの しょくどう"
+        },
+        {
+          "label": "C",
+          "text": "かいしゃの なか"
+        },
+        {
+          "label": "D",
+          "text": "こうえん"
+        }
+      ],
+      "answer": "D",
+      "explanation": {
+        "en": "Script: They reject the Thai restaurant (too far), the nearby cafeteria (went\nyesterday), and decide to buy bento at convenience store and eat at the park.\nCorrect: D) こうえん\nKey info: コンビニで おべんとうを かって、こうえんで たべませんか → それが\nいいですね.",
+        "ja": "こたえは D：こうえん です。"
+      }
+    },
+    {
+      "id": "p4-q33",
+      "section": "listening",
+      "prompt": "カルロスさんの アパートについて、ただしいものは どれですか。",
+      "context": "リン　：あたらしい アパート、どうですか。\n  カルロス：ひろくて きれいだけど、えきから とおいんです。あるいて 20ぷん。\n  リン　：それは たいへんですね。わたしの アパートは えきから 5ふんだけど、せまいです。\n  カルロス：やちんは いくらですか。\n  リン　：6まんえんです。カルロスさんは？\n  カルロス：5まんえんです。ひろいし、やちんも やすいんですが、とおいのが ちょっと...。",
+      "options": [
+        {
+          "label": "A",
+          "text": "えきから ちかくて、やちんが やすい"
+        },
+        {
+          "label": "B",
+          "text": "ひろくて やちんが やすいが、えきから とおい"
+        },
+        {
+          "label": "C",
+          "text": "えきから ちかいが、せまくて やちんが たかい"
+        },
+        {
+          "label": "D",
+          "text": "ひろくて えきから ちかいが、やちんが たかい"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Script: Carlos's apartment is spacious and cheap (50,000 yen) but far from\nthe station (20 min walk).\nCorrect: B) ひろくて やちんが やすいが、えきから とおい\nKey info: ひろくて きれい、やちん 5まんえん、but えきから 20ぷん.",
+        "ja": "こたえは B：ひろくて やちんが やすいが、えきから とおい です。"
+      }
+    },
+    {
+      "id": "p4-q34",
+      "section": "listening",
+      "prompt": "にほんの うんてんの ルールとして、ただしくないものは どれですか。",
+      "context": "ミン　：にほんでは くるまは ひだりがわを はしるんですよね。\n  たなか：そうです。ミンさんの くにとは はんたいでしょう？\n  ミン　：はい。それから、にほんでは うんてんちゅうに けいたいを つかったら だめですよね。\n  たなか：ええ、ぜったいに だめです。それと、おさけを のんだら うんてんしては いけません。\n  ミン　：わたしの くにでも おなじです。あ、シートベルトは ぜんぶの せきで しなければ\n          なりませんか。\n  たなか：はい、うんてんせきも こうぶせきも しなければなりません。",
+      "options": [
+        {
+          "label": "A",
+          "text": "くるまは ひだりがわを はしる"
+        },
+        {
+          "label": "B",
+          "text": "うんてんちゅうに けいたいを つかっても いい"
+        },
+        {
+          "label": "C",
+          "text": "おさけを のんだら うんてんしては いけない"
+        },
+        {
+          "label": "D",
+          "text": "ぜんぶの せきで シートベルトを しなければならない"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Script: Question asks which is NOT correct about Japanese driving rules.\nUsing a phone while driving is strictly prohibited.\nCorrect: B) うんてんちゅうに けいたいを つかっても いい (Can use phone while\ndriving)\nKey info: This is FALSE. The script says うんてんちゅうに けいたいを つかったら\nだめ. The question asks for the INCORRECT rule. All others are true rules.",
+        "ja": "こたえは B：うんてんちゅうに けいたいを つかっても いい です。"
+      }
+    },
+    {
+      "id": "p4-q35",
+      "section": "listening",
+      "prompt": "うんどうかいについて、ただしいものは どれですか。",
+      "context": "きむら：らいしゅうの どようび、こどもの がっこうで うんどうかいが ありますよ。\n  グエン：うんどうかい？ なんですか。\n  きむら：がっこうで こどもたちが いろいろな スポーツや きょうそうを する イベントです。\n          おやも みにいきます。おべんとうも もっていきますよ。\n  グエン：へえ、たのしそうですね。なんじからですか。\n  きむら：あさ 9じからです。おひるやすみに みんなで おべんとうを たべます。\n  グエン：わかりました。わたしも いってみます。",
+      "options": [
+        {
+          "label": "A",
+          "text": "にちようびに ある"
+        },
+        {
+          "label": "B",
+          "text": "おやは いくことが できない"
+        },
+        {
+          "label": "C",
+          "text": "あさ 9じから はじまる"
+        },
+        {
+          "label": "D",
+          "text": "おひるごはんは がっこうが よういする"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "en": "Script: Sports day at school starts at 9 AM on Saturday.\nCorrect: C) あさ 9じから はじまる\nKey info: あさ 9じからです. A is wrong (Saturday, not Sunday), B is wrong\n(parents can go), D is wrong (families bring their own bento).",
+        "ja": "こたえは C：あさ 9じから はじまる です。"
+      }
+    },
+    {
+      "id": "p4-q36",
+      "section": "listening",
+      "prompt": "きゃくは どの プランに しますか。",
+      "context": "てんいん：いらっしゃいませ。きょうは どのような ごようけんですか。\n  きゃく　：スマートフォンの プランを かえたいんですが。\n  てんいん：かしこまりました。いまの プランは つきに いくらですか。\n  きゃく　：5,000えんです。でも、データが たりないので、もうすこし おおい プランに\n            したいんです。\n  てんいん：では、こちらの 7,000えんの プランは いかがですか。データが いまの\n            2ばいに なります。\n  きゃく　：7,000えんですか...。もうすこし やすいのは ありませんか。\n  てんいん：では、6,000えんの プランが あります。データは いまの 1.5ばいです。\n  きゃく　：じゃあ、それに します。",
+      "options": [
+        {
+          "label": "A",
+          "text": "5,000えんの プラン"
+        },
+        {
+          "label": "B",
+          "text": "6,000えんの プラン"
+        },
+        {
+          "label": "C",
+          "text": "7,000えんの プラン"
+        },
+        {
+          "label": "D",
+          "text": "8,000えんの プラン"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Script: Customer chooses the 6,000 yen phone plan.\nCorrect: B) 6,000えんの プラン\nKey info: 6,000えんの プラン → じゃあ、それに します.",
+        "ja": "こたえは B：6,000えんの プラン です。"
+      }
+    },
+    {
+      "id": "p4-q37",
+      "section": "listening",
+      "prompt": "グエンさんは しやくしょで なにを しに きましたか。",
+      "context": "しょくいん：つぎの かた、どうぞ。\n  グエン　　：すみません、ひっこしてきたので、じゅうしょの とうろくを したいのですが。\n  しょくいん：はい、ざいりゅうカードは おもちですか。\n  グエン　　：はい、これです。\n  しょくいん：ありがとうございます。では、この しょるいに あたらしい じゅうしょと\n              なまえを かいてください。\n  グエン　　：わかりました。......これで いいですか。\n  しょくいん：はい。では、ざいりゅうカードの うらに あたらしい じゅうしょを きさいします。\n              10ぷんほど おまちください。",
+      "options": [
+        {
+          "label": "A",
+          "text": "ざいりゅうカードを つくりに きた"
+        },
+        {
+          "label": "B",
+          "text": "じゅうしょの へんこうを しに きた"
+        },
+        {
+          "label": "C",
+          "text": "パスポートを もらいに きた"
+        },
+        {
+          "label": "D",
+          "text": "けんこうほけんに はいりに きた"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Script: Nguyen came to change his address registration at city hall.\nCorrect: B) じゅうしょの へんこうを しに きた\nKey info: ひっこしてきたので、じゅうしょの とうろくを したい = address change.",
+        "ja": "こたえは B：じゅうしょの へんこうを しに きた です。"
+      }
+    },
+    {
+      "id": "p4-q38",
+      "section": "listening",
+      "prompt": "きゃくは どうしますか。",
+      "context": "きゃく　：すみません、きのう ここで かった おさらが われていたんですが、\n            かえすことは できますか。\n  てんいん：もうしわけありません。レシートは おもちですか。\n  きゃく　：はい、あります。\n  てんいん：ありがとうございます。では、おなじ しょうひんと こうかんするか、\n            へんきんするか、どちらが よろしいですか。\n  きゃく　：おなじ ものと こうかんを おねがいします。\n  てんいん：かしこまりました。しょうしょう おまちください。",
+      "options": [
+        {
+          "label": "A",
+          "text": "へんきんしてもらう"
+        },
+        {
+          "label": "B",
+          "text": "おなじ しょうひんと こうかんする"
+        },
+        {
+          "label": "C",
+          "text": "べつの しょうひんを かう"
+        },
+        {
+          "label": "D",
+          "text": "そのまま かえる"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Script: Customer wants to exchange the broken plate for the same product.\nCorrect: B) おなじ しょうひんと こうかんする\nKey info: おなじ ものと こうかんを おねがいします.",
+        "ja": "こたえは B：おなじ しょうひんと こうかんする です。"
+      }
+    },
+    {
+      "id": "p4-q39",
+      "section": "listening",
+      "prompt": "この コインランドリーについて ただしいものは どれですか。",
+      "context": "きゃく　：すみません、この せんたくきの つかいかたを おしえてください。\n  てんいん：はい。まず、せんたくものを いれてください。つぎに、こちらに おかねを\n            いれます。200えんです。\n  きゃく　：200えんですね。せんざいは いりますか。\n  てんいん：いいえ、せんざいは じどうで はいるので、いれなくてもいいですよ。\n  きゃく　：あ、そうですか。かんそうきは べつですか。\n  てんいん：はい、かんそうきは あちらです。100えんで 30ぷん つかえます。",
+      "options": [
+        {
+          "label": "A",
+          "text": "せんたくに 100えん かかる"
+        },
+        {
+          "label": "B",
+          "text": "せんざいを じぶんで いれなければならない"
+        },
+        {
+          "label": "C",
+          "text": "せんたくと かんそうは おなじ きかいで できる"
+        },
+        {
+          "label": "D",
+          "text": "せんざいは じどうで はいる"
+        }
+      ],
+      "answer": "D",
+      "explanation": {
+        "en": "Script: Laundromat: detergent is automatic (no need to add your own).\nCorrect: D) せんざいは じどうで はいる\nKey info: せんざいは じどうで はいるので、いれなくてもいいですよ.",
+        "ja": "こたえは D：せんざいは じどうで はいる です。"
+      }
+    },
+    {
+      "id": "p4-q40",
+      "section": "listening",
+      "prompt": "きゃくは ぜんぶで いくら はらいますか。",
+      "context": "きゃく　：すみません、この おさらは いくらですか。\n  てんいん：ぜんぶ 100えんです。ぜいこみで 110えんですよ。\n  きゃく　：やすいですね！ この コップも 100えんですか。\n  てんいん：はい、みせの なかの ものは ぜんぶ 100えんです。\n  きゃく　：じゃあ、おさらを 3まいと、コップを 2つ ください。\n  てんいん：はい、ぜんぶで 5てん、ぜいこみで 550えんです。",
+      "options": [
+        {
+          "label": "A",
+          "text": "500えん"
+        },
+        {
+          "label": "B",
+          "text": "550えん"
+        },
+        {
+          "label": "C",
+          "text": "600えん"
+        },
+        {
+          "label": "D",
+          "text": "110えん"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Script: 3 plates + 2 cups = 5 items, all 100 yen each, with tax = 550 yen.\nCorrect: B) 550えん\nKey info: ぜんぶで 5てん、ぜいこみで 550えん.",
+        "ja": "こたえは B：550えん です。"
+      }
+    },
+    {
+      "id": "p4-q41",
+      "section": "listening",
+      "prompt": "テレビを かいたいです。なんかいに いきますか。",
+      "context": "「ほんじつも おこしくださいまして ありがとうございます。かくかいの ごあんないを\n    いたします。1かいは しょくひんかいで、ちかには レストランがいが ございます。\n    2かいは レディースファッション、3かいは メンズファッション、4かいは\n    こどもふくと おもちゃ、5かいは かでんと かぐで ございます。6かいには\n    ほんやと CDショップが ございます。\n    ただいま 2かいで レディースふくの 30パーセントオフ セールを おこなっております。\n    ぜひ おたちよりくださいませ。」",
+      "options": [
+        {
+          "label": "A",
+          "text": "1かい"
+        },
+        {
+          "label": "B",
+          "text": "3かい"
+        },
+        {
+          "label": "C",
+          "text": "4かい"
+        },
+        {
+          "label": "D",
+          "text": "5かい"
+        }
+      ],
+      "answer": "D",
+      "explanation": {
+        "en": "Script: Department store floor guide - appliances and furniture on 5th floor.\nTV is an appliance (かでん).\nCorrect: D) 5かい\nKey info: 5かいは かでんと かぐ (appliances and furniture). TV = かでん.",
+        "ja": "こたえは D：5かい です。"
+      }
+    },
+    {
+      "id": "p4-q42",
+      "section": "listening",
+      "prompt": "おしらせの ないようとして ただしいものは どれですか。",
+      "context": "「にゅうきょしゃの みなさまに おしらせいたします。らいしゅうの にちようび、\n    11がつ 15にちに ぼうさいくんれんを おこないます。じかんは ごぜん 10じから\n    11じまでです。ひなんばしょは マンションの まえの こうえんです。\n    かならず さんかしてください。さんかできない かたは、かんりしつに\n    れんらくしてください。ぼうさいずきんや すいとうを もってきてください。」",
+      "options": [
+        {
+          "label": "A",
+          "text": "かじの くんれんを する"
+        },
+        {
+          "label": "B",
+          "text": "ひなんばしょは マンションの なかの ホールである"
+        },
+        {
+          "label": "C",
+          "text": "さんかできなくても れんらくは しなくていい"
+        },
+        {
+          "label": "D",
+          "text": "ごぜん 10じに はじまる"
+        }
+      ],
+      "answer": "D",
+      "explanation": {
+        "en": "Script: Disaster drill at 10 AM on Sunday November 15.\nCorrect: D) ごぜん 10じに はじまる\nKey info: じかんは ごぜん 10じから 11じまで. A is wrong (evacuation drill not fire\ndrill), B is wrong (park, not hall), C is wrong (must contact if absent).",
+        "ja": "こたえは D：ごぜん 10じに はじまる です。"
+      }
+    },
+    {
+      "id": "p4-q43",
+      "section": "listening",
+      "prompt": "ぼうねんかいについて ただしいものは どれですか。",
+      "context": "「しゃいんの みなさまに おしらせです。ことしの ぼうねんかいを 12がつ 20にち\n    きんようびに おこないます。ばしょは えきまえの レストラン『さくら』です。\n    じかんは ごご 7じから 9じまでです。かいひは ひとり 3,000えんです。\n    のこりは かいしゃが はらいます。さんかしたい かたは 12がつ 10にちまでに\n    そうむぶの たなかさんに メールで れんらくしてください。」",
+      "options": [
+        {
+          "label": "A",
+          "text": "12がつ 10にちに おこなう"
+        },
+        {
+          "label": "B",
+          "text": "かいしゃの なかで おこなう"
+        },
+        {
+          "label": "C",
+          "text": "ひとり 3,000えん はらう"
+        },
+        {
+          "label": "D",
+          "text": "さんかしたい ひとは でんわで れんらくする"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "en": "Script: Year-end party costs 3,000 yen per person.\nCorrect: C) ひとり 3,000えん はらう\nKey info: かいひは ひとり 3,000えん. A is wrong (held on Dec 20, not 10),\nB is wrong (at a restaurant, not at the company), D is wrong (email, not phone).",
+        "ja": "こたえは C：ひとり 3,000えん はらう です。"
+      }
+    },
+    {
+      "id": "p4-q44",
+      "section": "listening",
+      "prompt": "このアナウンスで いっていることは なんですか。",
+      "context": "「きしょうちょうからの おしらせです。たいふう 15ごうが あすの ひる、\n    かんとうちほうに ちかづく みこみです。あすの ごごから よるにかけて、\n    つよい かぜと あめに なるでしょう。がいしゅつは できるだけ ひかえてください。\n    まどや ドアを しっかり しめてください。さいしんの じょうほうに ちゅういしてください。」",
+      "options": [
+        {
+          "label": "A",
+          "text": "じしんに ちゅういしてください"
+        },
+        {
+          "label": "B",
+          "text": "あしたは いちにちじゅう はれる"
+        },
+        {
+          "label": "C",
+          "text": "あしたの ごごから たいふうが くるので、きをつけてください"
+        },
+        {
+          "label": "D",
+          "text": "らいしゅう たいふうが くる"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "en": "Script: Typhoon approaching Kanto tomorrow afternoon. Avoid going out.\nCorrect: C) あしたの ごごから たいふうが くるので、きをつけてください\nKey info: あすの ひる かんとうちほうに ちかづく. がいしゅつは できるだけ\nひかえてください.",
+        "ja": "こたえは C：あしたの ごごから たいふうが くるので、きをつけてください です。"
+      }
+    },
+    {
+      "id": "p4-q45",
+      "section": "listening",
+      "prompt": "としょかんについて ただしいものは どれですか。",
+      "context": "「としょかんを ごりようの みなさまに おしらせいたします。としょかんは\n    12がつ 1にちから 1がつ 31にちまで、かいしゅうこうじの ため おやすみいたします。\n    こうじちゅうは ほんの かしだしが できません。いま かりている ほんは\n    11がつ 30にちまでに かえしてください。2がつ 1にちから、あたらしくなった\n    としょかんで おまちしております。」",
+      "options": [
+        {
+          "label": "A",
+          "text": "12がつ 1にちに あたらしい としょかんが あく"
+        },
+        {
+          "label": "B",
+          "text": "2かげつかん としょかんが しまる"
+        },
+        {
+          "label": "C",
+          "text": "こうじちゅうも ほんを かりることが できる"
+        },
+        {
+          "label": "D",
+          "text": "いま かりている ほんは いつ かえしても いい"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Script: Library closed Dec 1 to Jan 31 for renovation = 2 months.\nCorrect: B) 2かげつかん としょかんが しまる\nKey info: 12がつ 1にちから 1がつ 31にちまで おやすみ = 2 months. A is wrong\n(opens Feb 1), C is wrong (no lending during construction), D is wrong (return\nby Nov 30).\n\n\n  SECTION 4: どっかい (Reading Comprehension) Questions 46-60",
+        "ja": "こたえは B：2かげつかん としょかんが しまる です。"
+      }
+    },
+    {
+      "id": "p4-q46",
+      "section": "reading",
+      "prompt": "おわかれかいは いつ、どこで しますか。",
+      "context": "--- LINEグループ「ABC にほんご きょうしつ 3くみ」 ---\n\n  リン（14:02）\n  みなさん、マリアさんが らいげつ くにに かえることに なりました。\n  そこで、おわかれかいを したいと おもいます。\n\n  カルロス（14:05）\n  いいですね！ いつが いいですか。\n\n  リン（14:07）\n  マリアさんは 3がつ 20にちに かえるので、そのまえの しゅうまつは どうですか。\n  3がつ 15にち（どようび）か 16にち（にちようび）。\n\n  グエン（14:10）\n  15にちは しごとが あるので、16にちが いいです。\n\n  カルロス（14:12）\n  わたしは どちらでも だいじょうぶです。\n\n  リン（14:15）\n  じゃあ、16にちに しましょう。ばしょは えきまえの イタリアンレストランは\n  どうですか。マリアさんは イタリアりょうりが すきだと いっていました。\n\n  グエン（14:18）\n  さんせいです！",
+      "options": [
+        {
+          "label": "A",
+          "text": "3がつ 15にちに イタリアンレストランで"
+        },
+        {
+          "label": "B",
+          "text": "3がつ 16にちに イタリアンレストランで"
+        },
+        {
+          "label": "C",
+          "text": "3がつ 20にちに えきまえのみせで"
+        },
+        {
+          "label": "D",
+          "text": "3がつ 16にちに にほんごきょうしつで"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "LINE group: Farewell party on March 16 at the Italian restaurant near station.\nCorrect: B) 3がつ 16にちに イタリアンレストランで\nKey info: 16にちに しましょう + えきまえの イタリアンレストラン.",
+        "ja": "こたえは B：3がつ 16にちに イタリアンレストランで です。"
+      }
+    },
+    {
+      "id": "p4-q47",
+      "section": "reading",
+      "prompt": "ぶんかつで はらう ばあい、1かいに いくら はらいますか。",
+      "context": "--- メール ---\n\n  けん：じゅうみんぜいの おしらせ\n  さしだしにん：〇〇し やくしょ ぜいむか\n  あて：グエン・バン・ミン さま\n\n  グエン・バン・ミン さま\n\n  2025ねんどの じゅうみんぜいの のうぜいつうちしょを おおくりします。\n  きんがくは ねんがく 96,000えん です。\n  いっかつばらいか、4かいの ぶんかつばらいを えらぶことが できます。\n\n  ・いっかつばらい：6がつ 30にちまでに 96,000えん\n  ・ぶんかつばらい：6がつ、8がつ、10がつ、1がつの かくつき すえじつまでに\n                    かくかい 24,000えん\n\n  しはらいは ぎんこう、コンビニ、またはインターネットで できます。\n  きげんまでに しはらいを おねがいいたします。\n\n  〇〇し やくしょ ぜいむか",
+      "options": [
+        {
+          "label": "A",
+          "text": "96,000えん"
+        },
+        {
+          "label": "B",
+          "text": "48,000えん"
+        },
+        {
+          "label": "C",
+          "text": "32,000えん"
+        },
+        {
+          "label": "D",
+          "text": "24,000えん"
+        }
+      ],
+      "answer": "D",
+      "explanation": {
+        "en": "Tax notice: Split payment = 4 installments of 24,000 yen each.\nCorrect: D) 24,000えん\nKey info: ぶんかつばらい: かくかい 24,000えん (96,000 / 4 = 24,000).",
+        "ja": "こたえは D：24,000えん です。"
+      }
+    },
+    {
+      "id": "p4-q48",
+      "section": "reading",
+      "prompt": "パクさんは なにを しなければ なりませんか。",
+      "context": "--- ふざいれんらくひょう ---\n\n  おとどけにまいりましたが、おるすでしたので、おもちかえりしました。\n\n  にちじ：3がつ 10にち（げつ）14:30\n  おなまえ：パク ジフン さま\n  にもつの しゅるい：おてがみ・しょるい\n  さしだしにん：ABCかいしゃ\n\n  さいはいたつの ごよやくは、でんわ（0120-XXX-XXX）、\n  インターネット、または この ひょうのQRコードから できます。\n  ほかんきげん：3がつ 17にちまで\n  ほかんきげんを すぎますと、さしだしにんに かえします。",
+      "options": [
+        {
+          "label": "A",
+          "text": "3がつ 17にちまでに ABCかいしゃに いく"
+        },
+        {
+          "label": "B",
+          "text": "3がつ 17にちまでに さいはいたつを よやくする"
+        },
+        {
+          "label": "C",
+          "text": "3がつ 10にちまでに でんわする"
+        },
+        {
+          "label": "D",
+          "text": "ABCかいしゃに にもつを おくりかえす"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Missed delivery notice: Must arrange redelivery by March 17 (preservation\ndeadline).\nCorrect: B) 3がつ 17にちまでに さいはいたつを よやくする\nKey info: ほかんきげん：3がつ 17にちまで. Must arrange redelivery before then.",
+        "ja": "こたえは B：3がつ 17にちまでに さいはいたつを よやくする です。"
+      }
+    },
+    {
+      "id": "p4-q49",
+      "section": "reading",
+      "prompt": "このおしらせについて、ただしいものは どれですか。",
+      "context": "--- メッセージ ---\n\n  さくらにほんごがっこう せいとの みなさまへ\n\n  らいしゅうの もくようび（4がつ 10にち）に きまつテストを おこないます。\n  じかん：ごぜん 10じ～ 11じ 30ぷん\n  ばしょ：301きょうしつ（いつもの きょうしつとは ちがいます）\n  もちもの：えんぴつ、けしゴム、がくせいしょう\n\n  テストは もじ・ごい、ぶんぽう、どっかい、ちょうかいの 4つの パートです。\n  テストの けっかは 4がつ 17にちに はっぴょうします。\n  しつもんが ある ひとは じむしつまで きてください。",
+      "options": [
+        {
+          "label": "A",
+          "text": "テストは いつもの きょうしつで おこなう"
+        },
+        {
+          "label": "B",
+          "text": "テストは 3つの パートが ある"
+        },
+        {
+          "label": "C",
+          "text": "けっかは 4がつ 17にちに わかる"
+        },
+        {
+          "label": "D",
+          "text": "テストは ごご おこなう"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "en": "School notice: Test results announced on April 17.\nCorrect: C) けっかは 4がつ 17にちに わかる\nKey info: テストの けっかは 4がつ 17にちに はっぴょうします. A is wrong (room\n301, not usual room), B is wrong (4 parts), D is wrong (morning 10:00).",
+        "ja": "こたえは C：けっかは 4がつ 17にちに わかる です。"
+      }
+    },
+    {
+      "id": "p4-q50",
+      "section": "reading",
+      "prompt": "この ひとが こまったことは なんですか。",
+      "context": "--- SNSのとうこう ---\n\n  さくら はなこ 🌸  4がつ 2にち\n\n  きょう、うえのこうえんで おはなみを しました！\n  さくらが まんかいで、とても きれいでした。\n  みんなで おべんとうを たべながら、おはなみを たのしみました。\n  でも、ひとが おおくて、いいばしょを とるのが たいへんでした。\n  あさ 7じに いったのに、もう たくさんの ひとが いました。😅\n  らいねんは もっと はやく いかなきゃ！",
+      "options": [
+        {
+          "label": "A",
+          "text": "さくらが さいていなかった"
+        },
+        {
+          "label": "B",
+          "text": "おべんとうを わすれた"
+        },
+        {
+          "label": "C",
+          "text": "ひとが おおくて、ばしょを とるのが たいへんだった"
+        },
+        {
+          "label": "D",
+          "text": "あめが ふってしまった"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "en": "SNS post: Too many people, hard to find a good spot for hanami.\nCorrect: C) ひとが おおくて、ばしょを とるのが たいへんだった\nKey info: ひとが おおくて、いいばしょを とるのが たいへんでした.",
+        "ja": "こたえは C：ひとが おおくて、ばしょを とるのが たいへんだった です。"
+      }
+    },
+    {
+      "id": "p4-q51",
+      "section": "reading",
+      "prompt": "あたらしい せいふくについて ただしいものは どれですか。",
+      "context": "--- しゃないけいじばん ---\n\n  せいふくに ついての おしらせ\n\n  4がつ 1にちから、かいしゃの せいふくが あたらしく なります。\n  あたらしい せいふくは、じむしつで もらってください。\n\n  ・サイズ：S、M、L、LL\n  ・いろ：おとこ→あおいシャツ、おんな→しろいシャツ\n  ・ふるい せいふくは 4がつ 30にちまでに じむしつに かえしてください。\n  ・サイズが あわない ばあいは、1しゅうかん いないに じむしつに いってください。\n\n  なお、せいふくの いろや デザインを かえることは できません。\n\n  そうむぶ",
+      "options": [
+        {
+          "label": "A",
+          "text": "ふるい せいふくは すてても いい"
+        },
+        {
+          "label": "B",
+          "text": "いろは じぶんで えらべる"
+        },
+        {
+          "label": "C",
+          "text": "サイズが あわなければ こうかんできる"
+        },
+        {
+          "label": "D",
+          "text": "せいふくは かいしゃで かわなければならない"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "en": "Notice: New uniforms - if size doesn't fit, exchange within 1 week.\nCorrect: C) サイズが あわなければ こうかんできる\nKey info: サイズが あわない ばあいは、1しゅうかん いないに じむしつに いって\nください. A is wrong (return old ones), B is wrong (can't choose color),\nD is wrong (uniforms are provided free).",
+        "ja": "こたえは C：サイズが あわなければ こうかんできる です。"
+      }
+    },
+    {
+      "id": "p4-q52",
+      "section": "reading",
+      "prompt": "このメッセージについて ただしいものは どれですか。",
+      "context": "--- メッセージ ---\n\n  ほごしゃかいグループ「2ねん1くみ」\n\n  やまもとせんせい（9:00）\n  ほごしゃの みなさま、おはようございます。\n  らいしゅうの すいようび（5がつ 14にち）に じゅぎょうさんかんが あります。\n  じかん：ごぜん 10じ 30ぷん～ 11じ 30ぷん\n  そのあと、11じ 30ぷんから ほごしゃかいを おこないます。\n\n  おねがい：\n  ・くつは ふくろに いれて、おもちください。\n  ・くるまでの らいこうは ごえんりょください。\n  ・さんかできない かたは れんらくちょうで おしらせください。\n\n  よろしく おねがいいたします。",
+      "options": [
+        {
+          "label": "A",
+          "text": "くるまで がっこうに きても いい"
+        },
+        {
+          "label": "B",
+          "text": "じゅぎょうさんかんの あとに ほごしゃかいが ある"
+        },
+        {
+          "label": "C",
+          "text": "さんかできない ばあい、メールで れんらくする"
+        },
+        {
+          "label": "D",
+          "text": "くつは がっこうで かりることが できる"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Message: Class observation followed by parents' meeting.\nCorrect: B) じゅぎょうさんかんの あとに ほごしゃかいが ある\nKey info: 10:30-11:30 observation, then 11:30 parents' meeting. A is wrong\n(no cars), C is wrong (contact by れんらくちょう, not email), D is wrong.",
+        "ja": "こたえは B：じゅぎょうさんかんの あとに ほごしゃかいが ある です。"
+      }
+    },
+    {
+      "id": "p4-q53",
+      "section": "reading",
+      "prompt": "おみやげの おかしを かって、それから こどもに おもちゃを かいたいです。\n  どの かいに いきますか。",
+      "context": "--- デパート フロアマップ ---\n\n  7F ............. レストランがい\n  6F ............. ほんや・ぶんぼうぐ\n  5F ............. かぐ・インテリア\n  4F ............. こどもふく・おもちゃ\n  3F ............. メンズふく・くつ\n  2F ............. レディースふく・バッグ・アクセサリー\n  1F ............. けしょうひん・おかし・はなや\n  B1 ............. スーパー・デリカ\n\n  ※ エレベーターは 1Fと B1の あいだに あります。\n  ※ おてあらいは かくかいに あります。\n  ※ 4Fに あかちゃんやすめしつが あります。",
+      "options": [
+        {
+          "label": "A",
+          "text": "1Fと 5F"
+        },
+        {
+          "label": "B",
+          "text": "1Fと 4F"
+        },
+        {
+          "label": "C",
+          "text": "B1と 4F"
+        },
+        {
+          "label": "D",
+          "text": "2Fと 6F"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Floor map: Candy/sweets on 1F, toys on 4F.\nCorrect: B) 1Fと 4F\nKey info: 1F has おかし (sweets), 4F has おもちゃ (toys).",
+        "ja": "こたえは B：1Fと 4F です。"
+      }
+    },
+    {
+      "id": "p4-q54",
+      "section": "reading",
+      "prompt": "たて＋よこ＋たかさが 75cmで、おもさが 3kgの にもつを おくりたいです。\n  いくら かかりますか。",
+      "context": "--- ゆうびんきょく こづつみ りょうきん ---\n\n  ┌──────────────┬──────────┬──────────┬──────────┐\n  │  サイズ        │  おもさ    │  きんがく    │  にっすう    │\n  ├──────────────┼──────────┼──────────┼──────────┤\n  │  60サイズ      │  2kgまで   │  770えん    │  1～2にち    │\n  │  80サイズ      │  5kgまで   │  1,100えん  │  1～2にち    │\n  │  100サイズ     │  10kgまで  │  1,430えん  │  1～2にち    │\n  │  120サイズ     │  15kgまで  │  1,770えん  │  2～3にち    │\n  │  140サイズ     │  20kgまで  │  2,170えん  │  2～3にち    │\n  └──────────────┴──────────┴──────────┴──────────┘\n\n  ※ サイズ＝たて＋よこ＋たかさ（cm）\n  ※ おもさが サイズの じょうげんを こえるばあい、ひとつ うえの サイズに なります。",
+      "options": [
+        {
+          "label": "A",
+          "text": "770えん"
+        },
+        {
+          "label": "B",
+          "text": "1,100えん"
+        },
+        {
+          "label": "C",
+          "text": "1,430えん"
+        },
+        {
+          "label": "D",
+          "text": "1,770えん"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Postal rates: Size 75cm (fits in 80 size) but weight 3kg exceeds 60-size\nlimit (2kg), so it goes to 80 size = 1,100 yen.\nCorrect: B) 1,100えん\nKey info: 75cm = 80 size. Weight 3kg exceeds 60-size's 2kg limit, which also\nputs it at 80 size. 80 size = 1,100 yen.",
+        "ja": "こたえは B：1,100えん です。"
+      }
+    },
+    {
+      "id": "p4-q55",
+      "section": "reading",
+      "prompt": "いらなくなった ふるい シャツと、のみおわった ペットボトルを すてたいです。\n  それぞれ いつ だしますか。",
+      "context": "--- 〇〇し ごみの わけかた ガイド ---\n\n  【もえるごみ】（しゅうしゅうび：まいしゅう かようびと きんようび）\n    なまごみ、かみくず、いるい、かわせいひん\n\n  【もえないごみ】（しゅうしゅうび：だい2・だい4 すいようび）\n    ガラス、とうき、かなべ、きんぞく\n\n  【プラスチック】（しゅうしゅうび：まいしゅう もくようび）\n    ペットボトルの ふた、ビニールぶくろ、プラスチックようき\n\n  【しげんごみ】（しゅうしゅうび：まいしゅう すいようび）\n    しんぶんし、ざっし、ダンボール、かん、ペットボトル（ほんたい）\n\n  【そだいごみ】（よやくせい：でんわで よやく）\n    30cm いじょうの おおきい もの（かぐなど）\n\n  ※ あさ 8じまでに だしてください。",
+      "options": [
+        {
+          "label": "A",
+          "text": "シャツ→かようびか きんようび、ペットボトル→すいようび"
+        },
+        {
+          "label": "B",
+          "text": "シャツ→もくようび、ペットボトル→すいようび"
+        },
+        {
+          "label": "C",
+          "text": "シャツ→すいようび、ペットボトル→もくようび"
+        },
+        {
+          "label": "D",
+          "text": "シャツ→すいようび、ペットボトル→かようびか きんようび"
+        }
+      ],
+      "answer": "A",
+      "explanation": {
+        "en": "Garbage guide: Old shirt = clothing = もえるごみ (Tue/Fri). PET bottle body =\nしげんごみ (Wed).\nCorrect: A) シャツ→かようびか きんようび、ペットボトル→すいようび\nKey info: いるい (clothing) → もえるごみ (Tue/Fri). ペットボトル（ほんたい）→\nしげんごみ (Wed).",
+        "ja": "こたえは A：シャツ→かようびか きんようび、ペットボトル→すいようび です。"
+      }
+    },
+    {
+      "id": "p4-q56",
+      "section": "reading",
+      "prompt": "ひるまは しごとが あるので、よるしか いけません。りょうきんは いくらですか。",
+      "context": "--- 〇〇 じどうしゃがっこう スケジュール ---\n\n  ┌──────────────┬──────────────┬──────────────┐\n  │                │  ひるコース      │  よるコース      │\n  ├──────────────┼──────────────┼──────────────┤\n  │  きかん        │  4しゅうかん      │  6しゅうかん      │\n  │  じかん        │  まいにち 9:00-15:00│  かもくよう 18:00-21:00│\n  │  りょうきん    │  250,000えん      │  280,000えん      │\n  │  テスト        │  そつぎょうテスト  │  そつぎょうテスト  │\n  │  そうだん      │  にほんごOK      │  にほんごOK      │\n  └──────────────┴──────────────┴──────────────┘\n\n  ※ えいごの テキストも あります（+3,000えん）。\n  ※ にちようびは やすみです。",
+      "options": [
+        {
+          "label": "A",
+          "text": "250,000えん"
+        },
+        {
+          "label": "B",
+          "text": "253,000えん"
+        },
+        {
+          "label": "C",
+          "text": "280,000えん"
+        },
+        {
+          "label": "D",
+          "text": "283,000えん"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "en": "Driving school: Night course costs 280,000 yen.\nCorrect: C) 280,000えん\nKey info: よるコース: 280,000えん. The question just asks for the fee for the\nnight course (no mention of English textbook).",
+        "ja": "こたえは C：280,000えん です。"
+      }
+    },
+    {
+      "id": "p4-q57",
+      "section": "reading",
+      "prompt": "1さいの こどもに はしかの よぼうせっしゅを うけさせたいです。\n  なにが ひつようですか。",
+      "context": "--- こどもの よぼうせっしゅ スケジュール ---\n\n  ┌──────────────┬──────────────┬──────────────┐\n  │  ワクチン      │  たいしょう      │  ばしょ          │\n  ├──────────────┼──────────────┼──────────────┤\n  │  はしか        │  1さい           │  していびょういん  │\n  │  にほんのうえん│  3さい           │  していびょういん  │\n  │  インフルエンザ│  まいとし（10-12がつ）│  していびょういん│\n  │  BCG          │  5かげつ～8かげつ │  ほけんセンター    │\n  └──────────────┴──────────────┴──────────────┘\n\n  ※ よやくが ひつようです。\n  ※ ぼしけんこうてちょうを もってきてください。\n  ※ していびょういんの リストは しやくしょの HPを みてください。",
+      "options": [
+        {
+          "label": "A",
+          "text": "しやくしょに いって、もうしこむ"
+        },
+        {
+          "label": "B",
+          "text": "ほけんセンターに よやくする"
+        },
+        {
+          "label": "C",
+          "text": "していびょういんに よやくして、ぼしけんこうてちょうを もっていく"
+        },
+        {
+          "label": "D",
+          "text": "びょういんに いけば、よやくなしで うけられる"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "en": "Vaccine: Measles (はしか) for 1-year-old at a designated hospital with the\nmother-child health handbook.\nCorrect: C) していびょういんに よやくして、ぼしけんこうてちょうを もっていく\nKey info: はしか → 1さい → していびょういん. よやくが ひつよう + ぼしけんこう\nてちょうを もってきてください.",
+        "ja": "こたえは C：していびょういんに よやくして、ぼしけんこうてちょうを もっていく です。"
+      }
+    },
+    {
+      "id": "p4-q58",
+      "section": "reading",
+      "prompt": "へいじつの ひるまだけ つかいたいです。いちばん やすい プランは どれですか。\n  さいしょの つきに ぜんぶで いくら かかりますか。",
+      "context": "--- 〇〇スポーツジム かいいんプラン ---\n\n  ┌──────────────┬──────────┬──────────────────────┐\n  │  プラン        │  げつがく    │  りようじかん                │\n  ├──────────────┼──────────┼──────────────────────┤\n  │  フル          │  8,000えん  │  いつでもOK（6:00～23:00）    │\n  │  デイ          │  6,000えん  │  へいじつ 6:00～17:00          │\n  │  ナイト        │  5,000えん  │  まいにち 18:00～23:00        │\n  │  ウィークエンド│  4,000えん  │  どにち しゅくじつのみ        │\n  └──────────────┴──────────┴──────────────────────┘\n\n  ※ にゅうかいきん：5,000えん（すべてのプラン きょうつう）\n  ※ かぞくわりびき：2にんめから 10% OFF\n  ※ タオル レンタル：300えん/かい",
+      "options": [
+        {
+          "label": "A",
+          "text": "デイプラン、11,000えん"
+        },
+        {
+          "label": "B",
+          "text": "フルプラン、13,000えん"
+        },
+        {
+          "label": "C",
+          "text": "デイプラン、6,000えん"
+        },
+        {
+          "label": "D",
+          "text": "ナイトプラン、10,000えん"
+        }
+      ],
+      "answer": "A",
+      "explanation": {
+        "en": "Gym plans: Weekday daytime only = Day plan at 6,000 yen/month + 5,000 entry fee\n= 11,000 yen first month.\nCorrect: A) デイプラン、11,000えん\nKey info: デイ plan: 6,000円 (weekday 6:00-17:00) + にゅうかいきん 5,000円 =\n11,000円yen first month.",
+        "ja": "こたえは A：デイプラン、11,000えん です。"
+      }
+    },
+    {
+      "id": "p4-q59",
+      "section": "reading",
+      "prompt": "4にんぶん つくりたいです。たまごは いくつ いりますか。",
+      "context": "--- かんたん おやこどん レシピ ---\n\n  【ざいりょう（2にんぶん）】\n  ・とりにく............200g\n  ・たまねぎ............1/2こ\n  ・たまご..............3こ\n  ・ごはん..............どんぶり2はいぶん\n\n  【あじつけ】\n  ・しょうゆ............おおさじ 2\n  ・みりん..............おおさじ 2\n  ・さとう..............おおさじ 1\n  ・みず................100ml\n\n  【つくりかた】\n  ① たまねぎを うすく きる。とりにくを ひとくちサイズに きる。\n  ② なべに みず、しょうゆ、みりん、さとうを いれて、ひを つける。\n  ③ にたったら、たまねぎと とりにくを いれて、5ふん にる。\n  ④ たまごを わって、まぜてから、なべに いれる。\n  ⑤ たまごが はんじゅくに なったら、ごはんの うえに のせる。",
+      "options": [
+        {
+          "label": "A",
+          "text": "3こ"
+        },
+        {
+          "label": "B",
+          "text": "4こ"
+        },
+        {
+          "label": "C",
+          "text": "6こ"
+        },
+        {
+          "label": "D",
+          "text": "8こ"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "en": "Recipe: 2-person recipe uses 3 eggs. For 4 people, double it = 6 eggs.\nCorrect: C) 6こ\nKey info: 2にんぶん: たまご 3こ. 4にんぶん = 3 x 2 = 6こ.",
+        "ja": "こたえは C：6こ です。"
+      }
+    },
+    {
+      "id": "p4-q60",
+      "section": "reading",
+      "prompt": "〇〇えきから ☆☆えきまで、おとな 1にんと 8さいの こども 1にんで いきます。\n  きっぷは ぜんぶで いくらですか。",
+      "context": "--- でんしゃ ろせんず ---\n\n  〇〇えき ─── △△えき ─── □□えき ─── ☆☆えき ─── ◇◇えき\n              150えん      180えん      200えん      220えん\n                    （〇〇えきからの ねだん）\n\n  ※ こども（6さい～12さい）は おとなの はんがく（10えんみまん きりすて）\n  ※ 6さいみまんは むりょう（おとな1にんにつき こども2にんまで）\n  ※ ていきけん（1かげつ）：ふつうきっぷの 30ばい",
+      "options": [
+        {
+          "label": "A",
+          "text": "200えん"
+        },
+        {
+          "label": "B",
+          "text": "300えん"
+        },
+        {
+          "label": "C",
+          "text": "400えん"
+        },
+        {
+          "label": "D",
+          "text": "500えん"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "en": "Train fare: Adult from OO to Hoshi-Hoshi station = 200 yen. Child (8 years old)\n= half price = 100 yen. Total = 300 yen.\nCorrect: B) 300えん\nKey info: OO→☆☆ = 200円 (adult). Child (6-12) = half = 100円. Total = 300円.\n\n\n                         -- End of Answer Sheet --",
+        "ja": "こたえは B：300えん です。"
+      }
+    }
+  ]
+}

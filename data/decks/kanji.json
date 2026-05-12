@@ -1,0 +1,5786 @@
+{
+  "id": "kanji",
+  "title": "Kanji · かんじ",
+  "kind": "kanji",
+  "totalCards": 642,
+  "cards": [
+    {
+      "id": "k1",
+      "kanji": "名",
+      "reading": "な",
+      "example": "名前",
+      "exampleReading": "なまえ",
+      "lesson": 3,
+      "level": "starter"
+    },
+    {
+      "id": "k2",
+      "kanji": "前",
+      "reading": "まえ",
+      "example": "名前",
+      "exampleReading": "なまえ",
+      "lesson": 3,
+      "level": "starter"
+    },
+    {
+      "id": "k3",
+      "kanji": "国",
+      "reading": "くに",
+      "example": "国",
+      "exampleReading": "くに",
+      "lesson": 3,
+      "level": "starter"
+    },
+    {
+      "id": "k4",
+      "kanji": "私",
+      "reading": "わたし",
+      "example": "私",
+      "exampleReading": "わたし",
+      "lesson": 3,
+      "level": "starter"
+    },
+    {
+      "id": "k5",
+      "kanji": "父",
+      "reading": "ちち",
+      "example": "父",
+      "exampleReading": "ちち",
+      "lesson": 4,
+      "level": "starter"
+    },
+    {
+      "id": "k6",
+      "kanji": "母",
+      "reading": "はは",
+      "example": "母",
+      "exampleReading": "はは",
+      "lesson": 4,
+      "level": "starter"
+    },
+    {
+      "id": "k7",
+      "kanji": "子",
+      "reading": "こ",
+      "example": "子ども",
+      "exampleReading": "こども",
+      "lesson": 4,
+      "level": "starter"
+    },
+    {
+      "id": "k8",
+      "kanji": "日",
+      "reading": "*特別な読み方",
+      "example": "日本",
+      "exampleReading": "にほん",
+      "lesson": 4,
+      "level": "starter"
+    },
+    {
+      "id": "k9",
+      "kanji": "本",
+      "reading": "ホン",
+      "example": "日本",
+      "exampleReading": "にほん",
+      "lesson": 4,
+      "level": "starter"
+    },
+    {
+      "id": "k10",
+      "kanji": "水",
+      "reading": "みず",
+      "example": "水",
+      "exampleReading": "みず",
+      "lesson": 5,
+      "level": "starter"
+    },
+    {
+      "id": "k11",
+      "kanji": "食",
+      "reading": "た（べる）",
+      "example": "食べます",
+      "exampleReading": "たべます",
+      "lesson": 5,
+      "level": "starter"
+    },
+    {
+      "id": "k12",
+      "kanji": "飲",
+      "reading": "の（む）",
+      "example": "飲みます",
+      "exampleReading": "のみます",
+      "lesson": 5,
+      "level": "starter"
+    },
+    {
+      "id": "k13",
+      "kanji": "魚",
+      "reading": "さかな",
+      "example": "魚",
+      "exampleReading": "さかな",
+      "lesson": 6,
+      "level": "starter"
+    },
+    {
+      "id": "k14",
+      "kanji": "肉",
+      "reading": "ニク",
+      "example": "肉",
+      "exampleReading": "にく",
+      "lesson": 6,
+      "level": "starter"
+    },
+    {
+      "id": "k15",
+      "kanji": "好",
+      "reading": "す（き）",
+      "example": "好き（な）",
+      "exampleReading": "すき（な）",
+      "lesson": 6,
+      "level": "starter"
+    },
+    {
+      "id": "k16",
+      "kanji": "家",
+      "reading": "いえ",
+      "example": "家",
+      "exampleReading": "いえ",
+      "lesson": 7,
+      "level": "starter"
+    },
+    {
+      "id": "k17",
+      "kanji": "新",
+      "reading": "あたら（しい）",
+      "example": "新しい",
+      "exampleReading": "あたらしい",
+      "lesson": 7,
+      "level": "starter"
+    },
+    {
+      "id": "k18",
+      "kanji": "広",
+      "reading": "ひろ（い）",
+      "example": "広い",
+      "exampleReading": "ひろい",
+      "lesson": 7,
+      "level": "starter"
+    },
+    {
+      "id": "k19",
+      "kanji": "古",
+      "reading": "ふる（い）",
+      "example": "古い",
+      "exampleReading": "ふるい",
+      "lesson": 7,
+      "level": "starter"
+    },
+    {
+      "id": "k20",
+      "kanji": "上",
+      "reading": "うえ",
+      "example": "上",
+      "exampleReading": "うえ",
+      "lesson": 8,
+      "level": "starter"
+    },
+    {
+      "id": "k21",
+      "kanji": "下",
+      "reading": "した",
+      "example": "下",
+      "exampleReading": "した",
+      "lesson": 8,
+      "level": "starter"
+    },
+    {
+      "id": "k22",
+      "kanji": "中",
+      "reading": "なか",
+      "example": "中",
+      "exampleReading": "なか",
+      "lesson": 8,
+      "level": "starter"
+    },
+    {
+      "id": "k23",
+      "kanji": "月",
+      "reading": "ゲツ",
+      "example": "月",
+      "exampleReading": "げつ",
+      "lesson": 9,
+      "level": "starter"
+    },
+    {
+      "id": "k24",
+      "kanji": "火",
+      "reading": "カ",
+      "example": "火",
+      "exampleReading": "か",
+      "lesson": 9,
+      "level": "starter"
+    },
+    {
+      "id": "k25",
+      "kanji": "木",
+      "reading": "もく",
+      "example": "木",
+      "exampleReading": "もく",
+      "lesson": 9,
+      "level": "starter"
+    },
+    {
+      "id": "k26",
+      "kanji": "金",
+      "reading": "キン",
+      "example": "金",
+      "exampleReading": "きん",
+      "lesson": 9,
+      "level": "starter"
+    },
+    {
+      "id": "k27",
+      "kanji": "土",
+      "reading": "ド",
+      "example": "土",
+      "exampleReading": "ど",
+      "lesson": 9,
+      "level": "starter"
+    },
+    {
+      "id": "k28",
+      "kanji": "曜",
+      "reading": "ヨウ",
+      "example": "～曜日",
+      "exampleReading": "～ようび",
+      "lesson": 9,
+      "level": "starter"
+    },
+    {
+      "id": "k29",
+      "kanji": "朝",
+      "reading": "あさ",
+      "example": "朝",
+      "exampleReading": "あさ",
+      "lesson": 10,
+      "level": "starter"
+    },
+    {
+      "id": "k30",
+      "kanji": "昼",
+      "reading": "ひる",
+      "example": "昼",
+      "exampleReading": "ひる",
+      "lesson": 10,
+      "level": "starter"
+    },
+    {
+      "id": "k31",
+      "kanji": "夜",
+      "reading": "よる",
+      "example": "夜",
+      "exampleReading": "よる",
+      "lesson": 10,
+      "level": "starter"
+    },
+    {
+      "id": "k32",
+      "kanji": "時",
+      "reading": "ジ",
+      "example": "～時",
+      "exampleReading": "～じ",
+      "lesson": 10,
+      "level": "starter"
+    },
+    {
+      "id": "k33",
+      "kanji": "分",
+      "reading": "フン／ブン／プン",
+      "example": "～分",
+      "exampleReading": "～ふん",
+      "lesson": 10,
+      "level": "starter"
+    },
+    {
+      "id": "k34",
+      "kanji": "半",
+      "reading": "ハン",
+      "example": "～半",
+      "exampleReading": "～はん",
+      "lesson": 10,
+      "level": "starter"
+    },
+    {
+      "id": "k35",
+      "kanji": "枚",
+      "reading": "マイ",
+      "example": "～枚",
+      "exampleReading": "～まい",
+      "lesson": 10,
+      "level": "starter"
+    },
+    {
+      "id": "k36",
+      "kanji": "読",
+      "reading": "よ（む）",
+      "example": "読みます",
+      "exampleReading": "よみます",
+      "lesson": 11,
+      "level": "starter"
+    },
+    {
+      "id": "k37",
+      "kanji": "聞",
+      "reading": "き（く）",
+      "example": "聞きます",
+      "exampleReading": "ききます",
+      "lesson": 11,
+      "level": "starter"
+    },
+    {
+      "id": "k38",
+      "kanji": "見",
+      "reading": "み（る）",
+      "example": "見ます",
+      "exampleReading": "みます",
+      "lesson": 11,
+      "level": "starter"
+    },
+    {
+      "id": "k39",
+      "kanji": "友",
+      "reading": "とも",
+      "example": "友だち",
+      "exampleReading": "ともだち",
+      "lesson": 11,
+      "level": "starter"
+    },
+    {
+      "id": "k40",
+      "kanji": "何",
+      "reading": "なに",
+      "example": "何",
+      "exampleReading": "なに",
+      "lesson": 11,
+      "level": "starter"
+    },
+    {
+      "id": "k41",
+      "kanji": "年",
+      "reading": "ネン",
+      "example": "～年",
+      "exampleReading": "～ねん",
+      "lesson": 12,
+      "level": "starter"
+    },
+    {
+      "id": "k42",
+      "kanji": "今",
+      "reading": "*特別な読み方",
+      "example": "今日",
+      "exampleReading": "きょう",
+      "lesson": 12,
+      "level": "starter"
+    },
+    {
+      "id": "k43",
+      "kanji": "週",
+      "reading": "シュウ",
+      "example": "今週",
+      "exampleReading": "こんしゅう",
+      "lesson": 12,
+      "level": "starter"
+    },
+    {
+      "id": "k44",
+      "kanji": "度",
+      "reading": "ド",
+      "example": "今度",
+      "exampleReading": "こんど",
+      "lesson": 12,
+      "level": "starter"
+    },
+    {
+      "id": "k45",
+      "kanji": "東",
+      "reading": "ひがし",
+      "example": "東",
+      "exampleReading": "ひがし",
+      "lesson": 13,
+      "level": "starter"
+    },
+    {
+      "id": "k46",
+      "kanji": "西",
+      "reading": "にし",
+      "example": "西",
+      "exampleReading": "にし",
+      "lesson": 13,
+      "level": "starter"
+    },
+    {
+      "id": "k47",
+      "kanji": "南",
+      "reading": "みなみ",
+      "example": "南",
+      "exampleReading": "みなみ",
+      "lesson": 13,
+      "level": "starter"
+    },
+    {
+      "id": "k48",
+      "kanji": "北",
+      "reading": "きた",
+      "example": "北",
+      "exampleReading": "きた",
+      "lesson": 13,
+      "level": "starter"
+    },
+    {
+      "id": "k49",
+      "kanji": "会",
+      "reading": "カイ",
+      "example": "会社",
+      "exampleReading": "かいしゃ",
+      "lesson": 13,
+      "level": "starter"
+    },
+    {
+      "id": "k50",
+      "kanji": "社",
+      "reading": "シャ",
+      "example": "会社",
+      "exampleReading": "かいしゃ",
+      "lesson": 13,
+      "level": "starter"
+    },
+    {
+      "id": "k51",
+      "kanji": "来",
+      "reading": "く（る）／き（ます）",
+      "example": "来ます",
+      "exampleReading": "きます",
+      "lesson": 13,
+      "level": "starter"
+    },
+    {
+      "id": "k52",
+      "kanji": "行",
+      "reading": "い（く）",
+      "example": "行きます",
+      "exampleReading": "いきます",
+      "lesson": 13,
+      "level": "starter"
+    },
+    {
+      "id": "k53",
+      "kanji": "乗",
+      "reading": "の（る）",
+      "example": "乗ります",
+      "exampleReading": "のります",
+      "lesson": 13,
+      "level": "starter"
+    },
+    {
+      "id": "k54",
+      "kanji": "大",
+      "reading": "おお（きい）",
+      "example": "大きい",
+      "exampleReading": "おおきい",
+      "lesson": 14,
+      "level": "starter"
+    },
+    {
+      "id": "k55",
+      "kanji": "小",
+      "reading": "ちい（さい）",
+      "example": "小さい",
+      "exampleReading": "ちいさい",
+      "lesson": 14,
+      "level": "starter"
+    },
+    {
+      "id": "k56",
+      "kanji": "高",
+      "reading": "たか（い）",
+      "example": "高い",
+      "exampleReading": "たかい",
+      "lesson": 14,
+      "level": "starter"
+    },
+    {
+      "id": "k57",
+      "kanji": "低",
+      "reading": "ひく（い）",
+      "example": "低い",
+      "exampleReading": "ひくい",
+      "lesson": 14,
+      "level": "starter"
+    },
+    {
+      "id": "k58",
+      "kanji": "後",
+      "reading": "うし（ろ）",
+      "example": "後ろ",
+      "exampleReading": "うしろ",
+      "lesson": 14,
+      "level": "starter"
+    },
+    {
+      "id": "k59",
+      "kanji": "横",
+      "reading": "よこ",
+      "example": "横",
+      "exampleReading": "よこ",
+      "lesson": 14,
+      "level": "starter"
+    },
+    {
+      "id": "k60",
+      "kanji": "入",
+      "reading": "い（り）",
+      "example": "入口",
+      "exampleReading": "いりぐち",
+      "lesson": 15,
+      "level": "starter"
+    },
+    {
+      "id": "k61",
+      "kanji": "口",
+      "reading": "くち／ぐち",
+      "example": "入口",
+      "exampleReading": "いりぐち",
+      "lesson": 15,
+      "level": "starter"
+    },
+    {
+      "id": "k62",
+      "kanji": "出",
+      "reading": "で（る）",
+      "example": "出口",
+      "exampleReading": "でぐち",
+      "lesson": 15,
+      "level": "starter"
+    },
+    {
+      "id": "k63",
+      "kanji": "階",
+      "reading": "カイ",
+      "example": "～階",
+      "exampleReading": "～かい",
+      "lesson": 15,
+      "level": "starter"
+    },
+    {
+      "id": "k64",
+      "kanji": "押",
+      "reading": "お（す）",
+      "example": "押す",
+      "exampleReading": "おす",
+      "lesson": 15,
+      "level": "starter"
+    },
+    {
+      "id": "k65",
+      "kanji": "引",
+      "reading": "ひ（く）",
+      "example": "引く",
+      "exampleReading": "ひく",
+      "lesson": 15,
+      "level": "starter"
+    },
+    {
+      "id": "k66",
+      "kanji": "安",
+      "reading": "やす（い）",
+      "example": "安い",
+      "exampleReading": "やすい",
+      "lesson": 15,
+      "level": "starter"
+    },
+    {
+      "id": "k67",
+      "kanji": "一",
+      "reading": "イチ",
+      "example": "一",
+      "exampleReading": "いち",
+      "lesson": 16,
+      "level": "starter"
+    },
+    {
+      "id": "k68",
+      "kanji": "二",
+      "reading": "ニ",
+      "example": "二",
+      "exampleReading": "に",
+      "lesson": 16,
+      "level": "starter"
+    },
+    {
+      "id": "k69",
+      "kanji": "三",
+      "reading": "サン",
+      "example": "三",
+      "exampleReading": "さん",
+      "lesson": 16,
+      "level": "starter"
+    },
+    {
+      "id": "k70",
+      "kanji": "四",
+      "reading": "よん",
+      "example": "四",
+      "exampleReading": "よん",
+      "lesson": 16,
+      "level": "starter"
+    },
+    {
+      "id": "k71",
+      "kanji": "五",
+      "reading": "ゴ",
+      "example": "五",
+      "exampleReading": "ご",
+      "lesson": 16,
+      "level": "starter"
+    },
+    {
+      "id": "k72",
+      "kanji": "六",
+      "reading": "ロク",
+      "example": "六",
+      "exampleReading": "ろく",
+      "lesson": 16,
+      "level": "starter"
+    },
+    {
+      "id": "k73",
+      "kanji": "七",
+      "reading": "なな",
+      "example": "七",
+      "exampleReading": "なな",
+      "lesson": 16,
+      "level": "starter"
+    },
+    {
+      "id": "k74",
+      "kanji": "八",
+      "reading": "ハチ",
+      "example": "八",
+      "exampleReading": "はち",
+      "lesson": 16,
+      "level": "starter"
+    },
+    {
+      "id": "k75",
+      "kanji": "九",
+      "reading": "キュウ",
+      "example": "九",
+      "exampleReading": "きゅう",
+      "lesson": 16,
+      "level": "starter"
+    },
+    {
+      "id": "k76",
+      "kanji": "十",
+      "reading": "ジュウ",
+      "example": "十",
+      "exampleReading": "じゅう",
+      "lesson": 16,
+      "level": "starter"
+    },
+    {
+      "id": "k77",
+      "kanji": "百",
+      "reading": "ヒャク",
+      "example": "百",
+      "exampleReading": "ひゃく",
+      "lesson": 17,
+      "level": "starter"
+    },
+    {
+      "id": "k78",
+      "kanji": "千",
+      "reading": "セン",
+      "example": "千",
+      "exampleReading": "せん",
+      "lesson": 17,
+      "level": "starter"
+    },
+    {
+      "id": "k79",
+      "kanji": "万",
+      "reading": "マン",
+      "example": "万",
+      "exampleReading": "まん",
+      "lesson": 17,
+      "level": "starter"
+    },
+    {
+      "id": "k80",
+      "kanji": "円",
+      "reading": "エン",
+      "example": "～円",
+      "exampleReading": "～えん",
+      "lesson": 17,
+      "level": "starter"
+    },
+    {
+      "id": "k81",
+      "kanji": "休",
+      "reading": "やす（み）",
+      "example": "休み",
+      "exampleReading": "やすみ",
+      "lesson": 17,
+      "level": "starter"
+    },
+    {
+      "id": "k82",
+      "kanji": "映",
+      "reading": "エイ",
+      "example": "映画",
+      "exampleReading": "えいが",
+      "lesson": 17,
+      "level": "starter"
+    },
+    {
+      "id": "k83",
+      "kanji": "画",
+      "reading": "ガ",
+      "example": "映画",
+      "exampleReading": "えいが",
+      "lesson": 17,
+      "level": "starter"
+    },
+    {
+      "id": "k84",
+      "kanji": "語",
+      "reading": "ゴ",
+      "example": "日本語",
+      "exampleReading": "にほんご",
+      "lesson": 17,
+      "level": "starter"
+    },
+    {
+      "id": "k85",
+      "kanji": "勉",
+      "reading": "ベン",
+      "example": "勉強します",
+      "exampleReading": "べんきょうします",
+      "lesson": 17,
+      "level": "starter"
+    },
+    {
+      "id": "k86",
+      "kanji": "強",
+      "reading": "キョウ",
+      "example": "勉強します",
+      "exampleReading": "べんきょうします",
+      "lesson": 17,
+      "level": "starter"
+    },
+    {
+      "id": "k87",
+      "kanji": "買",
+      "reading": "か（う）",
+      "example": "買います",
+      "exampleReading": "かいます",
+      "lesson": 17,
+      "level": "starter"
+    },
+    {
+      "id": "k88",
+      "kanji": "温",
+      "reading": "オン",
+      "example": "温泉",
+      "exampleReading": "おんせん",
+      "lesson": 18,
+      "level": "starter"
+    },
+    {
+      "id": "k89",
+      "kanji": "泉",
+      "reading": "セン",
+      "example": "温泉",
+      "exampleReading": "おんせん",
+      "lesson": 18,
+      "level": "starter"
+    },
+    {
+      "id": "k90",
+      "kanji": "予",
+      "reading": "ヨ",
+      "example": "予定",
+      "exampleReading": "よてい",
+      "lesson": 18,
+      "level": "starter"
+    },
+    {
+      "id": "k91",
+      "kanji": "定",
+      "reading": "テイ",
+      "example": "予定",
+      "exampleReading": "よてい",
+      "lesson": 18,
+      "level": "starter"
+    },
+    {
+      "id": "k92",
+      "kanji": "旅",
+      "reading": "リョ",
+      "example": "旅行します",
+      "exampleReading": "りょこうします",
+      "lesson": 18,
+      "level": "starter"
+    },
+    {
+      "id": "k93",
+      "kanji": "学",
+      "reading": "ガク",
+      "example": "学生",
+      "exampleReading": "がくせい",
+      "lesson": 1,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k94",
+      "kanji": "生",
+      "reading": "セイ",
+      "example": "学生",
+      "exampleReading": "がくせい",
+      "lesson": 1,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k95",
+      "kanji": "校",
+      "reading": "コウ",
+      "example": "学校",
+      "exampleReading": "がっこう",
+      "lesson": 1,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k96",
+      "kanji": "活",
+      "reading": "カツ",
+      "example": "生活",
+      "exampleReading": "せいかつ",
+      "lesson": 1,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k97",
+      "kanji": "去",
+      "reading": "キョ",
+      "example": "去年",
+      "exampleReading": "きょねん",
+      "lesson": 1,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k98",
+      "kanji": "先",
+      "reading": "セン",
+      "example": "先週",
+      "exampleReading": "せんしゅう",
+      "lesson": 1,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k99",
+      "kanji": "仕",
+      "reading": "シ",
+      "example": "仕事",
+      "exampleReading": "しごと",
+      "lesson": 1,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k100",
+      "kanji": "事",
+      "reading": "こと／ごと",
+      "example": "仕事",
+      "exampleReading": "しごと",
+      "lesson": 1,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k101",
+      "kanji": "元",
+      "reading": "ゲン",
+      "example": "元気（な）",
+      "exampleReading": "げんき（な）",
+      "lesson": 1,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k102",
+      "kanji": "気",
+      "reading": "キ",
+      "example": "元気（な）",
+      "exampleReading": "げんき（な）",
+      "lesson": 1,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k103",
+      "kanji": "忙",
+      "reading": "いそが（しい）",
+      "example": "忙しい",
+      "exampleReading": "いそがしい",
+      "lesson": 1,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k104",
+      "kanji": "働",
+      "reading": "はたら（く）",
+      "example": "働く",
+      "exampleReading": "はたらく",
+      "lesson": 1,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k105",
+      "kanji": "作",
+      "reading": "つく（る）",
+      "example": "作る",
+      "exampleReading": "つくる",
+      "lesson": 1,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k106",
+      "kanji": "人",
+      "reading": "ひと",
+      "example": "人",
+      "exampleReading": "ひと",
+      "lesson": 2,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k107",
+      "kanji": "犬",
+      "reading": "いぬ",
+      "example": "犬",
+      "exampleReading": "いぬ",
+      "lesson": 2,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k108",
+      "kanji": "族",
+      "reading": "ゾク",
+      "example": "家族",
+      "exampleReading": "かぞく",
+      "lesson": 2,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k109",
+      "kanji": "夕",
+      "reading": "ゆう",
+      "example": "夕方",
+      "exampleReading": "ゆうがた",
+      "lesson": 2,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k110",
+      "kanji": "方",
+      "reading": "かた／がた",
+      "example": "夕方",
+      "exampleReading": "ゆうがた",
+      "lesson": 2,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k111",
+      "kanji": "英",
+      "reading": "エイ",
+      "example": "英語",
+      "exampleReading": "えいご",
+      "lesson": 2,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k112",
+      "kanji": "音",
+      "reading": "オン",
+      "example": "音楽",
+      "exampleReading": "おんがく",
+      "lesson": 2,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k113",
+      "kanji": "楽",
+      "reading": "ガク",
+      "example": "音楽",
+      "exampleReading": "おんがく",
+      "lesson": 2,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k114",
+      "kanji": "習",
+      "reading": "なら（う）",
+      "example": "習う",
+      "exampleReading": "ならう",
+      "lesson": 2,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k115",
+      "kanji": "話",
+      "reading": "はな（す）",
+      "example": "話す",
+      "exampleReading": "はなす",
+      "lesson": 2,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k116",
+      "kanji": "季",
+      "reading": "キ",
+      "example": "季節",
+      "exampleReading": "きせつ",
+      "lesson": 3,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k117",
+      "kanji": "節",
+      "reading": "セツ",
+      "example": "季節",
+      "exampleReading": "きせつ",
+      "lesson": 3,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k118",
+      "kanji": "春",
+      "reading": "はる",
+      "example": "春",
+      "exampleReading": "はる",
+      "lesson": 3,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k119",
+      "kanji": "夏",
+      "reading": "なつ",
+      "example": "夏",
+      "exampleReading": "なつ",
+      "lesson": 3,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k120",
+      "kanji": "秋",
+      "reading": "あき",
+      "example": "秋",
+      "exampleReading": "あき",
+      "lesson": 3,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k121",
+      "kanji": "冬",
+      "reading": "ふゆ",
+      "example": "冬",
+      "exampleReading": "ふゆ",
+      "lesson": 3,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k122",
+      "kanji": "花",
+      "reading": "はな",
+      "example": "花",
+      "exampleReading": "はな",
+      "lesson": 3,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k123",
+      "kanji": "同",
+      "reading": "おな（じ）",
+      "example": "同じ",
+      "exampleReading": "おなじ",
+      "lesson": 3,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k124",
+      "kanji": "暑",
+      "reading": "あつ（い）",
+      "example": "暑い",
+      "exampleReading": "あつい",
+      "lesson": 3,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k125",
+      "kanji": "寒",
+      "reading": "さむ（い）",
+      "example": "寒い",
+      "exampleReading": "さむい",
+      "lesson": 3,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k126",
+      "kanji": "天",
+      "reading": "テン",
+      "example": "天気",
+      "exampleReading": "てんき",
+      "lesson": 4,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k127",
+      "kanji": "晴",
+      "reading": "は（れ）",
+      "example": "晴れ",
+      "exampleReading": "はれ",
+      "lesson": 4,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k128",
+      "kanji": "雨",
+      "reading": "あめ",
+      "example": "雨",
+      "exampleReading": "あめ",
+      "lesson": 4,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k129",
+      "kanji": "雪",
+      "reading": "ゆき",
+      "example": "雪",
+      "exampleReading": "ゆき",
+      "lesson": 4,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k130",
+      "kanji": "風",
+      "reading": "かぜ",
+      "example": "風",
+      "exampleReading": "かぜ",
+      "lesson": 4,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k131",
+      "kanji": "昨",
+      "reading": "*特別な読み方",
+      "example": "昨日",
+      "exampleReading": "きのう",
+      "lesson": 4,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k132",
+      "kanji": "明",
+      "reading": "*特別な読み方",
+      "example": "明日",
+      "exampleReading": "あした",
+      "lesson": 4,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k133",
+      "kanji": "毎",
+      "reading": "マイ",
+      "example": "毎日",
+      "exampleReading": "まいにち",
+      "lesson": 4,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k134",
+      "kanji": "町",
+      "reading": "まち",
+      "example": "町",
+      "exampleReading": "まち",
+      "lesson": 5,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k135",
+      "kanji": "店",
+      "reading": "みせ",
+      "example": "店",
+      "exampleReading": "みせ",
+      "lesson": 5,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k136",
+      "kanji": "堂",
+      "reading": "ドウ",
+      "example": "食堂",
+      "exampleReading": "しょくどう",
+      "lesson": 5,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k137",
+      "kanji": "便",
+      "reading": "ベン",
+      "example": "便利（な）",
+      "exampleReading": "べんり（な）",
+      "lesson": 5,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k138",
+      "kanji": "利",
+      "reading": "リ",
+      "example": "便利（な）",
+      "exampleReading": "べんり（な）",
+      "lesson": 5,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k139",
+      "kanji": "不",
+      "reading": "フ",
+      "example": "不便（な）",
+      "exampleReading": "ふべん（な）",
+      "lesson": 5,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k140",
+      "kanji": "静",
+      "reading": "しず（か）",
+      "example": "静か（な）",
+      "exampleReading": "しずか（な）",
+      "lesson": 5,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k141",
+      "kanji": "有",
+      "reading": "ユウ",
+      "example": "有名（な）",
+      "exampleReading": "ゆうめい（な）",
+      "lesson": 5,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k142",
+      "kanji": "多",
+      "reading": "おお（い）",
+      "example": "多い",
+      "exampleReading": "おおい",
+      "lesson": 5,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k143",
+      "kanji": "少",
+      "reading": "すく（ない）",
+      "example": "少ない",
+      "exampleReading": "すくない",
+      "lesson": 5,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k144",
+      "kanji": "遠",
+      "reading": "とお（い）",
+      "example": "遠い",
+      "exampleReading": "とおい",
+      "lesson": 5,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k145",
+      "kanji": "道",
+      "reading": "みち",
+      "example": "道",
+      "exampleReading": "みち",
+      "lesson": 6,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k146",
+      "kanji": "公",
+      "reading": "コウ",
+      "example": "公園",
+      "exampleReading": "こうえん",
+      "lesson": 6,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k147",
+      "kanji": "園",
+      "reading": "エン",
+      "example": "公園",
+      "exampleReading": "こうえん",
+      "lesson": 6,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k148",
+      "kanji": "銀",
+      "reading": "ギン",
+      "example": "銀行",
+      "exampleReading": "ぎんこう",
+      "lesson": 6,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k149",
+      "kanji": "寺",
+      "reading": "てら",
+      "example": "お寺",
+      "exampleReading": "おてら",
+      "lesson": 6,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k150",
+      "kanji": "神",
+      "reading": "ジン",
+      "example": "神社",
+      "exampleReading": "じんじゃ",
+      "lesson": 6,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k151",
+      "kanji": "右",
+      "reading": "みぎ",
+      "example": "右",
+      "exampleReading": "みぎ",
+      "lesson": 6,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k152",
+      "kanji": "左",
+      "reading": "ひだり",
+      "example": "左",
+      "exampleReading": "ひだり",
+      "lesson": 6,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k153",
+      "kanji": "近",
+      "reading": "ちか（い）",
+      "example": "近く",
+      "exampleReading": "ちかく",
+      "lesson": 6,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k154",
+      "kanji": "車",
+      "reading": "くるま",
+      "example": "車",
+      "exampleReading": "くるま",
+      "lesson": 6,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k155",
+      "kanji": "送",
+      "reading": "おく（る）",
+      "example": "送る",
+      "exampleReading": "おくる",
+      "lesson": 6,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k156",
+      "kanji": "間",
+      "reading": "カン",
+      "example": "時間",
+      "exampleReading": "じかん",
+      "lesson": 7,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k157",
+      "kanji": "場",
+      "reading": "ば",
+      "example": "場所",
+      "exampleReading": "ばしょ",
+      "lesson": 7,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k158",
+      "kanji": "所",
+      "reading": "ショ",
+      "example": "場所",
+      "exampleReading": "ばしょ",
+      "lesson": 7,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k159",
+      "kanji": "駅",
+      "reading": "えき",
+      "example": "駅",
+      "exampleReading": "えき",
+      "lesson": 7,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k160",
+      "kanji": "受",
+      "reading": "う（ける）",
+      "example": "受付",
+      "exampleReading": "うけつけ",
+      "lesson": 7,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k161",
+      "kanji": "付",
+      "reading": "つ（ける）",
+      "example": "受付",
+      "exampleReading": "うけつけ",
+      "lesson": 7,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k162",
+      "kanji": "門",
+      "reading": "モン",
+      "example": "門",
+      "exampleReading": "もん",
+      "lesson": 7,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k163",
+      "kanji": "電",
+      "reading": "デン",
+      "example": "電車",
+      "exampleReading": "でんしゃ",
+      "lesson": 7,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k164",
+      "kanji": "待",
+      "reading": "ま（つ）",
+      "example": "待つ",
+      "exampleReading": "まつ",
+      "lesson": 7,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k165",
+      "kanji": "止",
+      "reading": "と（まる）",
+      "example": "止まる",
+      "exampleReading": "とまる",
+      "lesson": 7,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k166",
+      "kanji": "着",
+      "reading": "つ（く）",
+      "example": "着く",
+      "exampleReading": "つく",
+      "lesson": 7,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k167",
+      "kanji": "急",
+      "reading": "いそ（ぐ）",
+      "example": "急ぐ",
+      "exampleReading": "いそぐ",
+      "lesson": 7,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k168",
+      "kanji": "博",
+      "reading": "ハク",
+      "example": "博物館",
+      "exampleReading": "はくぶつかん",
+      "lesson": 8,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k169",
+      "kanji": "物",
+      "reading": "ブツ",
+      "example": "博物館",
+      "exampleReading": "はくぶつかん",
+      "lesson": 8,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k170",
+      "kanji": "館",
+      "reading": "カン",
+      "example": "博物館",
+      "exampleReading": "はくぶつかん",
+      "lesson": 8,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k171",
+      "kanji": "動",
+      "reading": "ドウ",
+      "example": "動物園",
+      "exampleReading": "どうぶつえん",
+      "lesson": 8,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k172",
+      "kanji": "試",
+      "reading": "シ",
+      "example": "試合",
+      "exampleReading": "しあい",
+      "lesson": 8,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k173",
+      "kanji": "合",
+      "reading": "あい",
+      "example": "試合",
+      "exampleReading": "しあい",
+      "lesson": 8,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k174",
+      "kanji": "難",
+      "reading": "むずか（しい）",
+      "example": "難しい",
+      "exampleReading": "むずかしい",
+      "lesson": 8,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k175",
+      "kanji": "登",
+      "reading": "のぼ（る）",
+      "example": "登る",
+      "exampleReading": "のぼる",
+      "lesson": 8,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k176",
+      "kanji": "練",
+      "reading": "レン",
+      "example": "練習",
+      "exampleReading": "れんしゅう",
+      "lesson": 9,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k177",
+      "kanji": "漢",
+      "reading": "カン",
+      "example": "漢字",
+      "exampleReading": "かんじ",
+      "lesson": 9,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k178",
+      "kanji": "字",
+      "reading": "ジ",
+      "example": "漢字",
+      "exampleReading": "かんじ",
+      "lesson": 9,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k179",
+      "kanji": "無",
+      "reading": "ム",
+      "example": "無料",
+      "exampleReading": "むりょう",
+      "lesson": 9,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k180",
+      "kanji": "料",
+      "reading": "リョウ",
+      "example": "無料",
+      "exampleReading": "むりょう",
+      "lesson": 9,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k181",
+      "kanji": "言",
+      "reading": "い（う）",
+      "example": "言う",
+      "exampleReading": "いう",
+      "lesson": 9,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k182",
+      "kanji": "書",
+      "reading": "か（く）",
+      "example": "書く",
+      "exampleReading": "かく",
+      "lesson": 9,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k183",
+      "kanji": "貸",
+      "reading": "か（す）",
+      "example": "貸す",
+      "exampleReading": "かす",
+      "lesson": 9,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k184",
+      "kanji": "教",
+      "reading": "おし（える）",
+      "example": "教える",
+      "exampleReading": "おしえる",
+      "lesson": 9,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k185",
+      "kanji": "説",
+      "reading": "セツ",
+      "example": "説明する",
+      "exampleReading": "せつめいする",
+      "lesson": 9,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k186",
+      "kanji": "午",
+      "reading": "ゴ",
+      "example": "午前",
+      "exampleReading": "ごぜん",
+      "lesson": 10,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k187",
+      "kanji": "科",
+      "reading": "カ",
+      "example": "教科書",
+      "exampleReading": "きょうかしょ",
+      "lesson": 10,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k188",
+      "kanji": "室",
+      "reading": "シツ",
+      "example": "教室",
+      "exampleReading": "きょうしつ",
+      "lesson": 10,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k189",
+      "kanji": "全",
+      "reading": "ゼン",
+      "example": "全部",
+      "exampleReading": "ぜんぶ",
+      "lesson": 10,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k190",
+      "kanji": "部",
+      "reading": "ブ",
+      "example": "全部",
+      "exampleReading": "ぜんぶ",
+      "lesson": 10,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k191",
+      "kanji": "回",
+      "reading": "カイ",
+      "example": "～回",
+      "exampleReading": "～かい",
+      "lesson": 10,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k192",
+      "kanji": "参",
+      "reading": "サン",
+      "example": "参加する",
+      "exampleReading": "さんかする",
+      "lesson": 10,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k193",
+      "kanji": "加",
+      "reading": "カ",
+      "example": "参加する",
+      "exampleReading": "さんかする",
+      "lesson": 10,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k194",
+      "kanji": "用",
+      "reading": "ヨウ",
+      "example": "用意する",
+      "exampleReading": "よういする",
+      "lesson": 10,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k195",
+      "kanji": "意",
+      "reading": "イ",
+      "example": "用意する",
+      "exampleReading": "よういする",
+      "lesson": 10,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k196",
+      "kanji": "茶",
+      "reading": "チャ",
+      "example": "お茶",
+      "exampleReading": "おちゃ",
+      "lesson": 11,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k197",
+      "kanji": "酒",
+      "reading": "さけ",
+      "example": "お酒",
+      "exampleReading": "おさけ",
+      "lesson": 11,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k198",
+      "kanji": "材",
+      "reading": "ザイ",
+      "example": "材料",
+      "exampleReading": "ざいりょう",
+      "lesson": 11,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k199",
+      "kanji": "野",
+      "reading": "ヤ",
+      "example": "野菜",
+      "exampleReading": "やさい",
+      "lesson": 11,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k200",
+      "kanji": "菜",
+      "reading": "サイ",
+      "example": "野菜",
+      "exampleReading": "やさい",
+      "lesson": 11,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k201",
+      "kanji": "牛",
+      "reading": "ギュウ",
+      "example": "牛肉",
+      "exampleReading": "ぎゅうにく",
+      "lesson": 11,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k202",
+      "kanji": "豚",
+      "reading": "ぶた",
+      "example": "豚肉",
+      "exampleReading": "ぶたにく",
+      "lesson": 11,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k203",
+      "kanji": "皿",
+      "reading": "さら",
+      "example": "皿",
+      "exampleReading": "さら",
+      "lesson": 11,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k204",
+      "kanji": "売",
+      "reading": "う（る）",
+      "example": "売る",
+      "exampleReading": "うる",
+      "lesson": 11,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k205",
+      "kanji": "持",
+      "reading": "も（つ）",
+      "example": "持って行く",
+      "exampleReading": "もっていく",
+      "lesson": 11,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k206",
+      "kanji": "卵",
+      "reading": "たまご",
+      "example": "卵",
+      "exampleReading": "たまご",
+      "lesson": 12,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k207",
+      "kanji": "理",
+      "reading": "リ",
+      "example": "料理",
+      "exampleReading": "りょうり",
+      "lesson": 12,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k208",
+      "kanji": "湯",
+      "reading": "ゆ",
+      "example": "お湯",
+      "exampleReading": "おゆ",
+      "lesson": 12,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k209",
+      "kanji": "調",
+      "reading": "チョウ",
+      "example": "調理方法",
+      "exampleReading": "ちょうりほうほう",
+      "lesson": 12,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k210",
+      "kanji": "法",
+      "reading": "ホウ",
+      "example": "調理方法",
+      "exampleReading": "ちょうりほうほう",
+      "lesson": 12,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k211",
+      "kanji": "味",
+      "reading": "あじ",
+      "example": "味",
+      "exampleReading": "あじ",
+      "lesson": 12,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k212",
+      "kanji": "甘",
+      "reading": "あま（い）",
+      "example": "甘い",
+      "exampleReading": "あまい",
+      "lesson": 12,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k213",
+      "kanji": "辛",
+      "reading": "から（い）",
+      "example": "辛い",
+      "exampleReading": "からい",
+      "lesson": 12,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k214",
+      "kanji": "苦",
+      "reading": "にが（い）",
+      "example": "苦手（な）",
+      "exampleReading": "にがて（な）",
+      "lesson": 12,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k215",
+      "kanji": "手",
+      "reading": "て",
+      "example": "苦手（な）",
+      "exampleReading": "にがて（な）",
+      "lesson": 12,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k216",
+      "kanji": "機",
+      "reading": "キ",
+      "example": "コピー機",
+      "exampleReading": "こぴーき",
+      "lesson": 13,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k217",
+      "kanji": "数",
+      "reading": "スウ",
+      "example": "数字",
+      "exampleReading": "すうじ",
+      "lesson": 13,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k218",
+      "kanji": "机",
+      "reading": "つくえ",
+      "example": "机",
+      "exampleReading": "つくえ",
+      "lesson": 13,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k219",
+      "kanji": "都",
+      "reading": "ツ",
+      "example": "都合",
+      "exampleReading": "つごう",
+      "lesson": 13,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k220",
+      "kanji": "悪",
+      "reading": "わる（い）",
+      "example": "悪い",
+      "exampleReading": "わるい",
+      "lesson": 13,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k221",
+      "kanji": "使",
+      "reading": "つか（う）",
+      "example": "使う",
+      "exampleReading": "つかう",
+      "lesson": 13,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k222",
+      "kanji": "終",
+      "reading": "お（わる）",
+      "example": "終わる",
+      "exampleReading": "おわる",
+      "lesson": 13,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k223",
+      "kanji": "願",
+      "reading": "ねが（う）",
+      "example": "お願いします",
+      "exampleReading": "おねがいします",
+      "lesson": 13,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k224",
+      "kanji": "氏",
+      "reading": "シ",
+      "example": "氏名",
+      "exampleReading": "しめい",
+      "lesson": 14,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k225",
+      "kanji": "由",
+      "reading": "ユウ",
+      "example": "理由",
+      "exampleReading": "りゆう",
+      "lesson": 14,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k226",
+      "kanji": "連",
+      "reading": "レン",
+      "example": "連絡先",
+      "exampleReading": "れんらくさき",
+      "lesson": 14,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k227",
+      "kanji": "絡",
+      "reading": "ラク",
+      "example": "連絡先",
+      "exampleReading": "れんらくさき",
+      "lesson": 14,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k228",
+      "kanji": "別",
+      "reading": "ベツ",
+      "example": "別に",
+      "exampleReading": "べつに",
+      "lesson": 14,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k229",
+      "kanji": "早",
+      "reading": "はや（い）",
+      "example": "早く",
+      "exampleReading": "はやく",
+      "lesson": 14,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k230",
+      "kanji": "吸",
+      "reading": "す（う）",
+      "example": "吸う",
+      "exampleReading": "すう",
+      "lesson": 14,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k231",
+      "kanji": "取",
+      "reading": "と（る）",
+      "example": "取る",
+      "exampleReading": "とる",
+      "lesson": 14,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k232",
+      "kanji": "帰",
+      "reading": "かえ（る）",
+      "example": "帰る",
+      "exampleReading": "かえる",
+      "lesson": 14,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k233",
+      "kanji": "伝",
+      "reading": "つた（える）",
+      "example": "伝える",
+      "exampleReading": "つたえる",
+      "lesson": 14,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k234",
+      "kanji": "熱",
+      "reading": "ネツ",
+      "example": "熱",
+      "exampleReading": "ねつ",
+      "lesson": 15,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k235",
+      "kanji": "薬",
+      "reading": "くすり",
+      "example": "薬",
+      "exampleReading": "くすり",
+      "lesson": 15,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k236",
+      "kanji": "病",
+      "reading": "ビョウ",
+      "example": "病気",
+      "exampleReading": "びょうき",
+      "lesson": 15,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k237",
+      "kanji": "院",
+      "reading": "イン",
+      "example": "病院",
+      "exampleReading": "びょういん",
+      "lesson": 15,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k238",
+      "kanji": "医",
+      "reading": "イ",
+      "example": "医者",
+      "exampleReading": "いしゃ",
+      "lesson": 15,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k239",
+      "kanji": "者",
+      "reading": "シャ",
+      "example": "医者",
+      "exampleReading": "いしゃ",
+      "lesson": 15,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k240",
+      "kanji": "住",
+      "reading": "ジュウ",
+      "example": "住所",
+      "exampleReading": "じゅうしょ",
+      "lesson": 15,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k241",
+      "kanji": "才",
+      "reading": "サイ",
+      "example": "～才",
+      "exampleReading": "～さい",
+      "lesson": 15,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k242",
+      "kanji": "痛",
+      "reading": "いた（い）",
+      "example": "痛い",
+      "exampleReading": "いたい",
+      "lesson": 15,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k243",
+      "kanji": "眠",
+      "reading": "ねむ（い）",
+      "example": "眠い",
+      "exampleReading": "ねむい",
+      "lesson": 15,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k244",
+      "kanji": "寝",
+      "reading": "ね（る）",
+      "example": "寝る",
+      "exampleReading": "ねる",
+      "lesson": 15,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k245",
+      "kanji": "記",
+      "reading": "キ",
+      "example": "記入する",
+      "exampleReading": "きにゅうする",
+      "lesson": 15,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k246",
+      "kanji": "体",
+      "reading": "からだ",
+      "example": "体",
+      "exampleReading": "からだ",
+      "lesson": 16,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k247",
+      "kanji": "顔",
+      "reading": "かお",
+      "example": "顔",
+      "exampleReading": "かお",
+      "lesson": 16,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k248",
+      "kanji": "目",
+      "reading": "め",
+      "example": "目",
+      "exampleReading": "め",
+      "lesson": 16,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k249",
+      "kanji": "耳",
+      "reading": "みみ",
+      "example": "耳",
+      "exampleReading": "みみ",
+      "lesson": 16,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k250",
+      "kanji": "頭",
+      "reading": "あたま",
+      "example": "頭",
+      "exampleReading": "あたま",
+      "lesson": 16,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k251",
+      "kanji": "足",
+      "reading": "あし",
+      "example": "足",
+      "exampleReading": "あし",
+      "lesson": 16,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k252",
+      "kanji": "起",
+      "reading": "お（きる）",
+      "example": "起きる",
+      "exampleReading": "おきる",
+      "lesson": 16,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k253",
+      "kanji": "歩",
+      "reading": "ある（く）",
+      "example": "歩く",
+      "exampleReading": "あるく",
+      "lesson": 16,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k254",
+      "kanji": "走",
+      "reading": "はし（る）",
+      "example": "走る",
+      "exampleReading": "はしる",
+      "lesson": 16,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k255",
+      "kanji": "運",
+      "reading": "ウン",
+      "example": "運動する",
+      "exampleReading": "うんどうする",
+      "lesson": 16,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k256",
+      "kanji": "兄",
+      "reading": "あに",
+      "example": "兄",
+      "exampleReading": "あに",
+      "lesson": 17,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k257",
+      "kanji": "姉",
+      "reading": "あね",
+      "example": "姉",
+      "exampleReading": "あね",
+      "lesson": 17,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k258",
+      "kanji": "弟",
+      "reading": "おとうと",
+      "example": "弟",
+      "exampleReading": "おとうと",
+      "lesson": 17,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k259",
+      "kanji": "妹",
+      "reading": "いもうと",
+      "example": "妹",
+      "exampleReading": "いもうと",
+      "lesson": 17,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k260",
+      "kanji": "夫",
+      "reading": "おっと",
+      "example": "夫",
+      "exampleReading": "おっと",
+      "lesson": 17,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k261",
+      "kanji": "妻",
+      "reading": "つま",
+      "example": "妻",
+      "exampleReading": "つま",
+      "lesson": 17,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k262",
+      "kanji": "両",
+      "reading": "リョウ",
+      "example": "両親",
+      "exampleReading": "りょうしん",
+      "lesson": 17,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k263",
+      "kanji": "親",
+      "reading": "シン",
+      "example": "両親",
+      "exampleReading": "りょうしん",
+      "lesson": 17,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k264",
+      "kanji": "男",
+      "reading": "おとこ",
+      "example": "男の子",
+      "exampleReading": "おとこのこ",
+      "lesson": 18,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k265",
+      "kanji": "女",
+      "reading": "おんな",
+      "example": "女の子",
+      "exampleReading": "おんなのこ",
+      "lesson": 18,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k266",
+      "kanji": "祝",
+      "reading": "いわ（う）",
+      "example": "お祝い",
+      "exampleReading": "おいわい",
+      "lesson": 18,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k267",
+      "kanji": "誕",
+      "reading": "タン",
+      "example": "誕生日",
+      "exampleReading": "たんじょうび",
+      "lesson": 18,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k268",
+      "kanji": "結",
+      "reading": "ケツ／ケッ",
+      "example": "結婚",
+      "exampleReading": "けっこん",
+      "lesson": 18,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k269",
+      "kanji": "婚",
+      "reading": "コン",
+      "example": "結婚",
+      "exampleReading": "けっこん",
+      "lesson": 18,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k270",
+      "kanji": "計",
+      "reading": "ケイ",
+      "example": "時計",
+      "exampleReading": "とけい",
+      "lesson": 18,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k271",
+      "kanji": "幸",
+      "reading": "しあわ（せ）",
+      "example": "幸せ（な）",
+      "exampleReading": "しあわせ（な）",
+      "lesson": 18,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k272",
+      "kanji": "思",
+      "reading": "おも（う）",
+      "example": "思う",
+      "exampleReading": "おもう",
+      "lesson": 18,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k273",
+      "kanji": "選",
+      "reading": "えら（ぶ）",
+      "example": "選ぶ",
+      "exampleReading": "えらぶ",
+      "lesson": 18,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k274",
+      "kanji": "格",
+      "reading": "カク",
+      "example": "合格する",
+      "exampleReading": "ごうかくする",
+      "lesson": 18,
+      "level": "elementary-1"
+    },
+    {
+      "id": "k275",
+      "kanji": "山",
+      "reading": "やま",
+      "example": "山",
+      "exampleReading": "やま",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k276",
+      "kanji": "川",
+      "reading": "かわ",
+      "example": "川",
+      "exampleReading": "かわ",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k277",
+      "kanji": "海",
+      "reading": "うみ",
+      "example": "海",
+      "exampleReading": "うみ",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k278",
+      "kanji": "島",
+      "reading": "しま",
+      "example": "島",
+      "exampleReading": "しま",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k279",
+      "kanji": "森",
+      "reading": "もり",
+      "example": "森",
+      "exampleReading": "もり",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k280",
+      "kanji": "客",
+      "reading": "キャク",
+      "example": "客",
+      "exampleReading": "きゃく",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k281",
+      "kanji": "観",
+      "reading": "カン",
+      "example": "観光地",
+      "exampleReading": "かんこうち",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k282",
+      "kanji": "光",
+      "reading": "コウ",
+      "example": "観光地",
+      "exampleReading": "かんこうち",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k283",
+      "kanji": "地",
+      "reading": "チ",
+      "example": "観光地",
+      "exampleReading": "かんこうち",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k284",
+      "kanji": "経",
+      "reading": "ケイ",
+      "example": "経験",
+      "exampleReading": "けいけん",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k285",
+      "kanji": "験",
+      "reading": "ケン",
+      "example": "経験",
+      "exampleReading": "けいけん",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k286",
+      "kanji": "写",
+      "reading": "シャ",
+      "example": "写真",
+      "exampleReading": "しゃしん",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k287",
+      "kanji": "真",
+      "reading": "シン",
+      "example": "写真",
+      "exampleReading": "しゃしん",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k288",
+      "kanji": "歌",
+      "reading": "うた",
+      "example": "歌",
+      "exampleReading": "うた",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k289",
+      "kanji": "長",
+      "reading": "なが（い）",
+      "example": "長い",
+      "exampleReading": "ながい",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k290",
+      "kanji": "短",
+      "reading": "みじか（い）",
+      "example": "短い",
+      "exampleReading": "みじかい",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k291",
+      "kanji": "立",
+      "reading": "た（つ）",
+      "example": "立つ",
+      "exampleReading": "たつ",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k292",
+      "kanji": "泣",
+      "reading": "な（く）",
+      "example": "泣く",
+      "exampleReading": "なく",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k293",
+      "kanji": "注",
+      "reading": "チュウ",
+      "example": "注文",
+      "exampleReading": "ちゅうもん",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k294",
+      "kanji": "文",
+      "reading": "モン",
+      "example": "注文",
+      "exampleReading": "ちゅうもん",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k295",
+      "kanji": "約",
+      "reading": "ヤク",
+      "example": "予約",
+      "exampleReading": "よやく",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k296",
+      "kanji": "番",
+      "reading": "バン",
+      "example": "電話番号",
+      "exampleReading": "でんわばんごう",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k297",
+      "kanji": "号",
+      "reading": "ゴウ",
+      "example": "電話番号",
+      "exampleReading": "でんわばんごう",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k298",
+      "kanji": "様",
+      "reading": "さま",
+      "example": "～様",
+      "exampleReading": "～さま",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k299",
+      "kanji": "飯",
+      "reading": "ハン",
+      "example": "ご飯",
+      "exampleReading": "ごはん",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k300",
+      "kanji": "乳",
+      "reading": "ニュウ",
+      "example": "牛乳",
+      "exampleReading": "ぎゅうにゅう",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k301",
+      "kanji": "禁",
+      "reading": "キン",
+      "example": "禁煙",
+      "exampleReading": "きんえん",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k302",
+      "kanji": "煙",
+      "reading": "エン",
+      "example": "禁煙",
+      "exampleReading": "きんえん",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k303",
+      "kanji": "自",
+      "reading": "ジ",
+      "example": "自由",
+      "exampleReading": "じゆう",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k304",
+      "kanji": "塩",
+      "reading": "しお",
+      "example": "塩",
+      "exampleReading": "しお",
+      "lesson": 4,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k305",
+      "kanji": "油",
+      "reading": "あぶら",
+      "example": "油",
+      "exampleReading": "あぶら",
+      "lesson": 4,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k306",
+      "kanji": "量",
+      "reading": "リョウ",
+      "example": "量",
+      "exampleReading": "りょう",
+      "lesson": 4,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k307",
+      "kanji": "屋",
+      "reading": "や",
+      "example": "～屋",
+      "exampleReading": "～や",
+      "lesson": 4,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k308",
+      "kanji": "満",
+      "reading": "マン",
+      "example": "満足（な）",
+      "exampleReading": "まんぞく（な）",
+      "lesson": 4,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k309",
+      "kanji": "切",
+      "reading": "き（る）",
+      "example": "切る",
+      "exampleReading": "きる",
+      "lesson": 4,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k310",
+      "kanji": "焼",
+      "reading": "や（く）",
+      "example": "焼く",
+      "exampleReading": "やく",
+      "lesson": 4,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k311",
+      "kanji": "然",
+      "reading": "ゼン",
+      "example": "自然",
+      "exampleReading": "しぜん",
+      "lesson": 5,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k312",
+      "kanji": "交",
+      "reading": "コウ",
+      "example": "交通",
+      "exampleReading": "こうつう",
+      "lesson": 5,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k313",
+      "kanji": "通",
+      "reading": "ツウ",
+      "example": "交通",
+      "exampleReading": "こうつう",
+      "lesson": 5,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k314",
+      "kanji": "船",
+      "reading": "ふね",
+      "example": "船",
+      "exampleReading": "ふね",
+      "lesson": 5,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k315",
+      "kanji": "転",
+      "reading": "テン",
+      "example": "自転車",
+      "exampleReading": "じてんしゃ",
+      "lesson": 5,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k316",
+      "kanji": "京",
+      "reading": "キョウ",
+      "example": "東京",
+      "exampleReading": "とうきょう",
+      "lesson": 5,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k317",
+      "kanji": "遊",
+      "reading": "あそ（ぶ）",
+      "example": "遊ぶ",
+      "exampleReading": "あそぶ",
+      "lesson": 5,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k318",
+      "kanji": "発",
+      "reading": "ハツ／パツ",
+      "example": "出発する",
+      "exampleReading": "しゅっぱつする",
+      "lesson": 5,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k319",
+      "kanji": "故",
+      "reading": "コ",
+      "example": "事故",
+      "exampleReading": "じこ",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k320",
+      "kanji": "障",
+      "reading": "ショウ",
+      "example": "故障",
+      "exampleReading": "こしょう",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k321",
+      "kanji": "指",
+      "reading": "シ",
+      "example": "指定席",
+      "exampleReading": "していせき",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k322",
+      "kanji": "席",
+      "reading": "セキ",
+      "example": "指定席",
+      "exampleReading": "していせき",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k323",
+      "kanji": "末",
+      "reading": "マツ",
+      "example": "週末",
+      "exampleReading": "しゅうまつ",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k324",
+      "kanji": "絵",
+      "reading": "エ",
+      "example": "絵",
+      "exampleReading": "え",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k325",
+      "kanji": "空",
+      "reading": "そら",
+      "example": "空",
+      "exampleReading": "そら",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k326",
+      "kanji": "泳",
+      "reading": "およ（ぐ）",
+      "example": "泳ぐ",
+      "exampleReading": "およぐ",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k327",
+      "kanji": "到",
+      "reading": "トウ",
+      "example": "到着する",
+      "exampleReading": "とうちゃくする",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k328",
+      "kanji": "知",
+      "reading": "し（らせる）",
+      "example": "お知らせ",
+      "exampleReading": "おしらせ",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k329",
+      "kanji": "工",
+      "reading": "コウ",
+      "example": "工事",
+      "exampleReading": "こうじ",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k330",
+      "kanji": "条",
+      "reading": "ジョウ",
+      "example": "条件",
+      "exampleReading": "じょうけん",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k331",
+      "kanji": "件",
+      "reading": "ケン",
+      "example": "条件",
+      "exampleReading": "じょうけん",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k332",
+      "kanji": "以",
+      "reading": "イ",
+      "example": "～以上",
+      "exampleReading": "～いじょう",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k333",
+      "kanji": "開",
+      "reading": "ひら（く）",
+      "example": "開く",
+      "exampleReading": "ひらく",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k334",
+      "kanji": "産",
+      "reading": "サン",
+      "example": "生産する",
+      "exampleReading": "せいさんする",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k335",
+      "kanji": "世",
+      "reading": "セ",
+      "example": "世界",
+      "exampleReading": "せかい",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k336",
+      "kanji": "界",
+      "reading": "カイ",
+      "example": "世界",
+      "exampleReading": "せかい",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k337",
+      "kanji": "際",
+      "reading": "サイ",
+      "example": "国際交流",
+      "exampleReading": "こくさいこうりゅう",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k338",
+      "kanji": "流",
+      "reading": "リュウ",
+      "example": "国際交流",
+      "exampleReading": "こくさいこうりゅう",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k339",
+      "kanji": "紙",
+      "reading": "かみ",
+      "example": "紙",
+      "exampleReading": "かみ",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k340",
+      "kanji": "始",
+      "reading": "はじ（まる）",
+      "example": "始まる",
+      "exampleReading": "はじまる",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k341",
+      "kanji": "申",
+      "reading": "もう（す）",
+      "example": "申し込む",
+      "exampleReading": "もうしこむ",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k342",
+      "kanji": "込",
+      "reading": "こ（む）",
+      "example": "申し込む",
+      "exampleReading": "もうしこむ",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k343",
+      "kanji": "化",
+      "reading": "カ",
+      "example": "文化",
+      "exampleReading": "ぶんか",
+      "lesson": 9,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k344",
+      "kanji": "祭",
+      "reading": "まつ（り）",
+      "example": "祭り",
+      "exampleReading": "まつり",
+      "lesson": 9,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k345",
+      "kanji": "正",
+      "reading": "ショウ",
+      "example": "正月",
+      "exampleReading": "しょうがつ",
+      "lesson": 9,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k346",
+      "kanji": "式",
+      "reading": "シキ",
+      "example": "～式",
+      "exampleReading": "～しき",
+      "lesson": 9,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k347",
+      "kanji": "米",
+      "reading": "こめ",
+      "example": "米",
+      "exampleReading": "こめ",
+      "lesson": 9,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k348",
+      "kanji": "特",
+      "reading": "トク",
+      "example": "特別（な）",
+      "exampleReading": "とくべつ（な）",
+      "lesson": 9,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k349",
+      "kanji": "服",
+      "reading": "フク",
+      "example": "服",
+      "exampleReading": "ふく",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k350",
+      "kanji": "袋",
+      "reading": "ふくろ",
+      "example": "袋",
+      "exampleReading": "ふくろ",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k351",
+      "kanji": "員",
+      "reading": "イン",
+      "example": "全員",
+      "exampleReading": "ぜんいん",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k352",
+      "kanji": "慣",
+      "reading": "カン",
+      "example": "習慣",
+      "exampleReading": "しゅうかん",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k353",
+      "kanji": "普",
+      "reading": "フ",
+      "example": "普通",
+      "exampleReading": "ふつう",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k354",
+      "kanji": "暗",
+      "reading": "くら（い）",
+      "example": "暗い",
+      "exampleReading": "くらい",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k355",
+      "kanji": "怒",
+      "reading": "おこ（る）",
+      "example": "怒る",
+      "exampleReading": "おこる",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k356",
+      "kanji": "色",
+      "reading": "いろ",
+      "example": "色",
+      "exampleReading": "いろ",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k357",
+      "kanji": "赤",
+      "reading": "あか",
+      "example": "赤",
+      "exampleReading": "あか",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k358",
+      "kanji": "青",
+      "reading": "あお",
+      "example": "青",
+      "exampleReading": "あお",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k359",
+      "kanji": "黒",
+      "reading": "くろ",
+      "example": "黒",
+      "exampleReading": "くろ",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k360",
+      "kanji": "白",
+      "reading": "しろ",
+      "example": "白",
+      "exampleReading": "しろ",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k361",
+      "kanji": "性",
+      "reading": "セイ",
+      "example": "女性",
+      "exampleReading": "じょせい",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k362",
+      "kanji": "営",
+      "reading": "エイ",
+      "example": "営業する",
+      "exampleReading": "えいぎょうする",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k363",
+      "kanji": "業",
+      "reading": "ギョウ",
+      "example": "営業する",
+      "exampleReading": "えいぎょうする",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k364",
+      "kanji": "案",
+      "reading": "アン",
+      "example": "案内する",
+      "exampleReading": "あんないする",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k365",
+      "kanji": "内",
+      "reading": "ナイ",
+      "example": "案内する",
+      "exampleReading": "あんないする",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k366",
+      "kanji": "商",
+      "reading": "ショウ",
+      "example": "商品",
+      "exampleReading": "しょうひん",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k367",
+      "kanji": "品",
+      "reading": "ヒン",
+      "example": "商品",
+      "exampleReading": "しょうひん",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k368",
+      "kanji": "値",
+      "reading": "ね",
+      "example": "値段",
+      "exampleReading": "ねだん",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k369",
+      "kanji": "段",
+      "reading": "ダン",
+      "example": "値段",
+      "exampleReading": "ねだん",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k370",
+      "kanji": "価",
+      "reading": "カ",
+      "example": "価格",
+      "exampleReading": "かかく",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k371",
+      "kanji": "消",
+      "reading": "ショウ",
+      "example": "消費税",
+      "exampleReading": "しょうひぜい",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k372",
+      "kanji": "費",
+      "reading": "ヒ",
+      "example": "消費税",
+      "exampleReading": "しょうひぜい",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k373",
+      "kanji": "税",
+      "reading": "ゼイ",
+      "example": "消費税",
+      "exampleReading": "しょうひぜい",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k374",
+      "kanji": "重",
+      "reading": "おも（い）",
+      "example": "重い",
+      "exampleReading": "おもい",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k375",
+      "kanji": "軽",
+      "reading": "かる（い）",
+      "example": "軽い",
+      "exampleReading": "かるい",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k376",
+      "kanji": "変",
+      "reading": "か（わる）",
+      "example": "変わる",
+      "exampleReading": "かわる",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k377",
+      "kanji": "市",
+      "reading": "シ",
+      "example": "市",
+      "exampleReading": "し",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k378",
+      "kanji": "図",
+      "reading": "ト",
+      "example": "図書館",
+      "exampleReading": "としょかん",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k379",
+      "kanji": "具",
+      "reading": "グ",
+      "example": "道具",
+      "exampleReading": "どうぐ",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k380",
+      "kanji": "点",
+      "reading": "テン",
+      "example": "～点",
+      "exampleReading": "～てん",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k381",
+      "kanji": "必",
+      "reading": "ヒツ",
+      "example": "必要（な）",
+      "exampleReading": "ひつよう（な）",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k382",
+      "kanji": "要",
+      "reading": "ヨウ",
+      "example": "必要（な）",
+      "exampleReading": "ひつよう（な）",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k383",
+      "kanji": "借",
+      "reading": "か（りる）",
+      "example": "借りる",
+      "exampleReading": "かりる",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k384",
+      "kanji": "返",
+      "reading": "かえ（す）",
+      "example": "返す",
+      "exampleReading": "かえす",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k385",
+      "kanji": "閉",
+      "reading": "し（まる）",
+      "example": "閉まる",
+      "exampleReading": "しまる",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k386",
+      "kanji": "外",
+      "reading": "ガイ",
+      "example": "外国",
+      "exampleReading": "がいこく",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k387",
+      "kanji": "情",
+      "reading": "ジョウ",
+      "example": "情報",
+      "exampleReading": "じょうほう",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k388",
+      "kanji": "報",
+      "reading": "ホウ",
+      "example": "情報",
+      "exampleReading": "じょうほう",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k389",
+      "kanji": "相",
+      "reading": "ソウ",
+      "example": "相談",
+      "exampleReading": "そうだん",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k390",
+      "kanji": "談",
+      "reading": "ダン",
+      "example": "相談",
+      "exampleReading": "そうだん",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k391",
+      "kanji": "質",
+      "reading": "シツ",
+      "example": "質問",
+      "exampleReading": "しつもん",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k392",
+      "kanji": "問",
+      "reading": "モン",
+      "example": "質問",
+      "exampleReading": "しつもん",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k393",
+      "kanji": "窓",
+      "reading": "まど",
+      "example": "窓口",
+      "exampleReading": "まどぐち",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k394",
+      "kanji": "郵",
+      "reading": "ユウ",
+      "example": "郵便局",
+      "exampleReading": "ゆうびんきょく",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k395",
+      "kanji": "局",
+      "reading": "キョク",
+      "example": "郵便局",
+      "exampleReading": "ゆうびんきょく",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k396",
+      "kanji": "洗",
+      "reading": "あら（う）",
+      "example": "洗う",
+      "exampleReading": "あらう",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k397",
+      "kanji": "力",
+      "reading": "リョク",
+      "example": "入力する",
+      "exampleReading": "にゅうりょくする",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k398",
+      "kanji": "危",
+      "reading": "キ",
+      "example": "危険",
+      "exampleReading": "きけん",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k399",
+      "kanji": "険",
+      "reading": "ケン",
+      "example": "危険",
+      "exampleReading": "きけん",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k400",
+      "kanji": "種",
+      "reading": "シュ",
+      "example": "～種類",
+      "exampleReading": "～しゅるい",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k401",
+      "kanji": "類",
+      "reading": "ルイ",
+      "example": "～種類",
+      "exampleReading": "～しゅるい",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k402",
+      "kanji": "捨",
+      "reading": "す（てる）",
+      "example": "捨てる",
+      "exampleReading": "すてる",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k403",
+      "kanji": "燃",
+      "reading": "も（える）",
+      "example": "燃える",
+      "exampleReading": "もえる",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k404",
+      "kanji": "決",
+      "reading": "き（める）",
+      "example": "決める",
+      "exampleReading": "きめる",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k405",
+      "kanji": "設",
+      "reading": "セツ／セッ",
+      "example": "設定する",
+      "exampleReading": "せっていする",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k406",
+      "kanji": "震",
+      "reading": "シン",
+      "example": "地震",
+      "exampleReading": "じしん",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k407",
+      "kanji": "台",
+      "reading": "タイ",
+      "example": "台風",
+      "exampleReading": "たいふう",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k408",
+      "kanji": "声",
+      "reading": "こえ",
+      "example": "声",
+      "exampleReading": "こえ",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k409",
+      "kanji": "心",
+      "reading": "シン",
+      "example": "心配（な）",
+      "exampleReading": "しんぱい（な）",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k410",
+      "kanji": "配",
+      "reading": "ハイ／パイ",
+      "example": "心配（な）",
+      "exampleReading": "しんぱい（な）",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k411",
+      "kanji": "集",
+      "reading": "あつ（まる）",
+      "example": "集まる",
+      "exampleReading": "あつまる",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k412",
+      "kanji": "進",
+      "reading": "すす（む）",
+      "example": "進む",
+      "exampleReading": "すすむ",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k413",
+      "kanji": "最",
+      "reading": "サイ",
+      "example": "最近",
+      "exampleReading": "さいきん",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k414",
+      "kanji": "授",
+      "reading": "ジュ",
+      "example": "授業",
+      "exampleReading": "じゅぎょう",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k415",
+      "kanji": "題",
+      "reading": "ダイ",
+      "example": "問題",
+      "exampleReading": "もんだい",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k416",
+      "kanji": "増",
+      "reading": "ふ（える）",
+      "example": "増える",
+      "exampleReading": "ふえる",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k417",
+      "kanji": "笑",
+      "reading": "わら（う）",
+      "example": "笑う",
+      "exampleReading": "わらう",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k418",
+      "kanji": "労",
+      "reading": "ロウ",
+      "example": "苦労する",
+      "exampleReading": "くろうする",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k419",
+      "kanji": "希",
+      "reading": "キ",
+      "example": "希望",
+      "exampleReading": "きぼう",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k420",
+      "kanji": "望",
+      "reading": "ボウ",
+      "example": "希望",
+      "exampleReading": "きぼう",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k421",
+      "kanji": "募",
+      "reading": "ボ",
+      "example": "募集",
+      "exampleReading": "ぼしゅう",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k422",
+      "kanji": "建",
+      "reading": "た（てる）",
+      "example": "建てる",
+      "exampleReading": "たてる",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k423",
+      "kanji": "続",
+      "reading": "つづ（ける）",
+      "example": "続ける",
+      "exampleReading": "つづける",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k424",
+      "kanji": "考",
+      "reading": "かんが（える）",
+      "example": "考える",
+      "exampleReading": "かんがえる",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k425",
+      "kanji": "役",
+      "reading": "ヤク",
+      "example": "役に立つ",
+      "exampleReading": "やくにたつ",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k426",
+      "kanji": "卒",
+      "reading": "ソツ",
+      "example": "卒業する",
+      "exampleReading": "そつぎょうする",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k427",
+      "kanji": "留",
+      "reading": "リュウ",
+      "example": "留学する",
+      "exampleReading": "りゅうがくする",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k428",
+      "kanji": "球",
+      "reading": "キュウ",
+      "example": "野球",
+      "exampleReading": "やきゅう",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k429",
+      "kanji": "応",
+      "reading": "オウ",
+      "example": "応援",
+      "exampleReading": "おうえん",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k430",
+      "kanji": "援",
+      "reading": "エン",
+      "example": "応援",
+      "exampleReading": "おうえん",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k431",
+      "kanji": "束",
+      "reading": "ソク",
+      "example": "約束",
+      "exampleReading": "やくそく",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k432",
+      "kanji": "得",
+      "reading": "トク",
+      "example": "得意（な）",
+      "exampleReading": "とくい（な）",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k433",
+      "kanji": "統",
+      "reading": "トウ",
+      "example": "伝統的（な）",
+      "exampleReading": "でんとうてき（な）",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k434",
+      "kanji": "的",
+      "reading": "テキ",
+      "example": "伝統的（な）",
+      "exampleReading": "でんとうてき（な）",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k435",
+      "kanji": "弱",
+      "reading": "よわ（い）",
+      "example": "弱い",
+      "exampleReading": "よわい",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k436",
+      "kanji": "勝",
+      "reading": "か（つ）",
+      "example": "勝つ",
+      "exampleReading": "かつ",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k437",
+      "kanji": "負",
+      "reading": "ま（ける）",
+      "example": "負ける",
+      "exampleReading": "まける",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k438",
+      "kanji": "誘",
+      "reading": "さそ（う）",
+      "example": "誘う",
+      "exampleReading": "さそう",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k439",
+      "kanji": "座",
+      "reading": "すわ（る）",
+      "example": "座る",
+      "exampleReading": "すわる",
+      "lesson": 1,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k440",
+      "kanji": "共",
+      "reading": "キョウ",
+      "example": "共感",
+      "exampleReading": "きょうかん",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k441",
+      "kanji": "感",
+      "reading": "カン",
+      "example": "共感",
+      "exampleReading": "きょうかん",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k442",
+      "kanji": "主",
+      "reading": "シュ",
+      "example": "主人公",
+      "exampleReading": "しゅじんこう",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k443",
+      "kanji": "像",
+      "reading": "ゾウ",
+      "example": "映像",
+      "exampleReading": "えいぞう",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k444",
+      "kanji": "原",
+      "reading": "ゲン",
+      "example": "原作",
+      "exampleReading": "げんさく",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k445",
+      "kanji": "詞",
+      "reading": "シ",
+      "example": "歌詞",
+      "exampleReading": "かし",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k446",
+      "kanji": "俳",
+      "reading": "ハイ",
+      "example": "俳優",
+      "exampleReading": "はいゆう",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k447",
+      "kanji": "優",
+      "reading": "ユウ",
+      "example": "俳優",
+      "exampleReading": "はいゆう",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k448",
+      "kanji": "腹",
+      "reading": "*特別な読み方",
+      "example": "お腹",
+      "exampleReading": "おなか",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k449",
+      "kanji": "深",
+      "reading": "ふか（い）",
+      "example": "深み",
+      "exampleReading": "ふかみ",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k450",
+      "kanji": "演",
+      "reading": "エン",
+      "example": "演じる",
+      "exampleReading": "えんじる",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k451",
+      "kanji": "探",
+      "reading": "さが（す）",
+      "example": "探す",
+      "exampleReading": "さがす",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k452",
+      "kanji": "死",
+      "reading": "し（ぬ）",
+      "example": "死ぬ",
+      "exampleReading": "しぬ",
+      "lesson": 2,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k453",
+      "kanji": "越",
+      "reading": "こ（す）",
+      "example": "引っ越し",
+      "exampleReading": "ひっこし",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k454",
+      "kanji": "賃",
+      "reading": "チン",
+      "example": "家賃",
+      "exampleReading": "やちん",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k455",
+      "kanji": "築",
+      "reading": "チク",
+      "example": "築～年",
+      "exampleReading": "ちく～ねん",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k456",
+      "kanji": "宅",
+      "reading": "タク",
+      "example": "住宅地",
+      "exampleReading": "じゅうたくち",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k457",
+      "kanji": "荷",
+      "reading": "に",
+      "example": "荷物",
+      "exampleReading": "にもつ",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k458",
+      "kanji": "冷",
+      "reading": "レイ",
+      "example": "冷蔵庫",
+      "exampleReading": "れいぞうこ",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k459",
+      "kanji": "蔵",
+      "reading": "ゾウ",
+      "example": "冷蔵庫",
+      "exampleReading": "れいぞうこ",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k460",
+      "kanji": "庫",
+      "reading": "コ",
+      "example": "冷蔵庫",
+      "exampleReading": "れいぞうこ",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k461",
+      "kanji": "県",
+      "reading": "ケン",
+      "example": "～県",
+      "exampleReading": "～けん",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k462",
+      "kanji": "区",
+      "reading": "ク",
+      "example": "～区",
+      "exampleReading": "～く",
+      "lesson": 3,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k463",
+      "kanji": "面",
+      "reading": "メン",
+      "example": "洗面台",
+      "exampleReading": "せんめんだい",
+      "lesson": 4,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k464",
+      "kanji": "濯",
+      "reading": "タク",
+      "example": "洗濯機",
+      "exampleReading": "せんたくき",
+      "lesson": 4,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k465",
+      "kanji": "換",
+      "reading": "カン",
+      "example": "換気扇",
+      "exampleReading": "かんきせん",
+      "lesson": 4,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k466",
+      "kanji": "扇",
+      "reading": "セン",
+      "example": "換気扇",
+      "exampleReading": "かんきせん",
+      "lesson": 4,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k467",
+      "kanji": "戸",
+      "reading": "コ",
+      "example": "一戸建て",
+      "exampleReading": "いっこだて",
+      "lesson": 4,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k468",
+      "kanji": "庭",
+      "reading": "にわ",
+      "example": "庭",
+      "exampleReading": "にわ",
+      "lesson": 4,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k469",
+      "kanji": "勤",
+      "reading": "キン",
+      "example": "通勤",
+      "exampleReading": "つうきん",
+      "lesson": 4,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k470",
+      "kanji": "停",
+      "reading": "テイ",
+      "example": "バス停",
+      "exampleReading": "ばすてい",
+      "lesson": 4,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k471",
+      "kanji": "田",
+      "reading": "た",
+      "example": "田んぼ",
+      "exampleReading": "たんぼ",
+      "lesson": 4,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k472",
+      "kanji": "林",
+      "reading": "はやし",
+      "example": "林",
+      "exampleReading": "はやし",
+      "lesson": 4,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k473",
+      "kanji": "鳥",
+      "reading": "とり",
+      "example": "鳥",
+      "exampleReading": "とり",
+      "lesson": 4,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k474",
+      "kanji": "履",
+      "reading": "リ",
+      "example": "注文履歴",
+      "exampleReading": "ちゅうもんりれき",
+      "lesson": 5,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k475",
+      "kanji": "歴",
+      "reading": "レキ",
+      "example": "注文履歴",
+      "exampleReading": "ちゅうもんりれき",
+      "lesson": 5,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k476",
+      "kanji": "盛",
+      "reading": "も（る）",
+      "example": "大盛り",
+      "exampleReading": "おおもり",
+      "lesson": 5,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k477",
+      "kanji": "麺",
+      "reading": "メン",
+      "example": "麺",
+      "exampleReading": "めん",
+      "lesson": 5,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k478",
+      "kanji": "信",
+      "reading": "シン",
+      "example": "送信する",
+      "exampleReading": "そうしんする",
+      "lesson": 5,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k479",
+      "kanji": "混",
+      "reading": "ま（ぜる）",
+      "example": "混ぜる",
+      "exampleReading": "まぜる",
+      "lesson": 5,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k480",
+      "kanji": "固",
+      "reading": "かた（める）",
+      "example": "固める",
+      "exampleReading": "かためる",
+      "lesson": 5,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k481",
+      "kanji": "丸",
+      "reading": "まる（める）",
+      "example": "丸める",
+      "exampleReading": "まるめる",
+      "lesson": 5,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k482",
+      "kanji": "煮",
+      "reading": "に（る）",
+      "example": "煮る",
+      "exampleReading": "にる",
+      "lesson": 5,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k483",
+      "kanji": "凍",
+      "reading": "トウ",
+      "example": "冷凍食品",
+      "exampleReading": "れいとうしょくひん",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k484",
+      "kanji": "果",
+      "reading": "*特別な読み方",
+      "example": "果物",
+      "exampleReading": "くだもの",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k485",
+      "kanji": "農",
+      "reading": "ノウ",
+      "example": "農家",
+      "exampleReading": "のうか",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k486",
+      "kanji": "直",
+      "reading": "チョク",
+      "example": "直接",
+      "exampleReading": "ちょくせつ",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k487",
+      "kanji": "接",
+      "reading": "セツ",
+      "example": "直接",
+      "exampleReading": "ちょくせつ",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k488",
+      "kanji": "健",
+      "reading": "ケン",
+      "example": "健康",
+      "exampleReading": "けんこう",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k489",
+      "kanji": "康",
+      "reading": "コウ",
+      "example": "健康",
+      "exampleReading": "けんこう",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k490",
+      "kanji": "栄",
+      "reading": "エイ",
+      "example": "栄養",
+      "exampleReading": "えいよう",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k491",
+      "kanji": "養",
+      "reading": "ヨウ",
+      "example": "栄養",
+      "exampleReading": "えいよう",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k492",
+      "kanji": "鍋",
+      "reading": "なべ",
+      "example": "鍋",
+      "exampleReading": "なべ",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k493",
+      "kanji": "鮮",
+      "reading": "セン",
+      "example": "新鮮（な）",
+      "exampleReading": "しんせん（な）",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k494",
+      "kanji": "頼",
+      "reading": "たの（む）",
+      "example": "頼む",
+      "exampleReading": "たのむ",
+      "lesson": 6,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k495",
+      "kanji": "己",
+      "reading": "コ",
+      "example": "自己紹介",
+      "exampleReading": "じこしょうかい",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k496",
+      "kanji": "紹",
+      "reading": "ショウ",
+      "example": "自己紹介",
+      "exampleReading": "じこしょうかい",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k497",
+      "kanji": "介",
+      "reading": "カイ",
+      "example": "自己紹介",
+      "exampleReading": "じこしょうかい",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k498",
+      "kanji": "興",
+      "reading": "キョウ",
+      "example": "興味",
+      "exampleReading": "きょうみ",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k499",
+      "kanji": "仲",
+      "reading": "なか",
+      "example": "仲間",
+      "exampleReading": "なかま",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k500",
+      "kanji": "育",
+      "reading": "そだ（てる）",
+      "example": "子育て",
+      "exampleReading": "こそだて",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k501",
+      "kanji": "児",
+      "reading": "ジ",
+      "example": "児童館",
+      "exampleReading": "じどうかん",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k502",
+      "kanji": "童",
+      "reading": "ドウ",
+      "example": "児童館",
+      "exampleReading": "じどうかん",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k503",
+      "kanji": "掲",
+      "reading": "ケイ",
+      "example": "掲示板",
+      "exampleReading": "けいじばん",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k504",
+      "kanji": "示",
+      "reading": "ジ",
+      "example": "掲示板",
+      "exampleReading": "けいじばん",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k505",
+      "kanji": "板",
+      "reading": "バン",
+      "example": "掲示板",
+      "exampleReading": "けいじばん",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k506",
+      "kanji": "掃",
+      "reading": "ソウ",
+      "example": "掃除",
+      "exampleReading": "そうじ",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k507",
+      "kanji": "除",
+      "reading": "ジ",
+      "example": "掃除",
+      "exampleReading": "そうじ",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k508",
+      "kanji": "次",
+      "reading": "つぎ",
+      "example": "次",
+      "exampleReading": "つぎ",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k509",
+      "kanji": "簡",
+      "reading": "カン",
+      "example": "簡単（な）",
+      "exampleReading": "かんたん（な）",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k510",
+      "kanji": "単",
+      "reading": "タン",
+      "example": "簡単（な）",
+      "exampleReading": "かんたん（な）",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k511",
+      "kanji": "植",
+      "reading": "う（える）",
+      "example": "植える",
+      "exampleReading": "うえる",
+      "lesson": 7,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k512",
+      "kanji": "第",
+      "reading": "ダイ",
+      "example": "第一印象",
+      "exampleReading": "だいいちいんしょう",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k513",
+      "kanji": "印",
+      "reading": "イン",
+      "example": "第一印象",
+      "exampleReading": "だいいちいんしょう",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k514",
+      "kanji": "象",
+      "reading": "ショウ",
+      "example": "第一印象",
+      "exampleReading": "だいいちいんしょう",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k515",
+      "kanji": "関",
+      "reading": "カン",
+      "example": "関心",
+      "exampleReading": "かんしん",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k516",
+      "kanji": "背",
+      "reading": "せ",
+      "example": "背筋",
+      "exampleReading": "せすじ",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k517",
+      "kanji": "筋",
+      "reading": "すじ",
+      "example": "背筋",
+      "exampleReading": "せすじ",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k518",
+      "kanji": "逆",
+      "reading": "ギャク",
+      "example": "逆",
+      "exampleReading": "ぎゃく",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k519",
+      "kanji": "辺",
+      "reading": "ヘン",
+      "example": "この辺",
+      "exampleReading": "このへん",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k520",
+      "kanji": "清",
+      "reading": "セイ",
+      "example": "清潔（な）",
+      "exampleReading": "せいけつ（な）",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k521",
+      "kanji": "潔",
+      "reading": "ケツ",
+      "example": "清潔（な）",
+      "exampleReading": "せいけつ（な）",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k522",
+      "kanji": "効",
+      "reading": "コウ",
+      "example": "効果的（な）",
+      "exampleReading": "こうかてき（な）",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k523",
+      "kanji": "伸",
+      "reading": "の（ばす）",
+      "example": "伸ばす",
+      "exampleReading": "のばす",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k524",
+      "kanji": "与",
+      "reading": "あた（える）",
+      "example": "与える",
+      "exampleReading": "あたえる",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k525",
+      "kanji": "整",
+      "reading": "ととの（う）",
+      "example": "整う",
+      "exampleReading": "ととのう",
+      "lesson": 8,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k526",
+      "kanji": "標",
+      "reading": "ヒョウ",
+      "example": "目標",
+      "exampleReading": "もくひょう",
+      "lesson": 9,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k527",
+      "kanji": "識",
+      "reading": "シキ",
+      "example": "知識",
+      "exampleReading": "ちしき",
+      "lesson": 9,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k528",
+      "kanji": "初",
+      "reading": "ショ",
+      "example": "最初",
+      "exampleReading": "さいしょ",
+      "lesson": 9,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k529",
+      "kanji": "悩",
+      "reading": "なや（む）",
+      "example": "悩み",
+      "exampleReading": "なやみ",
+      "lesson": 9,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k530",
+      "kanji": "護",
+      "reading": "ゴ",
+      "example": "介護",
+      "exampleReading": "かいご",
+      "lesson": 9,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k531",
+      "kanji": "吹",
+      "reading": "ふ（く）",
+      "example": "吹き替え",
+      "exampleReading": "ふきかえ",
+      "lesson": 9,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k532",
+      "kanji": "替",
+      "reading": "か（える）",
+      "example": "吹き替え",
+      "exampleReading": "ふきかえ",
+      "lesson": 9,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k533",
+      "kanji": "失",
+      "reading": "シツ／シッ",
+      "example": "失敗する",
+      "exampleReading": "しっぱいする",
+      "lesson": 9,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k534",
+      "kanji": "敗",
+      "reading": "ハイ／パイ",
+      "example": "失敗する",
+      "exampleReading": "しっぱいする",
+      "lesson": 9,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k535",
+      "kanji": "解",
+      "reading": "カイ",
+      "example": "理解する",
+      "exampleReading": "りかいする",
+      "lesson": 9,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k536",
+      "kanji": "録",
+      "reading": "ロク",
+      "example": "登録",
+      "exampleReading": "とうろく",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k537",
+      "kanji": "対",
+      "reading": "タイ",
+      "example": "対象",
+      "exampleReading": "たいしょう",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k538",
+      "kanji": "章",
+      "reading": "ショウ",
+      "example": "文章",
+      "exampleReading": "ぶんしょう",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k539",
+      "kanji": "表",
+      "reading": "ヒョウ",
+      "example": "表現",
+      "exampleReading": "ひょうげん",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k540",
+      "kanji": "現",
+      "reading": "ゲン",
+      "example": "表現",
+      "exampleReading": "ひょうげん",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k541",
+      "kanji": "幕",
+      "reading": "マク",
+      "example": "字幕",
+      "exampleReading": "じまく",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k542",
+      "kanji": "在",
+      "reading": "ザイ",
+      "example": "～在住",
+      "exampleReading": "～ざいじゅう",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k543",
+      "kanji": "専",
+      "reading": "セン",
+      "example": "専門学校",
+      "exampleReading": "せんもんがっこう",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k544",
+      "kanji": "基",
+      "reading": "キ",
+      "example": "基礎的（な）",
+      "exampleReading": "きそてき（な）",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k545",
+      "kanji": "礎",
+      "reading": "ソ",
+      "example": "基礎的（な）",
+      "exampleReading": "きそてき（な）",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k546",
+      "kanji": "研",
+      "reading": "ケン",
+      "example": "研究する",
+      "exampleReading": "けんきゅうする",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k547",
+      "kanji": "究",
+      "reading": "キュウ",
+      "example": "研究する",
+      "exampleReading": "けんきゅうする",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k548",
+      "kanji": "助",
+      "reading": "たす（かる）",
+      "example": "助かる",
+      "exampleReading": "たすかる",
+      "lesson": 10,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k549",
+      "kanji": "忘",
+      "reading": "わす（れる）",
+      "example": "忘れ物",
+      "exampleReading": "わすれもの",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k550",
+      "kanji": "財",
+      "reading": "サイ",
+      "example": "財布",
+      "exampleReading": "さいふ",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k551",
+      "kanji": "布",
+      "reading": "フ",
+      "example": "財布",
+      "exampleReading": "さいふ",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k552",
+      "kanji": "律",
+      "reading": "リツ",
+      "example": "法律",
+      "exampleReading": "ほうりつ",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k553",
+      "kanji": "反",
+      "reading": "ハン",
+      "example": "違反",
+      "exampleReading": "いはん",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k554",
+      "kanji": "協",
+      "reading": "キョウ",
+      "example": "協力",
+      "exampleReading": "きょうりょく",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k555",
+      "kanji": "鉄",
+      "reading": "テツ",
+      "example": "鉄道会社",
+      "exampleReading": "てつどうがいしゃ",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k556",
+      "kanji": "提",
+      "reading": "テイ",
+      "example": "提示する",
+      "exampleReading": "ていじする",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k557",
+      "kanji": "券",
+      "reading": "ケン",
+      "example": "発券する",
+      "exampleReading": "はっけんする",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k558",
+      "kanji": "落",
+      "reading": "お（とす）",
+      "example": "落とす",
+      "exampleReading": "おとす",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k559",
+      "kanji": "預",
+      "reading": "あず（ける）",
+      "example": "預ける",
+      "exampleReading": "あずける",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k560",
+      "kanji": "払",
+      "reading": "はら（う）",
+      "example": "払う",
+      "exampleReading": "はらう",
+      "lesson": 11,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k561",
+      "kanji": "警",
+      "reading": "ケイ",
+      "example": "警察",
+      "exampleReading": "けいさつ",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k562",
+      "kanji": "察",
+      "reading": "サツ",
+      "example": "警察",
+      "exampleReading": "けいさつ",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k563",
+      "kanji": "防",
+      "reading": "ボウ",
+      "example": "消防署",
+      "exampleReading": "しょうぼうしょ",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k564",
+      "kanji": "署",
+      "reading": "ショ",
+      "example": "消防署",
+      "exampleReading": "しょうぼうしょ",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k565",
+      "kanji": "救",
+      "reading": "キュウ",
+      "example": "救急車",
+      "exampleReading": "きゅうきゅうしゃ",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k566",
+      "kanji": "逃",
+      "reading": "に（げる）",
+      "example": "ひき逃げ",
+      "exampleReading": "ひきにげ",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k567",
+      "kanji": "差",
+      "reading": "サ",
+      "example": "交差点",
+      "exampleReading": "こうさてん",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k568",
+      "kanji": "丁",
+      "reading": "チョウ",
+      "example": "～丁目",
+      "exampleReading": "～ちょうめ",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k569",
+      "kanji": "歳",
+      "reading": "サイ",
+      "example": "～歳",
+      "exampleReading": "～さい",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k570",
+      "kanji": "張",
+      "reading": "チョウ",
+      "example": "出張",
+      "exampleReading": "しゅっちょう",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k571",
+      "kanji": "曲",
+      "reading": "ま（がる）",
+      "example": "曲がる",
+      "exampleReading": "まがる",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k572",
+      "kanji": "置",
+      "reading": "お（く）",
+      "example": "置く",
+      "exampleReading": "おくる",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k573",
+      "kanji": "降",
+      "reading": "ふ（る）",
+      "example": "降る",
+      "exampleReading": "ふる",
+      "lesson": 12,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k574",
+      "kanji": "命",
+      "reading": "メイ",
+      "example": "運命",
+      "exampleReading": "うんめい",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k575",
+      "kanji": "糸",
+      "reading": "いと",
+      "example": "糸",
+      "exampleReading": "いと",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k576",
+      "kanji": "恋",
+      "reading": "こい",
+      "example": "恋人",
+      "exampleReading": "こいびと",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k577",
+      "kanji": "太",
+      "reading": "タイ",
+      "example": "太陽",
+      "exampleReading": "たいよう",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k578",
+      "kanji": "陽",
+      "reading": "ヨウ",
+      "example": "太陽",
+      "exampleReading": "たいよう",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k579",
+      "kanji": "若",
+      "reading": "わか（い）",
+      "example": "若い",
+      "exampleReading": "わかい",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k580",
+      "kanji": "就",
+      "reading": "シュウ",
+      "example": "就職する",
+      "exampleReading": "しゅうしょくする",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k581",
+      "kanji": "職",
+      "reading": "ショク",
+      "example": "就職する",
+      "exampleReading": "しゅうしょくする",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k582",
+      "kanji": "退",
+      "reading": "タイ",
+      "example": "退職する",
+      "exampleReading": "たいしょくする",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k583",
+      "kanji": "覚",
+      "reading": "おぼ（える）",
+      "example": "覚える",
+      "exampleReading": "おぼえる",
+      "lesson": 13,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k584",
+      "kanji": "良",
+      "reading": "よ（い）",
+      "example": "仲良し",
+      "exampleReading": "なかよし",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k585",
+      "kanji": "愛",
+      "reading": "アイ",
+      "example": "恋愛",
+      "exampleReading": "れんあい",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k586",
+      "kanji": "既",
+      "reading": "キ",
+      "example": "既読",
+      "exampleReading": "きどく",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k587",
+      "kanji": "奇",
+      "reading": "キ",
+      "example": "好奇心",
+      "exampleReading": "こうきしん",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k588",
+      "kanji": "積",
+      "reading": "セキ／セッ",
+      "example": "積極的（な）",
+      "exampleReading": "せっきょくてき（な）",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k589",
+      "kanji": "極",
+      "reading": "キョク",
+      "example": "積極的（な）",
+      "exampleReading": "せっきょくてき（な）",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k590",
+      "kanji": "悲",
+      "reading": "かな（しい）",
+      "example": "悲しい",
+      "exampleReading": "かなしい",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k591",
+      "kanji": "尊",
+      "reading": "ソン",
+      "example": "尊敬する",
+      "exampleReading": "そんけいする",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k592",
+      "kanji": "敬",
+      "reading": "ケイ",
+      "example": "尊敬する",
+      "exampleReading": "そんけいする",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k593",
+      "kanji": "実",
+      "reading": "ジツ",
+      "example": "実は",
+      "exampleReading": "じつは",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k594",
+      "kanji": "例",
+      "reading": "たと（えば）",
+      "example": "例えば",
+      "exampleReading": "たとえば",
+      "lesson": 14,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k595",
+      "kanji": "湖",
+      "reading": "みずうみ",
+      "example": "湖",
+      "exampleReading": "みずうみ",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k596",
+      "kanji": "雲",
+      "reading": "くも",
+      "example": "雲",
+      "exampleReading": "くも",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k597",
+      "kanji": "港",
+      "reading": "コウ",
+      "example": "空港",
+      "exampleReading": "くうこう",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k598",
+      "kanji": "各",
+      "reading": "カク",
+      "example": "各地",
+      "exampleReading": "かくち",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k599",
+      "kanji": "緑",
+      "reading": "みどり",
+      "example": "緑",
+      "exampleReading": "みどり",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k600",
+      "kanji": "黄",
+      "reading": "き",
+      "example": "黄色",
+      "exampleReading": "きいろ",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k601",
+      "kanji": "昔",
+      "reading": "むかし",
+      "example": "昔",
+      "exampleReading": "むかし",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k602",
+      "kanji": "氷",
+      "reading": "こおり／ごおり",
+      "example": "かき氷",
+      "exampleReading": "かきごおり",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k603",
+      "kanji": "石",
+      "reading": "セキ",
+      "example": "石炭",
+      "exampleReading": "せきたん",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k604",
+      "kanji": "炭",
+      "reading": "タン",
+      "example": "石炭",
+      "exampleReading": "せきたん",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k605",
+      "kanji": "暖",
+      "reading": "あたた（かい）",
+      "example": "暖かい",
+      "exampleReading": "あたたかい",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k606",
+      "kanji": "訪",
+      "reading": "おとず（れる）",
+      "example": "訪れる",
+      "exampleReading": "おとずれる",
+      "lesson": 15,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k607",
+      "kanji": "幹",
+      "reading": "カン",
+      "example": "新幹線",
+      "exampleReading": "しんかんせん",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k608",
+      "kanji": "線",
+      "reading": "セン",
+      "example": "新幹線",
+      "exampleReading": "しんかんせん",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k609",
+      "kanji": "飛",
+      "reading": "ヒ",
+      "example": "飛行機",
+      "exampleReading": "ひこうき",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k610",
+      "kanji": "宿",
+      "reading": "シュク",
+      "example": "宿泊",
+      "exampleReading": "しゅくはく",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k611",
+      "kanji": "泊",
+      "reading": "ハク",
+      "example": "宿泊",
+      "exampleReading": "しゅくはく",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k612",
+      "kanji": "和",
+      "reading": "ワ",
+      "example": "和室",
+      "exampleReading": "わしつ",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k613",
+      "kanji": "洋",
+      "reading": "ヨウ",
+      "example": "洋室",
+      "exampleReading": "ようしつ",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k614",
+      "kanji": "美",
+      "reading": "ビ",
+      "example": "美術館",
+      "exampleReading": "びじゅつかん",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k615",
+      "kanji": "術",
+      "reading": "ジュツ",
+      "example": "美術館",
+      "exampleReading": "びじゅつかん",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k616",
+      "kanji": "追",
+      "reading": "ツイ",
+      "example": "追加",
+      "exampleReading": "ついか",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k617",
+      "kanji": "級",
+      "reading": "キュウ",
+      "example": "高級（な）",
+      "exampleReading": "こうきゅう（な）",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k618",
+      "kanji": "疲",
+      "reading": "つか（れる）",
+      "example": "疲れる",
+      "exampleReading": "つかれる",
+      "lesson": 16,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k619",
+      "kanji": "給",
+      "reading": "キュウ",
+      "example": "給料",
+      "exampleReading": "きゅうりょう",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k620",
+      "kanji": "欠",
+      "reading": "ケツ／ケッ",
+      "example": "欠勤",
+      "exampleReading": "けっきん",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k621",
+      "kanji": "議",
+      "reading": "ギ",
+      "example": "会議",
+      "exampleReading": "かいぎ",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k622",
+      "kanji": "残",
+      "reading": "ザン",
+      "example": "残業",
+      "exampleReading": "ざんぎょう",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k623",
+      "kanji": "規",
+      "reading": "キ",
+      "example": "規則",
+      "exampleReading": "きそく",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k624",
+      "kanji": "則",
+      "reading": "ソク",
+      "example": "規則",
+      "exampleReading": "きそく",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k625",
+      "kanji": "髪",
+      "reading": "かみ",
+      "example": "髪型",
+      "exampleReading": "かみがた",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k626",
+      "kanji": "型",
+      "reading": "かた／がた",
+      "example": "髪型",
+      "exampleReading": "かみがた",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k627",
+      "kanji": "可",
+      "reading": "カ",
+      "example": "不可",
+      "exampleReading": "ふか",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k628",
+      "kanji": "係",
+      "reading": "かかり／がかり",
+      "example": "～係",
+      "exampleReading": "～がかり",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k629",
+      "kanji": "速",
+      "reading": "はや（い）",
+      "example": "速い",
+      "exampleReading": "はやい",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k630",
+      "kanji": "遅",
+      "reading": "チ",
+      "example": "遅刻する",
+      "exampleReading": "ちこくする",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k631",
+      "kanji": "刻",
+      "reading": "コク",
+      "example": "遅刻する",
+      "exampleReading": "ちこくする",
+      "lesson": 17,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k632",
+      "kanji": "輸",
+      "reading": "ユ",
+      "example": "輸出",
+      "exampleReading": "ゆしゅつ",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k633",
+      "kanji": "成",
+      "reading": "セイ",
+      "example": "作成",
+      "exampleReading": "さくせい",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k634",
+      "kanji": "未",
+      "reading": "ミ",
+      "example": "未経験",
+      "exampleReading": "みけいけん",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k635",
+      "kanji": "順",
+      "reading": "ジュン",
+      "example": "順調",
+      "exampleReading": "じゅんちょう",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k636",
+      "kanji": "告",
+      "reading": "コク",
+      "example": "報告",
+      "exampleReading": "ほうこく",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k637",
+      "kanji": "努",
+      "reading": "ド",
+      "example": "努力",
+      "exampleReading": "どりょく",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k638",
+      "kanji": "非",
+      "reading": "ヒ",
+      "example": "非常に",
+      "exampleReading": "ひじょうに",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k639",
+      "kanji": "常",
+      "reading": "ジョウ",
+      "example": "非常に",
+      "exampleReading": "ひじょうに",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k640",
+      "kanji": "充",
+      "reading": "ジュウ",
+      "example": "充実する",
+      "exampleReading": "じゅうじつする",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k641",
+      "kanji": "答",
+      "reading": "こた（える）",
+      "example": "答える",
+      "exampleReading": "こたえる",
+      "lesson": 18,
+      "level": "elementary-2"
+    },
+    {
+      "id": "k642",
+      "kanji": "向",
+      "reading": "む（く）",
+      "example": "向いている",
+      "exampleReading": "むいている",
+      "lesson": 18,
+      "level": "elementary-2"
+    }
+  ]
+}

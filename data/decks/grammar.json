@@ -1,0 +1,2444 @@
+{
+  "id": "grammar",
+  "title": "Grammar · ぶんぽう",
+  "kind": "grammar",
+  "totalCards": 348,
+  "cards": [
+    {
+      "id": "g1",
+      "pattern": "Nです N1はN2です",
+      "lesson": "第3課 よ",
+      "example": "トンです。 私はマルシアです。",
+      "level": "starter"
+    },
+    {
+      "id": "g2",
+      "pattern": "【場所】から来ました",
+      "lesson": "第3課 よ",
+      "example": "ブラジルから来ました。",
+      "level": "starter"
+    },
+    {
+      "id": "g3",
+      "pattern": "Nは？",
+      "lesson": "第3課 よ",
+      "example": "お名前は？",
+      "level": "starter"
+    },
+    {
+      "id": "g4",
+      "pattern": "Sか？",
+      "lesson": "第3課 よ",
+      "example": "みなさんは、友だちですか？",
+      "level": "starter"
+    },
+    {
+      "id": "g5",
+      "pattern": "Nも",
+      "lesson": "第3課 よ",
+      "example": "ケマラさんも、ベトナムからですか？",
+      "level": "starter"
+    },
+    {
+      "id": "g6",
+      "pattern": "Nじゃないです",
+      "lesson": "第3課 よ",
+      "example": "ベトナムじゃないです。",
+      "level": "starter"
+    },
+    {
+      "id": "g7",
+      "pattern": "N1とN2",
+      "lesson": "第4課 東",
+      "example": "夫と子どもです。",
+      "level": "starter"
+    },
+    {
+      "id": "g8",
+      "pattern": "【疑問表現】ですか？",
+      "lesson": "第4課 東",
+      "example": "何歳ですか？",
+      "level": "starter"
+    },
+    {
+      "id": "g9",
+      "pattern": "【場所】に住んでいます",
+      "lesson": "第4課 東",
+      "example": "家族は、フィリピンに住んでいます。",
+      "level": "starter"
+    },
+    {
+      "id": "g10",
+      "pattern": "N1のN2",
+      "lesson": "第4課 東",
+      "example": "私の母です。 ペットのジョンです。",
+      "level": "starter"
+    },
+    {
+      "id": "g11",
+      "pattern": "Nが好きです",
+      "lesson": "第5課 う",
+      "example": "肉と野菜が好きです。",
+      "level": "starter"
+    },
+    {
+      "id": "g12",
+      "pattern": "Nは好きじゃないです",
+      "lesson": "第5課 う",
+      "example": "魚は好きじゃないです。",
+      "level": "starter"
+    },
+    {
+      "id": "g13",
+      "pattern": "Nはちょっと…",
+      "lesson": "第5課 う",
+      "example": "わさびは、ちょっと…。",
+      "level": "starter"
+    },
+    {
+      "id": "g14",
+      "pattern": "V-ますか？（マス形）",
+      "lesson": "第5課 う",
+      "example": "お茶、飲みますか？",
+      "level": "starter"
+    },
+    {
+      "id": "g15",
+      "pattern": "V-る？（辞書形）",
+      "lesson": "第5課 う",
+      "example": "何、飲む？",
+      "level": "starter"
+    },
+    {
+      "id": "g16",
+      "pattern": "NをV-ます",
+      "lesson": "第5課 う",
+      "example": "シリアルを食べます。",
+      "level": "starter"
+    },
+    {
+      "id": "g17",
+      "pattern": "（Nは）V-ません",
+      "lesson": "第5課 う",
+      "example": "私は、朝ご飯は、あまり食べません。",
+      "level": "starter"
+    },
+    {
+      "id": "g18",
+      "pattern": "（Nは）V-ないです",
+      "lesson": "第5課 う",
+      "example": "私も、食べないです。",
+      "level": "starter"
+    },
+    {
+      "id": "g19",
+      "pattern": "あまりV-ません ＜頻度＞",
+      "lesson": "第5課 う",
+      "example": "朝ご飯は、あまり食べません。",
+      "level": "starter"
+    },
+    {
+      "id": "g20",
+      "pattern": "N、お願いします N、ください",
+      "lesson": "第6課 チ",
+      "example": "ホットコ-ヒ-、お願いします。 これ、ください。",
+      "level": "starter"
+    },
+    {
+      "id": "g21",
+      "pattern": "Nにします",
+      "lesson": "第6課 チ",
+      "example": "私は、うどんにします。",
+      "level": "starter"
+    },
+    {
+      "id": "g22",
+      "pattern": "N、【数】お願いします N、【数】ください",
+      "lesson": "第6課 チ",
+      "example": "生ビ-ル3つと、ウ-ロン茶1つ、お願いします。 枝豆2つ、ください。",
+      "level": "starter"
+    },
+    {
+      "id": "g23",
+      "pattern": "N（は）ありますか？",
+      "lesson": "第6課 チ",
+      "example": "マヨネ-ズ、ありますか？",
+      "level": "starter"
+    },
+    {
+      "id": "g24",
+      "pattern": "ここは【場所】です",
+      "lesson": "第7課 部",
+      "example": "ここは玄関です。",
+      "level": "starter"
+    },
+    {
+      "id": "g25",
+      "pattern": "【場所】にNがあります",
+      "lesson": "第7課 部",
+      "example": "ここに階段があります。",
+      "level": "starter"
+    },
+    {
+      "id": "g26",
+      "pattern": "【場所】にNが【数】あります",
+      "lesson": "第7課 部",
+      "example": "１階に部屋が4つあります。",
+      "level": "starter"
+    },
+    {
+      "id": "g27",
+      "pattern": "（Nは）ありません／ないです",
+      "lesson": "第7課 部",
+      "example": "トースターはありません。 ベッドはないです。",
+      "level": "starter"
+    },
+    {
+      "id": "g28",
+      "pattern": "ナA-です イA-いです",
+      "lesson": "第7課 部",
+      "example": "家は静かです。 ちょっとせまいです。",
+      "level": "starter"
+    },
+    {
+      "id": "g29",
+      "pattern": "ナA-じゃないです イA-くないです",
+      "lesson": "第7課 部",
+      "example": "アパ-トは、あまり静かじゃないです。 寮は広くないです。",
+      "level": "starter"
+    },
+    {
+      "id": "g30",
+      "pattern": "【場所】でV-ます",
+      "lesson": "第8課 山",
+      "example": "ここで着替えます。",
+      "level": "starter"
+    },
+    {
+      "id": "g31",
+      "pattern": "【人】は【場所】にいます",
+      "lesson": "第8課 山",
+      "example": "山田さんは、食堂にいます。",
+      "level": "starter"
+    },
+    {
+      "id": "g32",
+      "pattern": "（【人】は)いません／いないです",
+      "lesson": "第8課 山",
+      "example": "辻さんは、いませんね。 アマンダさん、いないですね。",
+      "level": "starter"
+    },
+    {
+      "id": "g33",
+      "pattern": "【もの】は【ここ／そこ／あそこ】にあります",
+      "lesson": "第8課 山",
+      "example": "はさみは、そこにあります。",
+      "level": "starter"
+    },
+    {
+      "id": "g34",
+      "pattern": "Nの【位置】にあります",
+      "lesson": "第8課 山",
+      "example": "引き出しの中にあります。",
+      "level": "starter"
+    },
+    {
+      "id": "g35",
+      "pattern": "【時間】に／ごろV-ます",
+      "lesson": "第9課 1",
+      "example": "5時に起きます。 11時ごろ寝ます。",
+      "level": "starter"
+    },
+    {
+      "id": "g36",
+      "pattern": "【時間】から【時間】まで",
+      "lesson": "第9課 1",
+      "example": "12時から1時まで、昼休みです。",
+      "level": "starter"
+    },
+    {
+      "id": "g37",
+      "pattern": "【日時】がいいです",
+      "lesson": "第9課 1",
+      "example": "私は、土曜日がいいです。",
+      "level": "starter"
+    },
+    {
+      "id": "g38",
+      "pattern": "V-てください V-て",
+      "lesson": "第10課",
+      "example": "ちょっと、手伝ってください。 そこのドライバ-、取って。",
+      "level": "starter"
+    },
+    {
+      "id": "g39",
+      "pattern": "V-てくれる？",
+      "lesson": "第10課",
+      "example": "窓、閉めてくれる？",
+      "level": "starter"
+    },
+    {
+      "id": "g40",
+      "pattern": "Nですね ＜確認＞",
+      "lesson": "第10課",
+      "example": "Ａ：これ、コピ-、30枚お願い。 Ｂ：はい、30ですね。",
+      "level": "starter"
+    },
+    {
+      "id": "g41",
+      "pattern": "N、貸してください",
+      "lesson": "第10課",
+      "example": "ホチキス、貸してください。",
+      "level": "starter"
+    },
+    {
+      "id": "g42",
+      "pattern": "N、借りてもいいですか？",
+      "lesson": "第10課",
+      "example": "すみません。借りてもいいですか？",
+      "level": "starter"
+    },
+    {
+      "id": "g43",
+      "pattern": "N、いいですか？",
+      "lesson": "第10課",
+      "example": "これ、いいですか？",
+      "level": "starter"
+    },
+    {
+      "id": "g44",
+      "pattern": "N、ありますか？",
+      "lesson": "第10課",
+      "example": "スマホの充電器、ありますか？",
+      "level": "starter"
+    },
+    {
+      "id": "g45",
+      "pattern": "Nは何ですか？",
+      "lesson": "第11課",
+      "example": "趣味は、何ですか？",
+      "level": "starter"
+    },
+    {
+      "id": "g46",
+      "pattern": "どんなN",
+      "lesson": "第11課",
+      "example": "どんなスポ-ツが好きですか？",
+      "level": "starter"
+    },
+    {
+      "id": "g47",
+      "pattern": "あまりナA-じゃないです／イA-くないです ＜程度＞",
+      "lesson": "第11課",
+      "example": "スポ-ツは、あまり好きじゃないです。",
+      "level": "starter"
+    },
+    {
+      "id": "g48",
+      "pattern": "【いつも／たいてい／よく／ときどき】V-ます ＜頻度＞",
+      "lesson": "第11課",
+      "example": "休みの日は、たいてい、映画を見ます。",
+      "level": "starter"
+    },
+    {
+      "id": "g49",
+      "pattern": "【あまり／ぜんぜん】V-ません ＜頻度＞",
+      "lesson": "第11課",
+      "example": "スポ-ツは、ぜんぜんしないね。",
+      "level": "starter"
+    },
+    {
+      "id": "g50",
+      "pattern": "【人】と／【場所】でV-ます",
+      "lesson": "第11課",
+      "example": "夫と公園でテニスをします。",
+      "level": "starter"
+    },
+    {
+      "id": "g51",
+      "pattern": "【日時】に【場所】で【イベント】があります",
+      "lesson": "第12課",
+      "example": "日曜日に、さくら公園でタイフェスティバルがありますね。",
+      "level": "starter"
+    },
+    {
+      "id": "g52",
+      "pattern": "Nに行きます",
+      "lesson": "第12課",
+      "example": "明日の忘年会に行きますか？",
+      "level": "starter"
+    },
+    {
+      "id": "g53",
+      "pattern": "V-ませんか？",
+      "lesson": "第12課",
+      "example": "いっしょに行きませんか？",
+      "level": "starter"
+    },
+    {
+      "id": "g54",
+      "pattern": "V-ましょう",
+      "lesson": "第12課",
+      "example": "また今度行きましょう。",
+      "level": "starter"
+    },
+    {
+      "id": "g55",
+      "pattern": "V-に行きます",
+      "lesson": "第12課",
+      "example": "みんなで、いっしょに焼肉を食べに行きませんか？",
+      "level": "starter"
+    },
+    {
+      "id": "g56",
+      "pattern": "この【乗り物】は【場所】に行きますか？",
+      "lesson": "第13課",
+      "example": "このバスは、空港に行きますか？",
+      "level": "starter"
+    },
+    {
+      "id": "g57",
+      "pattern": "ここは【場所】ですか？",
+      "lesson": "第13課",
+      "example": "ここは、どこですか？",
+      "level": "starter"
+    },
+    {
+      "id": "g58",
+      "pattern": "【乗り物】で来ます",
+      "lesson": "第13課",
+      "example": "バイクで来ます。",
+      "level": "starter"
+    },
+    {
+      "id": "g59",
+      "pattern": "【時間／期間】かかります",
+      "lesson": "第13課",
+      "example": "1時間半かかります。",
+      "level": "starter"
+    },
+    {
+      "id": "g60",
+      "pattern": "【場所】で【乗り物】に乗ります 【場所】で【乗り物】を降ります",
+      "lesson": "第13課",
+      "example": "ここから、12番のバスに乗ります。 バスセンタ-で、バスを降ります。",
+      "level": "starter"
+    },
+    {
+      "id": "g61",
+      "pattern": "【場所】から【場所】まで",
+      "lesson": "第13課",
+      "example": "ここから新みなと駅まで、電車に乗ります。",
+      "level": "starter"
+    },
+    {
+      "id": "g62",
+      "pattern": "【場所】にN（は）ありますか？",
+      "lesson": "第14課",
+      "example": "この近くに、コンビニはありますか？",
+      "level": "starter"
+    },
+    {
+      "id": "g63",
+      "pattern": "Nの【位置】にいます",
+      "lesson": "第14課",
+      "example": "今、改札の前にいます。",
+      "level": "starter"
+    },
+    {
+      "id": "g64",
+      "pattern": "ナA-なNですね イA-いNですね",
+      "lesson": "第14課",
+      "example": "にぎやかな通りですね。 広い公園ですね。",
+      "level": "starter"
+    },
+    {
+      "id": "g65",
+      "pattern": "Nがほしいんですが",
+      "lesson": "第15課",
+      "example": "電池がほしいんですが、どこで買えますか？ 延長コ-ドがほしいんですが…。",
+      "level": "starter"
+    },
+    {
+      "id": "g66",
+      "pattern": "ナA-ですね イA-いですね ナA！ イA-い!",
+      "lesson": "第15課",
+      "example": "このコート、おしゃれですね。 この傘、おもしろいですね。 このコート、すてき！ このバッグ、かわいい！",
+      "level": "starter"
+    },
+    {
+      "id": "g67",
+      "pattern": "【これ／それ／あれ】（は）いくらですか？",
+      "lesson": "第16課",
+      "example": "これ、いくらですか？",
+      "level": "starter"
+    },
+    {
+      "id": "g68",
+      "pattern": "【この／その／あの】N",
+      "lesson": "第16課",
+      "example": "そのカレンダー、いくらですか？",
+      "level": "starter"
+    },
+    {
+      "id": "g69",
+      "pattern": "【数量】ずつ",
+      "lesson": "第16課",
+      "example": "チョコレートケーキとチーズケーキ、2個ずつお願いします。",
+      "level": "starter"
+    },
+    {
+      "id": "g70",
+      "pattern": "V-ました V-ませんでした",
+      "lesson": "第17課",
+      "example": "家でゆっくりしました。 週末は、何もしませんでした。",
+      "level": "starter"
+    },
+    {
+      "id": "g71",
+      "pattern": "何もV-ませんでした どこにもV-ませんでした",
+      "lesson": "第17課",
+      "example": "週末は、何もしませんでした。 私は、どこにも行きませんでした。",
+      "level": "starter"
+    },
+    {
+      "id": "g72",
+      "pattern": "ナA-でした",
+      "lesson": "第17課",
+      "example": "「ゴジラ」は、まあまあでした。",
+      "level": "starter"
+    },
+    {
+      "id": "g73",
+      "pattern": "イA-かったです",
+      "lesson": "第17課",
+      "example": "国際フェスティバルは、とても楽しかったです。",
+      "level": "starter"
+    },
+    {
+      "id": "g74",
+      "pattern": "Nでした",
+      "lesson": "第17課",
+      "example": "とてもいい天気でした。",
+      "level": "starter"
+    },
+    {
+      "id": "g75",
+      "pattern": "N-じゃなかったです ナA-じゃなかったです イA-くなかったです",
+      "lesson": "第17課",
+      "example": "温泉に入りました。でも、露天風呂じゃなかったです。 富士山に登りました。あまり大変じゃなかったです。 お客さんは、あまり多くなかったです。",
+      "level": "starter"
+    },
+    {
+      "id": "g76",
+      "pattern": "V-たいです",
+      "lesson": "第18課",
+      "example": "炊飯器が買いたいです。",
+      "level": "starter"
+    },
+    {
+      "id": "g77",
+      "pattern": "どこかV-ます",
+      "lesson": "第18課",
+      "example": "どこか旅行したいです。",
+      "level": "starter"
+    },
+    {
+      "id": "g78",
+      "pattern": "S1。あと、S2。",
+      "lesson": "第18課",
+      "example": "雪が見たいです。あと、温泉に入りたいです。",
+      "level": "starter"
+    },
+    {
+      "id": "g79",
+      "pattern": "【場所】へ行きます",
+      "lesson": "第18課",
+      "example": "京都へ行きたいです。",
+      "level": "starter"
+    },
+    {
+      "id": "g80",
+      "pattern": "S1。それから、S2。",
+      "lesson": "第18課",
+      "example": "露天風呂に入りました。それから、温泉の近くで、鶏の天ぷらを食べました。",
+      "level": "starter"
+    },
+    {
+      "id": "g81",
+      "pattern": "S1。それに、S2。",
+      "lesson": "第18課",
+      "example": "気持ちよかったです。それに、景色もきれいでした。",
+      "level": "starter"
+    },
+    {
+      "id": "g82",
+      "pattern": "S1。でも、S2。",
+      "lesson": "第18課",
+      "example": "おいしかったです。でも、ちょっと高かったです。",
+      "level": "starter"
+    },
+    {
+      "id": "g83",
+      "pattern": "丁寧体・普通体",
+      "lesson": "第1課 レ",
+      "example": "お久しぶりです。お元気ですか？ 久しぶり。元気？",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g84",
+      "pattern": "【期間】になります",
+      "lesson": "第1課 レ",
+      "example": "日本に来て1年になります。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g85",
+      "pattern": "【時点】（に）来ました",
+      "lesson": "第1課 レ",
+      "example": "去年の9月に来ました。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g86",
+      "pattern": "V-ています ①",
+      "lesson": "第1課 レ",
+      "example": "日本では、何をしていますか？",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g87",
+      "pattern": "V-ることです",
+      "lesson": "第2課 ゲ",
+      "example": "趣味は映画を見ることです。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g88",
+      "pattern": "V-るのが好きです",
+      "lesson": "第2課 ゲ",
+      "example": "ゲームをするのが好きです。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g89",
+      "pattern": "【人】と【場所】でV-ます",
+      "lesson": "第2課 ゲ",
+      "example": "休みの日は、たいてい友だちと体育館でバドミントンをします。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g90",
+      "pattern": "V1-て、V2",
+      "lesson": "第2課 ゲ",
+      "example": "毎週、夕方までバドミントンをして、そのあと、みんなでご飯を食べます。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g91",
+      "pattern": "V-ています ②",
+      "lesson": "第2課 ゲ",
+      "example": "いけばなを習っています。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g92",
+      "pattern": "Nができます",
+      "lesson": "第2課 ゲ",
+      "example": "日本語、英語、フィリピノ語、スペイン語ができます。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g93",
+      "pattern": "Nに／ナA-に／イA-く なります",
+      "lesson": "第3課 冬",
+      "example": "春は桜の花が咲きます。暖かくなります。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g94",
+      "pattern": "いちばん ナA-です／イA-いです",
+      "lesson": "第3課 冬",
+      "example": "秋がいちばん好きです。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g95",
+      "pattern": "イA-い のが 好きです",
+      "lesson": "第3課 冬",
+      "example": "私は暑いのが好きです。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g96",
+      "pattern": "イA-い のが 苦手です",
+      "lesson": "第3課 冬",
+      "example": "寒いのが苦手です。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g97",
+      "pattern": "ナA-です／イA-いです から",
+      "lesson": "第3課 冬",
+      "example": "秋が好きです。もみじの景色がきれいですから。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g98",
+      "pattern": "S1から、S2",
+      "lesson": "第3課 冬",
+      "example": "暑いのが大好きですから、夏が好きです。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g99",
+      "pattern": "N1やN2",
+      "lesson": "第3課 冬",
+      "example": "海や山で遊ぶのも楽しいです。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g100",
+      "pattern": "N1とか（N2とか）",
+      "lesson": "第3課 冬",
+      "example": "秋は果物がおいしいですよね。ぶどうとか梨とか。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g101",
+      "pattern": "Sね ＜共感＞",
+      "lesson": "第4課 昨",
+      "example": "今日はいい天気ですね。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g102",
+      "pattern": "非過去・過去",
+      "lesson": "第4課 昨",
+      "example": "昨日はすごい雨でしたね。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g103",
+      "pattern": "V-ています ③",
+      "lesson": "第4課 昨",
+      "example": "今も少し雨が降っています。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g104",
+      "pattern": "N／ナA-／イA-い／V-る でしょう",
+      "lesson": "第4課 昨",
+      "example": "明日は晴れるでしょう。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g105",
+      "pattern": "イA-くて、～",
+      "lesson": "第5課 と",
+      "example": "",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g106",
+      "pattern": "ナA-で、～",
+      "lesson": "第5課 と",
+      "example": "この町は、とてもにぎやかで、便利です。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g107",
+      "pattern": "Nで、～",
+      "lesson": "第5課 と",
+      "example": "",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g108",
+      "pattern": "イA-いけど、～",
+      "lesson": "第5課 と",
+      "example": "",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g109",
+      "pattern": "ナA-だけど、～",
+      "lesson": "第5課 と",
+      "example": "たちばな公園は、場所は不便だけど、きれいですよ。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g110",
+      "pattern": "Nだけど、～",
+      "lesson": "第5課 と",
+      "example": "",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g111",
+      "pattern": "V-ることができます",
+      "lesson": "第5課 と",
+      "example": "一年中、いろいろな花を見ることができます。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g112",
+      "pattern": "Nに行きたいんですが…",
+      "lesson": "第6課 郵",
+      "example": "マルイチデパートに行きたいんですが…。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g113",
+      "pattern": "V-て、～",
+      "lesson": "第6課 郵",
+      "example": "この道をまっすぐ行って、2つ目の信号を左に曲がってください。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g114",
+      "pattern": "N1じゃなくて、N2",
+      "lesson": "第6課 郵",
+      "example": "1つ目じゃなくて、2つ目です。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g115",
+      "pattern": "Nはどうですか？",
+      "lesson": "第7課 道",
+      "example": "6時はどうですか？",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g116",
+      "pattern": "Nでもいいですか？",
+      "lesson": "第7課 道",
+      "example": "6時半でもいいですか？",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g117",
+      "pattern": "Nで、～ ＜原因・理由＞",
+      "lesson": "第7課 道",
+      "example": "事故で電車が止まりました。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g118",
+      "pattern": "V-て、～ ＜原因・理由＞",
+      "lesson": "第7課 道",
+      "example": "ねぼうして、今、起きました。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g119",
+      "pattern": "もうV-ました",
+      "lesson": "第8課 野",
+      "example": "新しいアウトレットモール、もう行きましたか？",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g120",
+      "pattern": "V-たことがあります",
+      "lesson": "第8課 野",
+      "example": "プロレスを見たことがありますか？",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g121",
+      "pattern": "V-に行きませんか？",
+      "lesson": "第8課 野",
+      "example": "いっしょに食べに行きませんか？",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g122",
+      "pattern": "Nの前に、～",
+      "lesson": "第8課 野",
+      "example": "食事の前に、お金をおろしたいんですが…。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g123",
+      "pattern": "Nのあと（で）、～",
+      "lesson": "第8課 野",
+      "example": "買い物のあとで、ゲームコーナーに行きませんか？",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g124",
+      "pattern": "V-たいんですが…",
+      "lesson": "第8課 野",
+      "example": "ジョギングシューズを買いたいんですが…。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g125",
+      "pattern": "Nで ＜手段＞",
+      "lesson": "第9課 読",
+      "example": "アニメで日本語を勉強しました。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g126",
+      "pattern": "N1はN2がナA-です／イA-いです ①",
+      "lesson": "第9課 読",
+      "example": "日本語は文字が難しいです。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g127",
+      "pattern": "NはV-るのがナA-／イA-いです ①",
+      "lesson": "第9課 読",
+      "example": "日本語は話すのが大変です。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g128",
+      "pattern": "N1は、～。（でも、）N2は、～。 ＜対比＞",
+      "lesson": "第9課 読",
+      "example": "日本語は、読むのは少し難しいです。でも、会話は得意です。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g129",
+      "pattern": "V-てもらえませんか？",
+      "lesson": "第9課 読",
+      "example": "日本語をチェックしてもらえませんか？",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g130",
+      "pattern": "V-方",
+      "lesson": "第9課 読",
+      "example": "この書類の書き方がよくわかりません。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g131",
+      "pattern": "V-てみたいんですが…",
+      "lesson": "第10課",
+      "example": "合気道をやってみたいんですが…。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g132",
+      "pattern": "【期間】（に）～回",
+      "lesson": "第10課",
+      "example": "日本語クラスは週に1回です。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g133",
+      "pattern": "V-ましょうか？",
+      "lesson": "第10課",
+      "example": "教室のチラシを持って来ましょうか？",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g134",
+      "pattern": "聞き返し",
+      "lesson": "第10課",
+      "example": "すみません。「ぼご」は、どういう意味ですか？",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g135",
+      "pattern": "Nのとき、～",
+      "lesson": "第10課",
+      "example": "高校のとき、少し日本語を勉強しました。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g136",
+      "pattern": "イA-いとき、～",
+      "lesson": "第10課",
+      "example": "若いとき、よく旅行しました。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g137",
+      "pattern": "ナA-なとき、～",
+      "lesson": "第10課",
+      "example": "暇なとき、料理を作ります。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g138",
+      "pattern": "V-て行きます",
+      "lesson": "第11課",
+      "example": "肉と野菜は、私が買って行きますよ。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g139",
+      "pattern": "V-て来ます",
+      "lesson": "第11課",
+      "example": "",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g140",
+      "pattern": "N1とN2（と）、どっちがいいですか？ S。どれがいいですか？",
+      "lesson": "第11課",
+      "example": "チョコレートケーキとチーズケーキ、どっちがいいですか？ お茶、いろいろありますね。どれがいいですか？",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g141",
+      "pattern": "Nのほうがいいです",
+      "lesson": "第11課",
+      "example": "塩のほうがいいです。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g142",
+      "pattern": "【疑問詞】でもいいです",
+      "lesson": "第11課",
+      "example": "A：何が食べたいですか。 B：何でもいいです。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g143",
+      "pattern": "ナA-／イA- そうです",
+      "lesson": "第12課",
+      "example": "そのお弁当、おいしそうですね。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g144",
+      "pattern": "ナA-／イA- そうなN",
+      "lesson": "第12課",
+      "example": "それ、辛そうな料理ですね。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g145",
+      "pattern": "イA-くて、～ イA-くなくて、～",
+      "lesson": "第12課",
+      "example": "この卵焼き、甘くて、おいしいですね。 茶碗蒸し、甘くなくて、おいしいですよ。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g146",
+      "pattern": "V-てみます",
+      "lesson": "第12課",
+      "example": "よかったら、この卵焼き、食べてみてください。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g147",
+      "pattern": "自動詞 他動詞",
+      "lesson": "第12課",
+      "example": "鶏肉とか、エビとか、きのことかが入ってます。 ときどき、銀杏も入れますよ。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g148",
+      "pattern": "イA-くないですか？",
+      "lesson": "第12課",
+      "example": "味は、うすくないですか？",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g149",
+      "pattern": "～んですが…",
+      "lesson": "第13課",
+      "example": "会議室の電気がつかないんですが…。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g150",
+      "pattern": "V-そうです",
+      "lesson": "第13課",
+      "example": "どのぐらいかかりそうですか？",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g151",
+      "pattern": "V-たいとき、～",
+      "lesson": "第13課",
+      "example": "両面コピーしたいときは、どうすればいいですか？",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g152",
+      "pattern": "V-ると、～",
+      "lesson": "第13課",
+      "example": "このスタートボタンを押すと、コピーが始まります。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g153",
+      "pattern": "はい、【否定文】／いいえ、【肯定文】",
+      "lesson": "第13課",
+      "example": "A：コピー機、使ったことないですか？ B：はい、ないです。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g154",
+      "pattern": "Nで、～／ナA-で、～／イA-くて、～／V-て、～ ＜原因・理由＞",
+      "lesson": "第14課",
+      "example": "道が混んでいて、ぜんぜん動きません。 昨日は、休んですみませんでした。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g155",
+      "pattern": "S1。それで、S2",
+      "lesson": "第14課",
+      "example": "これから病院に行きます。それで、少し遅刻します。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g156",
+      "pattern": "V-てもいいですか？",
+      "lesson": "第14課",
+      "example": "トイレに行って来てもいいですか？",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g157",
+      "pattern": "V-てもいいでしょうか？",
+      "lesson": "第14課",
+      "example": "明日の午後、早退してもいいでしょうか？",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g158",
+      "pattern": "V-なければなりません",
+      "lesson": "第14課",
+      "example": "ちょっと、役所に行かなければならないんです。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g159",
+      "pattern": "～んです ①",
+      "lesson": "第14課",
+      "example": "東京から、国の友だちが来るんです。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g160",
+      "pattern": "～んです ②",
+      "lesson": "第15課",
+      "example": "昨日から38度の熱があって、のどがすごく痛いんです。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g161",
+      "pattern": "V-ないでください",
+      "lesson": "第15課",
+      "example": "今週は仕事を休んで、できるだけ人に会わないでください。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g162",
+      "pattern": "V（普通形）＋N ①",
+      "lesson": "第15課",
+      "example": "こちらは、せきを抑える薬です。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g163",
+      "pattern": "V-る前に、～",
+      "lesson": "第15課",
+      "example": "1日1回、寝る前に飲んでください。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g164",
+      "pattern": "V-たあと、～",
+      "lesson": "第15課",
+      "example": "飲むと、眠くなります。飲んだあと、運転しないでくださいね。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g165",
+      "pattern": "～とき（に）、～",
+      "lesson": "第15課",
+      "example": "この薬は、痛くてがまんできないときに、飲んでください。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g166",
+      "pattern": "V-るといいです（よ）",
+      "lesson": "第16課",
+      "example": "よく眠れないときは、ぬるいお風呂にゆっくり入るといいですよ。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g167",
+      "pattern": "V-すぎます",
+      "lesson": "第16課",
+      "example": "昨日、飲みすぎました。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g168",
+      "pattern": "V1-たり、V2-たり（します）",
+      "lesson": "第16課",
+      "example": "ジョギングしたり、ときどき家でヨガをしたりしてます。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g169",
+      "pattern": "V-るようにしています",
+      "lesson": "第16課",
+      "example": "できるだけ、野菜をたくさん食べるようにしています。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g170",
+      "pattern": "V-ないように しています",
+      "lesson": "第16課",
+      "example": "健康のために、食べすぎないようにしています。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g171",
+      "pattern": "V（普通形）＋N ②",
+      "lesson": "第17課",
+      "example": "ネパールから持って来た飾りです。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g172",
+      "pattern": "【人】に【物】をもらいます",
+      "lesson": "第17課",
+      "example": "このマグカップ、誕生日に、友だちにもらったんです。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g173",
+      "pattern": "【人】が【物】をくれます",
+      "lesson": "第17課",
+      "example": "これは、兄がくれたお守りです。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g174",
+      "pattern": "S（普通形）そうです",
+      "lesson": "第18課",
+      "example": "お子さんが生まれたそうですね。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g175",
+      "pattern": "【人】に【物】をあげます",
+      "lesson": "第18課",
+      "example": "アナさんに何かプレゼントをあげませんか？",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g176",
+      "pattern": "S（普通形）と言っていました",
+      "lesson": "第18課",
+      "example": "アナさん、前に、焼き鳥が大好きだと言っていました。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g177",
+      "pattern": "S（普通形）と思います",
+      "lesson": "第18課",
+      "example": "もっと、思い出に残るものがいいと思います。",
+      "level": "elementary-1"
+    },
+    {
+      "id": "g178",
+      "pattern": "N1というN2",
+      "lesson": "第1課 先",
+      "example": "ホアは「花」という意味です。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g179",
+      "pattern": "V-たばかりです",
+      "lesson": "第1課 先",
+      "example": "先週、日本に来たばかりです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g180",
+      "pattern": "V-ていました",
+      "lesson": "第1課 先",
+      "example": "ベトナムでは、ホテルで働いていました。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g181",
+      "pattern": "それ／そこ ＜文脈指示＞",
+      "lesson": "第1課 先",
+      "example": "ジャワ島に、ジョグジャカルタという大きい町があります。ウォノソボは、そこから、バスで4時間ぐらいです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g182",
+      "pattern": "～て、～ ～から、～ ～けど、～ ＜2つの文を1つにする＞",
+      "lesson": "第1課 先",
+      "example": "お茶の畑がたくさんあって、のんびりしています。 ウランバートルは首都だから、都会ですよ。 首都ではないけど、とてもにぎやかです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g183",
+      "pattern": "N1はN2が ナA-です／イA-いです ②",
+      "lesson": "第2課 ま",
+      "example": "江口さんは、髪が短いです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g184",
+      "pattern": "V-ている＋人",
+      "lesson": "第2課 ま",
+      "example": "ナインさんは、帽子をかぶっている人です。 加藤さんは、あそこで、コピーをしている人です。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g185",
+      "pattern": "Sよ",
+      "lesson": "第2課 ま",
+      "example": "原さんは、座って、本を読んでる人ですよ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g186",
+      "pattern": "Sし、～",
+      "lesson": "第2課 ま",
+      "example": "三船敏郎は、演技が上手だし、本当にかっこいいです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g187",
+      "pattern": "S1ので、S2",
+      "lesson": "第3課 ア",
+      "example": "今日は自転車で来たので、飲めないんです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g188",
+      "pattern": "Sよね",
+      "lesson": "第3課 ア",
+      "example": "おすし、わさび、入ってますよね。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g189",
+      "pattern": "Nで～",
+      "lesson": "第3課 ア",
+      "example": "A：テーブルと座敷がございますが…。 B：テーブルでお願いします。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g190",
+      "pattern": "ナA-な／イA-い／V-る のは、Nです",
+      "lesson": "第3課 ア",
+      "example": "人気があるのは、お刺身定食です。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g191",
+      "pattern": "Nなら、～",
+      "lesson": "第4課 し",
+      "example": "A：この近くに、おすすめの店がありますか？ B：この近くなら、「平兵衛」がおすすめです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g192",
+      "pattern": "V-て、～ ＜方法＞",
+      "lesson": "第4課 し",
+      "example": "こちらの野菜の天ぷらは、つゆにつけて食べてください。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g193",
+      "pattern": "V-ないで、～ ＜方法＞",
+      "lesson": "第4課 し",
+      "example": "エビはつゆにつけないで、塩をかけて食べてください。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g194",
+      "pattern": "V-ちゃだめです",
+      "lesson": "第4課 し",
+      "example": "一度に、そんなにたくさんお肉を入れちゃだめですよ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g195",
+      "pattern": "V-てから、 ～",
+      "lesson": "第4課 し",
+      "example": "うどんは、お肉と野菜を食べてから、入れましょう。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g196",
+      "pattern": "S1が、S2",
+      "lesson": "第4課 し",
+      "example": "お店は新しくてきれいですが、お昼は混んでいます。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g197",
+      "pattern": "V-（られ）ます ＜可能形①＞",
+      "lesson": "第5課 早",
+      "example": "新鮮なカニとかウニとか食べられますよ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g198",
+      "pattern": "～ところ",
+      "lesson": "第5課 早",
+      "example": "遊べるところはありますか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g199",
+      "pattern": "S（普通形） って聞きました S（普通形） って言っていました",
+      "lesson": "第5課 早",
+      "example": "うどんがおいしいって聞きました。 バスが安くて便利だって先輩が言ってました。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g200",
+      "pattern": "【疑問詞】V-たらいいですか？",
+      "lesson": "第5課 早",
+      "example": "日光に行くんですけど、何で行ったらいいですか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g201",
+      "pattern": "V-たほうがいいです",
+      "lesson": "第5課 早",
+      "example": "厚い上着を持って行ったほうがいいですよ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g202",
+      "pattern": "V-ないほうがいいです",
+      "lesson": "第5課 早",
+      "example": "できれば、日曜日は行かないほうがいいですよ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g203",
+      "pattern": "V-るつもりです",
+      "lesson": "第6課 い",
+      "example": "明日は、中禅寺湖に行くつもりです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g204",
+      "pattern": "V-（られ）て、～",
+      "lesson": "第6課 い",
+      "example": "いろいろなところに行けて、よかったです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g205",
+      "pattern": "V-（られ）なくて、～",
+      "lesson": "第6課 い",
+      "example": "ショーが見られなくて、残念でした。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g206",
+      "pattern": "S1し、S2し、～",
+      "lesson": "第6課 い",
+      "example": "海で泳げたし、船に乗れたし、楽しかったです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g207",
+      "pattern": "V-る／V-ている／V-た とき、～",
+      "lesson": "第6課 い",
+      "example": "道を歩いているとき、リスを見ました。 ウミネコが近くに来たとき、ちょっとこわかったです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g208",
+      "pattern": "【人】と【人数】で",
+      "lesson": "第6課 い",
+      "example": "友だちと2人でハウステンボスに行って来ました。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g209",
+      "pattern": "～たら、～",
+      "lesson": "第7課 雨",
+      "example": "雨が降ったら、盆踊りは日曜日にやるよ。 盆踊りが終わったら、いっしょに居酒屋に行きましょう。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g210",
+      "pattern": "V-（ら）れます ＜受身①＞",
+      "lesson": "第7課 雨",
+      "example": "7月14日、「ひかりホール」において、コンサートが開催されます。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g211",
+      "pattern": "V-（られ）ます ＜可能形②＞",
+      "lesson": "第7課 雨",
+      "example": "盆踊りは簡単だから、だれでも踊れますよ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g212",
+      "pattern": "もうV-ました",
+      "lesson": "第8課 屋",
+      "example": "A：スピーチコンテストは、もう始まりましたか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g213",
+      "pattern": "まだV-て（い）ません",
+      "lesson": "第8課 屋",
+      "example": "B:まだ始まってません。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g214",
+      "pattern": "まだV-ます",
+      "lesson": "第8課 屋",
+      "example": "イベント、まだやってますか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g215",
+      "pattern": "【疑問詞】＋S（普通形）か、～",
+      "lesson": "第8課 屋",
+      "example": "明日のフリーマーケットは、何時からか、わかりますか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g216",
+      "pattern": "～んですか？",
+      "lesson": "第9課 成",
+      "example": "成人の日は、何をするんですか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g217",
+      "pattern": "Nしか+否定文",
+      "lesson": "第9課 成",
+      "example": "乗り物に3つしか乗れませんでした。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g218",
+      "pattern": "Nだけ",
+      "lesson": "第9課 成",
+      "example": "今年は、1日だけ実家に帰りました。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g219",
+      "pattern": "V-たりして、～",
+      "lesson": "第9課 成",
+      "example": "友だちといっしょに買い物をしたりして、楽しかったです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g220",
+      "pattern": "V-なくちゃならない",
+      "lesson": "第9課 成",
+      "example": "甥や姪にお年玉をあげなくちゃならないし、大変でした。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g221",
+      "pattern": "V-れます ＜可能形③＞",
+      "lesson": "第9課 成",
+      "example": "DVDもたくさん見れました。 久しぶりに、実家の母の料理を食べれてよかったです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g222",
+      "pattern": "S（普通形）+人が～ S（普通形）+人も～",
+      "lesson": "第9課 成",
+      "example": "春節は、田舎に帰る人が多いです。 最近では、海外に旅行する人もいます。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g223",
+      "pattern": "V-ながら、～",
+      "lesson": "第9課 成",
+      "example": "ソンクラーンは、町を歩きながら、みんなで水をかけ合います。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g224",
+      "pattern": "Nによって",
+      "lesson": "第9課 成",
+      "example": "レバランは、年によって違います。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g225",
+      "pattern": "【疑問詞】V-ばいいですか？",
+      "lesson": "第10課",
+      "example": "お葬式には、何を持っていけばいいですか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g226",
+      "pattern": "V-てはいけません／だめです Vちゃいけません／だめです",
+      "lesson": "第10課",
+      "example": "信号が赤のときは、横断歩道を渡ってはいけませんよ。 バスの中では、話しちゃだめだよね。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g227",
+      "pattern": "V-なくちゃ",
+      "lesson": "第10課",
+      "example": "食器は自分で片付けなくちゃ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g228",
+      "pattern": "V-るように、～",
+      "lesson": "第10課",
+      "example": "次の人がすぐに席に座れるように、食器を片付けます。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g229",
+      "pattern": "V-ないように、～",
+      "lesson": "第10課",
+      "example": "トイレがつまらないように、紙はごみ箱に捨てます。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g230",
+      "pattern": "V-（ら）れます ＜受身②＞",
+      "lesson": "第10課",
+      "example": "お店の店長さんに、「今度から気をつけて」と注意されました。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g231",
+      "pattern": "S（普通形）の？",
+      "lesson": "第10課",
+      "example": "お金を払わないで、ジュース飲んだの？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g232",
+      "pattern": "V-なきゃ",
+      "lesson": "第10課",
+      "example": "ちゃんとお金を払ってから飲まなきゃ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g233",
+      "pattern": "V-てみてもいいですか？",
+      "lesson": "第11課",
+      "example": "このセーター、着てみてもいいですか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g234",
+      "pattern": "ナA-／イA- すぎます",
+      "lesson": "第11課",
+      "example": "この色はちょっと派手すぎます。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g235",
+      "pattern": "イA-すぎます",
+      "lesson": "第11課",
+      "example": "このジャケットは高すぎます。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g236",
+      "pattern": "ナA-な／イA-い の",
+      "lesson": "第11課",
+      "example": "もうちょっと大きいの、ありますか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g237",
+      "pattern": "NをV-(ら)れます ＜受身③＞",
+      "lesson": "第11課",
+      "example": "（私は）自転車を盗まれました。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g238",
+      "pattern": "S（普通形）かもしれません",
+      "lesson": "第11課",
+      "example": "もしかしたら、バッグをとられたかもしれません。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g239",
+      "pattern": "V-てしまいました",
+      "lesson": "第11課",
+      "example": "ポイントカード、忘れてしまいました。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g240",
+      "pattern": "V-るまで、～",
+      "lesson": "第12課",
+      "example": "手元に届くまで、2日しかかかりませんでした。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g241",
+      "pattern": "V-にくいです",
+      "lesson": "第12課",
+      "example": "この掃除機は、重くて、使いにくいですね。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g242",
+      "pattern": "V-やすいです",
+      "lesson": "第12課",
+      "example": "トーシマの掃除機のほうが動かしやすいですよ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g243",
+      "pattern": "N1とN2（と）、どちら／どっちが～か？",
+      "lesson": "第12課",
+      "example": "どっちが使いやすいですか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g244",
+      "pattern": "（N1より）N2のほうが～",
+      "lesson": "第12課",
+      "example": "トーシマの方がミツバシより軽くて、動かしやすいですよ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g245",
+      "pattern": "V-（ら）れます ＜受身④＞",
+      "lesson": "第13課",
+      "example": "この建物は、2年前に建てられました。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g246",
+      "pattern": "V-てあります",
+      "lesson": "第13課",
+      "example": "昔、使われた道具とか、いろいろな資料を展示してあります。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g247",
+      "pattern": "N1だけじゃなくて、N2も～",
+      "lesson": "第13課",
+      "example": "本だけじゃなくて、CDとか、DVDもただで借りられます。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g248",
+      "pattern": "Nなら、～",
+      "lesson": "第13課",
+      "example": "返却は、市内の図書館なら、どこに返してもいいです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g249",
+      "pattern": "【疑問詞】V-ても、～",
+      "lesson": "第13課",
+      "example": "返却は、市内の図書館なら、どこに返してもいいです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g250",
+      "pattern": "ナA-に／イA-く V",
+      "lesson": "第14課",
+      "example": "全体的に短く切ってください。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g251",
+      "pattern": "Nのために、～",
+      "lesson": "第14課",
+      "example": "外国の方のために、いろいろなサービスがあります。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g252",
+      "pattern": "V-たままです",
+      "lesson": "第15課",
+      "example": "会議室の電気がついたままでしたよ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g253",
+      "pattern": "V-るのにいいです",
+      "lesson": "第15課",
+      "example": "マイストローは、ごみを減らすのにいいんですよ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g254",
+      "pattern": "V(命令形） V-るな（禁止の命令形）",
+      "lesson": "第16課",
+      "example": "急げ。こっちに集まれ。 走るな。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g255",
+      "pattern": "V-ないようにしてください",
+      "lesson": "第16課",
+      "example": "できるだけ煙を吸わないようにしてください。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g256",
+      "pattern": "V-（られ）なくなります",
+      "lesson": "第16課",
+      "example": "ドアが開かなくなると、外に逃げられなくなります。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g257",
+      "pattern": "Sても、～",
+      "lesson": "第16課",
+      "example": "大きな地震が来ても、あわてて動かないでください。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g258",
+      "pattern": "V（普通形）かどうか、～",
+      "lesson": "第16課",
+      "example": "店が開いているかどうか、わからないけど…。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g259",
+      "pattern": "V-（られ）るように なりました",
+      "lesson": "第17課",
+      "example": "最近は、ほかの人にお店の情報を教えられるようになりました。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g260",
+      "pattern": "V-（よ）うと思います／思っています",
+      "lesson": "第18課",
+      "example": "将来は、タイで、自分の会社を作ろうと思います。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g261",
+      "pattern": "V-るために、～",
+      "lesson": "第18課",
+      "example": "日本に住むために、もっと日本語をがんばろうと思います。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g262",
+      "pattern": "V-てあげます",
+      "lesson": "第18課",
+      "example": "両親に、家を建ててあげるつもりです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g263",
+      "pattern": "V-てもらいます",
+      "lesson": "第18課",
+      "example": "JF工業のみなさんには、とても親切にしてもらいました。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g264",
+      "pattern": "V-てくれます",
+      "lesson": "第18課",
+      "example": "山内さんは、私にたくさん、日本語を教えてくれました。 === 初中級 ===",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g265",
+      "pattern": "Nでしたっけ？",
+      "lesson": "第1課 フ",
+      "example": "フットサルって、何でしたっけ？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g266",
+      "pattern": "V-ることになった",
+      "lesson": "第1課 フ",
+      "example": "私の友だちが、バリ舞踊を踊ることになったんです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g267",
+      "pattern": "V-てくれませんか？",
+      "lesson": "第1課 フ",
+      "example": "もしよかったら、見に来てくれませんか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g268",
+      "pattern": "S（普通形）でしょう？",
+      "lesson": "第2課 ド",
+      "example": "おもしろかったでしょう？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g269",
+      "pattern": "S（普通形）気がする",
+      "lesson": "第2課 ド",
+      "example": "ストーリーがちょっと短かった気がしました。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g270",
+      "pattern": "S（普通形）ってN",
+      "lesson": "第2課 ド",
+      "example": "歴史を変えようとする敵と戦うってゲームです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g271",
+      "pattern": "接続の表現",
+      "lesson": "第2課 ド",
+      "example": "それに、ゲームだけじゃなくて、舞台とかミュージカルとかアニメとかもあって、いろいろ楽しめるんです。 あと、毎回バラエティがあって、楽しいです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g272",
+      "pattern": "S（普通形）なら、～",
+      "lesson": "第3課 引",
+      "example": "住むなら、どのあたりがおすすめですか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g273",
+      "pattern": "Nっぽい",
+      "lesson": "第3課 引",
+      "example": "下町っぽい雰囲気ですね。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g274",
+      "pattern": "V-てもらえたら、ありがたいです",
+      "lesson": "第3課 引",
+      "example": "引っ越しを手伝ってもらえたら、とてもありがたいんですが。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g275",
+      "pattern": "V-てもらえたら、助かります",
+      "lesson": "第3課 引",
+      "example": "荷物を運ぶのを手伝ってもらえたら、とても助かります。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g276",
+      "pattern": "V-てもらえたら、うれしいです",
+      "lesson": "第3課 引",
+      "example": "そうしてもらえたら、すごくうれしいです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g277",
+      "pattern": "S（普通形）みたいだ",
+      "lesson": "第4課 エ",
+      "example": "買い物に行ったときになくしたみたいです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g278",
+      "pattern": "お＋N ／ ご＋N",
+      "lesson": "第4課 エ",
+      "example": "ご都合の悪いお時間はありますか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g279",
+      "pattern": "おVください",
+      "lesson": "第4課 エ",
+      "example": "お部屋でお待ちください。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g280",
+      "pattern": "ごVください",
+      "lesson": "第4課 エ",
+      "example": "業者に直接ご連絡ください。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g281",
+      "pattern": "V-（ら）れる＜受身⑤：迷惑の受身＞",
+      "lesson": "第4課 エ",
+      "example": "遅い時間に音を出されると困る人もいますからね。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g282",
+      "pattern": "N1みたいなN2",
+      "lesson": "第5課 ど",
+      "example": "（サイウアは）ソーセージみたいな料理で、タイの北部の名物です。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g283",
+      "pattern": "ナA-さ／イA-さ",
+      "lesson": "第5課 ど",
+      "example": "頼めば、本場の辛さにしてくれます。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g284",
+      "pattern": "S（普通形）やつ",
+      "lesson": "第5課 ど",
+      "example": "これをさらに丸めて、油で揚げたやつが、ドゥル天なんですよ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g285",
+      "pattern": "V-ておく",
+      "lesson": "第6課 毎",
+      "example": "餃子とかうどんとか、まとめて買っておくと便利ですよ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g286",
+      "pattern": "Vがち",
+      "lesson": "第6課 毎",
+      "example": "コンビニや外食に頼りがちな一人暮らし。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g287",
+      "pattern": "S（普通形）じゃないですか",
+      "lesson": "第6課 毎",
+      "example": "外食って、やっぱりお金がかかるじゃないですか。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g288",
+      "pattern": "V-ば、～",
+      "lesson": "第7課 た",
+      "example": "興味があるイベントに参加すれば、知り合いもできると思います。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g289",
+      "pattern": "V-ているうちに、～",
+      "lesson": "第7課 た",
+      "example": "通っているうちに、少しずつ話ができる人が増えると思います。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g290",
+      "pattern": "V-ばと思っています",
+      "lesson": "第7課 た",
+      "example": "たくさんの人と友だちになれればと思っています。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g291",
+      "pattern": "V-ばうれしいです",
+      "lesson": "第7課 た",
+      "example": "食事とか、いろいろ誘ってもらえればうれしいです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g292",
+      "pattern": "V-ばいいなと思います",
+      "lesson": "第7課 た",
+      "example": "みなさんといっしょに、楽しく活動できればいいなと思います。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g293",
+      "pattern": "Vなさい",
+      "lesson": "第8課 隣",
+      "example": "これからは、気をつけなさい。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g294",
+      "pattern": "尊敬の動詞 ＜尊敬語①＞",
+      "lesson": "第8課 隣",
+      "example": "ここには、よくいらっしゃるんですか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g295",
+      "pattern": "V-（さ）せる＜使役①＞",
+      "lesson": "第8課 隣",
+      "example": "唇の両端を軽く上げるだけで、「この人、感じが良さそうだな」と思わせることができます。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g296",
+      "pattern": "V-なくてもいいです",
+      "lesson": "第8課 隣",
+      "example": "無理に大きな笑顔を作らなくてもいいです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g297",
+      "pattern": "V-なくてもだいじょうぶです",
+      "lesson": "第8課 隣",
+      "example": "高価な服は着なくても大丈夫です。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g298",
+      "pattern": "V-る間に、～",
+      "lesson": "第9課 日本",
+      "example": "日本にいる間に、いろいろなドラマを見たいから、鵜澤くんもおすすめのドラマがあったら、ぜひ教えて。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g299",
+      "pattern": "丁寧体・普通体②",
+      "lesson": "第9課 日本",
+      "example": "日本のドラマが好きだから、よく見るんだけど、聞き取れないセリフがあるのが悔しいんだよね。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g300",
+      "pattern": "Vはじめる",
+      "lesson": "第9課 日本",
+      "example": "最初は吹き替えで見てたんだけど、日本語でセリフがわかるようになりたくて、勉強しはじめたんだ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g301",
+      "pattern": "希望を言うときの表現",
+      "lesson": "第9課 日本",
+      "example": "将来は、勉強したことを活かして、アニメとかゲームとかのキャラクターをデザインする仕事ができればと思ってるんだ。 仕事は大変だけど、たくさん勉強して、介護の仕事を",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g302",
+      "pattern": "V（普通形）＋N ③",
+      "lesson": "第10課 ど",
+      "example": "アニメ・マンガを入り口として、日本語を勉強するサイトです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g303",
+      "pattern": "名詞で終わる言い方",
+      "lesson": "第10課 ど",
+      "example": "国際交流基金が運営する日本語学習プラットフォーム。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g304",
+      "pattern": "【数量】も",
+      "lesson": "第10課 ど",
+      "example": "3回も見るの？すごいね。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g305",
+      "pattern": "V-てくる",
+      "lesson": "第10課 ど",
+      "example": "自分の言いたいことが日本語で言えるようになってきたと思う。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g306",
+      "pattern": "V-てほしいんですが",
+      "lesson": "第11課",
+      "example": "このメールを見てほしいんですが…。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g307",
+      "pattern": "Nになっている",
+      "lesson": "第11課",
+      "example": "缶ジュースは持ち込み禁止になっています。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g308",
+      "pattern": "V-ていただけますか？",
+      "lesson": "第11課",
+      "example": "身分証明書を見せていただけますか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g309",
+      "pattern": "おVになる ＜尊敬語②＞",
+      "lesson": "第11課",
+      "example": "それとも、戻って、お飲みになりますか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g310",
+      "pattern": "V-ることがある",
+      "lesson": "第11課",
+      "example": "在留カードを持っていないと、罰金を支払うことがあります。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g311",
+      "pattern": "おVです ＜尊敬語③＞",
+      "lesson": "第12課",
+      "example": "何かお探しですか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g312",
+      "pattern": "V-（ら）れる ＜尊敬語④＞",
+      "lesson": "第12課",
+      "example": "どちらに行かれるんですか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g313",
+      "pattern": "S（普通形）ようだ",
+      "lesson": "第12課",
+      "example": "転んで足をけがしているようです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g314",
+      "pattern": "イA-がる",
+      "lesson": "第12課",
+      "example": "ずっと「痛い、痛い」と言って、とても痛がっています。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g315",
+      "pattern": "V-（さ）せる＜使役②＞",
+      "lesson": "第12課",
+      "example": "すぐ救急車を向かわせます。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g316",
+      "pattern": "V-ることにする",
+      "lesson": "第12課",
+      "example": "私も、災害に備えて防災リュックを買うことにしました。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g317",
+      "pattern": "S（普通形）らしい",
+      "lesson": "第13課",
+      "example": "カンボジアに帰って、両親といっしょにお店を始めるらしいですよ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g318",
+      "pattern": "V-（よ）うと思うんですが",
+      "lesson": "第13課",
+      "example": "来月、恋人の誕生日なので、何かプレゼントしようと思うんですが、何がいいか迷ってるんです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g319",
+      "pattern": "Nとか、いいんじゃないですか？",
+      "lesson": "第13課",
+      "example": "例えばアクセサリーとか、いいんじゃない？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g320",
+      "pattern": "S（普通形）のがいいんじゃないですか？",
+      "lesson": "第13課",
+      "example": "形に残るものもいいけど、レストランで食事するのもいいんじゃないですか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g321",
+      "pattern": "V-てくださる",
+      "lesson": "第13課",
+      "example": "まだ日本語が上手ではない私たちを、やさしく教えてくださいました。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g322",
+      "pattern": "V-ていただく",
+      "lesson": "第13課",
+      "example": "もっともっと、先生に教えていただきたかったです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g323",
+      "pattern": "V-（さ）せていただく",
+      "lesson": "第13課",
+      "example": "本日は、友人を代表して、お祝いのスピーチをさせていただきます。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g324",
+      "pattern": "Nにとって",
+      "lesson": "第14課",
+      "example": "私にとって、大切な親友なんです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g325",
+      "pattern": "ナA-な ところがある",
+      "lesson": "第14課",
+      "example": "ちょっと頑固なところがあるんです。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g326",
+      "pattern": "イA-い ところがある",
+      "lesson": "第14課",
+      "example": "ちょっと飽きっぽいところがあるんですよ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g327",
+      "pattern": "S（普通形）のに、～",
+      "lesson": "第14課",
+      "example": "最初のころは、毎日メッセージをやりとりしていたのに、最近はメッセージを送っても、なかなか既読にならなかったり、返事をくれなかったり。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g328",
+      "pattern": "Nのことで",
+      "lesson": "第14課",
+      "example": "ルームシェアをしている友人のことで悩んでいます。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g329",
+      "pattern": "連用中止",
+      "lesson": "第15課",
+      "example": "「みはらしの丘」が一面ネモフィラの青に染まり、空と地面の境目がわからないほどの絶景が広がります。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g330",
+      "pattern": "N1＋助詞＋のN2",
+      "lesson": "第15課",
+      "example": "公園へのアクセスはJR勝田駅からバスで約15分。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g331",
+      "pattern": "もしSば、～",
+      "lesson": "第15課",
+      "example": "もし時間とお金があれば、ぜひ行ってみたいのは、小笠原です。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g332",
+      "pattern": "V-たところだ",
+      "lesson": "第16課",
+      "example": "ちょうどいまお昼食べたところ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g333",
+      "pattern": "V-てもらえますか？",
+      "lesson": "第16課",
+      "example": "和洋室にしてもらえますか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g334",
+      "pattern": "V-てもらってもいいですか？",
+      "lesson": "第16課",
+      "example": "時間まで、近くを観光することにするので、荷物だけ預かってもらってもいいですか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g335",
+      "pattern": "V-ていただけませんか？",
+      "lesson": "第16課",
+      "example": "何かほかの料理に変えていただけませんか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g336",
+      "pattern": "Nになります",
+      "lesson": "第16課",
+      "example": "1名様2,000円なので、3名様で6,000円になります。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g337",
+      "pattern": "謙譲の動詞 ＜謙譲語①＞",
+      "lesson": "第16課",
+      "example": "確認いたしますので、少々お待ちください。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g338",
+      "pattern": "おVする＜謙譲語②＞",
+      "lesson": "第16課",
+      "example": "お荷物をお預かりすることもできますが…。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g339",
+      "pattern": "ごVする＜謙譲語②＞",
+      "lesson": "第16課",
+      "example": "洋室に空きがあれば、ご案内しますね。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g340",
+      "pattern": "V-さ（せら）れる＜使役受身＞",
+      "lesson": "第16課",
+      "example": "お昼ご飯を食べる店もなかなか決まらなくて、たくさん歩かされた。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g341",
+      "pattern": "Nでございます",
+      "lesson": "第17課",
+      "example": "はい、JF水産でございます。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g342",
+      "pattern": "V-ること",
+      "lesson": "第17課",
+      "example": "指定の制服を着用すること。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g343",
+      "pattern": "V-ないこと",
+      "lesson": "第17課",
+      "example": "制服は常に清潔に保ち、汚れたままにしないこと。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g344",
+      "pattern": "V-ていただければと思います",
+      "lesson": "第17課",
+      "example": "冷房を、もう少し弱くしていただければと思います。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g345",
+      "pattern": "V-ていただければありがたいと思います",
+      "lesson": "第17課",
+      "example": "メールとか、メッセージとかでできるようにしていただければ、とてもありがたいと思います。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g346",
+      "pattern": "V-ていた",
+      "lesson": "第18課",
+      "example": "アルバイトを始める前は、夜のシフトはつらいって聞いていたんですけど、そんなことないですよ。",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g347",
+      "pattern": "S（普通形）はずだ",
+      "lesson": "第18課",
+      "example": "問題はないはずですが、もし、トラブルなどがあって、もう少し時間が必要になりそうな場合は、どうすればいいですか？",
+      "level": "elementary-2"
+    },
+    {
+      "id": "g348",
+      "pattern": "尊敬語と謙譲語",
+      "lesson": "第18課",
+      "example": "例えば、この間は、雨の日にタクシーでお着きになったお客様がいらっしゃったんです。 こちらでもう少し検討して、また改めてご連絡してもいいですか？",
+      "level": "elementary-2"
+    }
+  ]
+}

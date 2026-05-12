@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Review wrong answers — JFT-Basic Practice</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="exam-toolbar">
+    <a class="exit-link" href="index.html">← Exit</a>
+    <div class="title">Review wrong answers · <span class="muted kana">復習</span></div>
+    <div class="kicker mono" id="progress">— / —</div>
+    <button class="btn ghost" id="clear-btn" title="Clear the entire wrong-answer queue">Clear queue</button>
+  </div>
+
+  <main>
+    <div id="question-area"></div>
+    <div id="feedback-area"></div>
+    <div class="q-nav">
+      <div class="left">
+        <button class="btn secondary" id="prev-btn">← Previous <span class="kbd">←</span></button>
+      </div>
+      <div class="right">
+        <button class="btn" id="next-btn">Next → <span class="kbd">→</span></button>
+      </div>
+    </div>
+  </main>
+
+  <button class="help-toggle" id="help-toggle" aria-label="Keyboard shortcuts">?</button>
+  <div class="help-panel" id="help-panel" role="dialog">
+    <h4>Keyboard shortcuts</h4>
+    <div class="row"><span>Select A / B / C / D</span><span class="keys"><span class="kbd-chip">1</span><span class="kbd-chip">2</span><span class="kbd-chip">3</span><span class="kbd-chip">4</span></span></div>
+    <div class="row"><span>Previous / next</span><span class="keys"><span class="kbd-chip">←</span><span class="kbd-chip">→</span></span></div>
+    <div class="row"><span>Replay audio</span><span class="keys"><span class="kbd-chip">R</span></span></div>
+  </div>
+
+  <div class="toast-host" id="toast-host"></div>
+
+  <script type="module" src="js/review.js"></script>
+</body>
+</html>
