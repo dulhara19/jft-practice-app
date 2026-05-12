@@ -1,7 +1,8 @@
 /* ============================================================
    JFT-Basic Practice — Modern Japanese Editorial
    ============================================================
-   Aesthetic: sumi-ink dark + vermilion (朱色) accent
+   Aesthetic: sumi-ink dark + ai-iro (藍色, indigo) accent
+              cool-tuned palette for long-session focus
    Display:   Shippori Mincho B1 — refined modern mincho
    Body:      Noto Sans JP — legible kana/kanji
    Numerals:  JetBrains Mono — tabular figures for timer/score
@@ -11,35 +12,35 @@
 
 /* ---------- design tokens ---------- */
 :root {
-  /* sumi ink palette */
-  --ink-0: #0e0e10;
-  --ink-1: #16161a;
-  --ink-2: #1d1d22;
-  --ink-3: #26262c;
-  --ink-4: #34343c;
-  --rule:  #2e2e35;
+  /* sumi-ink palette, shifted cool (less warm undertone) */
+  --ink-0: #0c1218;
+  --ink-1: #131a23;
+  --ink-2: #1a2230;
+  --ink-3: #232c3c;
+  --ink-4: #2e394d;
+  --rule:  #2a3343;
 
-  /* washi (text-on-dark) */
-  --paper-0: #f5f1e8;
-  --paper-1: #d8d2c4;
-  --paper-2: #98917f;
-  --paper-3: #6b6557;
+  /* washi (text-on-dark) — cooler off-white */
+  --paper-0: #eef2f5;
+  --paper-1: #c8d0d9;
+  --paper-2: #8590a0;
+  --paper-3: #5b6677;
 
-  /* one accent — shu-iro (vermilion, like a torii or hanko stamp) */
-  --shu:        #e04a2c;
-  --shu-dim:    #b03720;
-  --shu-glow:   rgba(224, 74, 44, 0.18);
+  /* one accent — ai-iro 藍色 (traditional Japanese indigo, calm and focused) */
+  --shu:        #4a9bc8;   /* legacy name kept; value is now ai-iro */
+  --shu-dim:    #2d7396;
+  --shu-glow:   rgba(74, 155, 200, 0.20);
 
-  /* secondary spectrum (kept muted — these are SECTION colors, not loud) */
-  --sec-1: #d4a847;   /* kihada yellow — Script & Vocabulary */
+  /* secondary spectrum — section colors, mixed temperature for variety */
+  --sec-1: #b9b264;   /* moegi muted yellow-green — Script & Vocabulary */
   --sec-2: #6ba4c4;   /* hanada blue — Conversation & Expression */
-  --sec-3: #c47b6b;   /* asagi pink — Listening */
+  --sec-3: #7fb1b5;   /* asagi pale teal — Listening (was warm pink) */
   --sec-4: #8aab6f;   /* matcha — Reading */
 
   /* semantic */
   --ok:    #8aab6f;
-  --warn:  #d4a847;
-  --bad:   #e04a2c;
+  --warn:  #d4a847;   /* warning kept warm — functional signal only */
+  --bad:   #c25554;   /* fail muted clay — calmer than fiery red */
 
   /* spacing scale (8-pt grid) */
   --s-1: 4px;
@@ -95,8 +96,8 @@ body {
   color: var(--paper-0);
   background: var(--ink-0);
   background-image:
-    radial-gradient(1200px 600px at 80% -200px, rgba(224, 74, 44, 0.08), transparent 60%),
-    radial-gradient(900px 700px at -200px 100%, rgba(107, 164, 196, 0.05), transparent 60%);
+    radial-gradient(1200px 600px at 80% -200px, rgba(74, 155, 200, 0.10), transparent 60%),
+    radial-gradient(900px 700px at -200px 100%, rgba(138, 171, 111, 0.05), transparent 60%);
   background-attachment: fixed;
   letter-spacing: 0.005em;
   line-height: 1.6;
@@ -170,7 +171,7 @@ main {
   gap: var(--s-5);
   flex-wrap: wrap;
   border-bottom: 1px solid var(--rule);
-  background: rgba(14, 14, 16, 0.85);
+  background: rgba(12, 18, 24, 0.85);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
 }
@@ -578,7 +579,7 @@ main {
 .timer.danger {
   color: var(--shu);
   border-color: var(--shu);
-  background: rgba(224, 74, 44, 0.08);
+  background: rgba(74, 155, 200, 0.10);
   animation: pulse 1.4s ease-in-out infinite;
 }
 .timer.danger::before { opacity: 1; }
@@ -852,7 +853,7 @@ main {
 
 .option.selected {
   border-color: var(--shu);
-  background: linear-gradient(135deg, rgba(224, 74, 44, 0.12), var(--ink-2));
+  background: linear-gradient(135deg, rgba(74, 155, 200, 0.14), var(--ink-2));
 }
 .option.selected .letter {
   background: var(--shu);
@@ -872,7 +873,7 @@ main {
 }
 .option.incorrect {
   border-color: var(--shu-dim);
-  background: rgba(224, 74, 44, 0.08);
+  background: rgba(74, 155, 200, 0.10);
 }
 .option.incorrect .letter {
   background: var(--shu-dim);
@@ -965,7 +966,7 @@ main {
   pointer-events: none;
 }
 .score-card.pass::after { color: rgba(138, 171, 111, 0.06); }
-.score-card.fail::after { color: rgba(224, 74, 44, 0.06); }
+.score-card.fail::after { color: rgba(74, 155, 200, 0.06); }
 
 @media (max-width: 720px) {
   .score-card { grid-template-columns: 1fr; padding: var(--s-5); }
