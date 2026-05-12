@@ -1,3 +1,6 @@
+import { requireAuth } from "./auth.js";
+requireAuth();
+
 import { el } from "./app.js";
 import { Storage } from "./storage.js";
 import { speak, isSupported as ttsSupported, hasJapaneseVoice } from "./tts.js";

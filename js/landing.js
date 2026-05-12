@@ -1,3 +1,6 @@
+import { requireAuth, signOut } from "./auth.js";
+requireAuth();
+
 import { loadIndex } from "./app.js";
 import { Storage } from "./storage.js";
 import { bindHelpPanel, bindKeys, toast } from "./ui.js";
@@ -51,6 +54,11 @@ async function init() {
 
   refs.startBtn.addEventListener("click", start);
   refs.resetBtn.addEventListener("click", () => location.reload());
+  const signoutBtn = document.getElementById("signout-btn");
+  if (signoutBtn) signoutBtn.addEventListener("click", () => {
+    signOut();
+    location.href = "login.html";
+  });
 
   const wrong = Storage.getWrongAnswers();
   if (wrong.length > 0) {

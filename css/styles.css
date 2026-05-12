@@ -1365,6 +1365,93 @@ main {
 .stagger > *:nth-child(8) { animation-delay: 0.32s; }
 
 /* ============================================================
+   LOGIN PAGE
+   ============================================================ */
+
+.login-main {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 1;
+  padding: var(--s-7) var(--s-5);
+}
+
+.login-card {
+  position: relative;
+  max-width: 420px;
+  width: 100%;
+  padding: var(--s-7) var(--s-6);
+  background: var(--ink-1);
+  border: 1px solid var(--rule);
+  border-radius: var(--r-1);
+  box-shadow: var(--sh-2);
+  animation: rise var(--t-med) var(--ease);
+}
+.login-card::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 3px;
+  background: var(--shu);
+}
+
+.login-title {
+  font-family: "Shippori Mincho B1", serif;
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin: var(--s-3) 0 var(--s-2);
+  letter-spacing: -0.01em;
+}
+
+.login-card .field {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-1);
+  margin: var(--s-4) 0;
+}
+.login-card .field span {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--paper-3);
+}
+.login-card input {
+  background: var(--ink-0);
+  border: 1px solid var(--rule);
+  border-radius: var(--r-1);
+  padding: var(--s-3) var(--s-4);
+  font: inherit;
+  font-size: 1rem;
+  color: var(--paper-0);
+  transition: border-color var(--t-fast) var(--ease), background var(--t-fast) var(--ease);
+}
+.login-card input:focus {
+  border-color: var(--shu);
+  outline: none;
+  background: var(--ink-2);
+  box-shadow: 0 0 0 3px var(--shu-glow);
+}
+
+.login-error {
+  margin: var(--s-3) 0;
+  padding: var(--s-3) var(--s-4);
+  background: rgba(194, 85, 84, 0.12);
+  border: 1px solid var(--bad);
+  border-radius: var(--r-1);
+  color: var(--bad);
+  font-size: 0.9rem;
+}
+
+.login-card .btn {
+  width: 100%;
+  justify-content: center;
+  margin-top: var(--s-4);
+}
+
+/* ============================================================
    UTILITIES
    ============================================================ */
 .hidden { display: none !important; }

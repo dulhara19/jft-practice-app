@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sign in — JFT-Basic Practice</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="hero-kanji" aria-hidden="true">門</div>
+
+  <header class="site-header">
+    <div class="brand">
+      <span class="mark">基</span>
+      <span>
+        <div class="title">JFT-Basic Practice</div>
+        <div class="kana-sub">Sign in · ろぐいん</div>
+      </span>
+    </div>
+  </header>
+
+  <main class="login-main">
+    <div class="login-card">
+      <div class="kicker">private access · 門</div>
+      <h1 class="login-title">Sign in to continue</h1>
+      <p class="muted">Enter your username and password.</p>
+
+      <form id="login-form" autocomplete="off" novalidate>
+        <label class="field">
+          <span>Username</span>
+          <input type="text" id="username" name="username" autocomplete="username" autofocus required />
+        </label>
+        <label class="field">
+          <span>Password</span>
+          <input type="password" id="password" name="password" autocomplete="current-password" required />
+        </label>
+        <div id="login-error" class="login-error hidden"></div>
+        <button class="btn" type="submit" id="login-submit">
+          Sign in
+          <span class="kbd">ENTER</span>
+        </button>
+      </form>
+    </div>
+  </main>
+
+  <script type="module" src="js/login.js"></script>
+</body>
+</html>

@@ -1,3 +1,6 @@
+import { requireAuth } from "./auth.js";
+requireAuth();
+
 import { loadPaper, el } from "./app.js";
 import { Storage } from "./storage.js";
 import { SECTIONS } from "./scoring.js";
