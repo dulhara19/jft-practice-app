@@ -92,6 +92,24 @@ passed = scaled >= 200
 
 The real JFT-Basic exam uses Item Response Theory (IRT), so absolute scores from this app will not match official results — but the relative ranking and section-wise breakdown are reliable for measuring progress.
 
-## License / credits
+## Author
 
-Mock papers are derived from study materials in `../05-Mock-Tests/`. Bilingual explanations come from the included answer keys, with auto-derived Japanese summaries for the short-form 「こたえは X：text です。」 line.
+**Dulhara Lakshan** — Software Engineer · AI/ML Tutor · Web Developer
+
+- Portfolio: [dulharalakshan.me](https://dulharalakshan.me)
+- This app: [github.com/dulhara19/jft-practice-app](https://github.com/dulhara19/jft-practice-app)
+- Live: [dulhara19.github.io/jft-practice-app](https://dulhara19.github.io/jft-practice-app/)
+- Search: *"Dulhara Lakshan"* on Google for other projects and articles.
+
+## License
+
+© 2026 Dulhara Lakshan. All rights reserved · 著作権所有.
+
+This software, its question bank, derived datasets, bilingual explanations, and visual design are the original work of the author. Personal study use is permitted. **Printing, redistribution, commercial use, and use for training ML models are prohibited without written permission.** See [LICENSE](LICENSE) for full terms.
+
+For commercial licensing or redistribution permission, contact via [dulharalakshan.me](https://dulharalakshan.me).
+
+## Acknowledgements
+
+- **Japan Foundation (国際交流基金)** — JFT-Basic test specification and Irodori reference materials.
+- **Google Fonts** — Shippori Mincho B1, Noto Sans JP, JetBrains Mono.

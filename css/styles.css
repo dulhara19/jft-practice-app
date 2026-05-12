@@ -1365,6 +1365,101 @@ main {
 .stagger > *:nth-child(8) { animation-delay: 0.32s; }
 
 /* ============================================================
+   FOOTER + LICENSE + ABOUT
+   ============================================================ */
+
+.site-footer {
+  position: relative;
+  z-index: 1;
+  margin-top: var(--s-9);
+  padding: var(--s-5) var(--s-6);
+  border-top: 1px solid var(--rule);
+  background: rgba(12, 18, 24, 0.7);
+  font-size: 0.82rem;
+}
+.site-footer .footer-row {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--s-4);
+  flex-wrap: wrap;
+  color: var(--paper-2);
+}
+.site-footer a { color: var(--paper-1); transition: color var(--t-fast) var(--ease); }
+.site-footer a:hover { color: var(--shu); }
+
+.license-card {
+  position: relative;
+  background: var(--ink-1);
+  border: 1px solid var(--rule);
+  border-radius: var(--r-1);
+  padding: var(--s-6);
+  margin-bottom: var(--s-7);
+}
+.license-card::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 3px;
+  background: var(--shu);
+}
+.license-card .license-line {
+  font-family: "Shippori Mincho B1", serif;
+  font-size: 1.15rem;
+  margin-bottom: var(--s-3);
+}
+.license-card .license-line .ja-mark {
+  color: var(--shu);
+  font-weight: 700;
+  margin-right: var(--s-1);
+}
+.license-card h3 {
+  margin-top: var(--s-5);
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--paper-2);
+  font-weight: 500;
+}
+.license-card ul {
+  margin: var(--s-2) 0 0;
+  padding-left: 0;
+  list-style: none;
+  display: grid;
+  gap: var(--s-2);
+  font-size: 0.95rem;
+  color: var(--paper-1);
+}
+.license-card ul li {
+  padding-left: var(--s-4);
+  position: relative;
+}
+.license-card ul li::before {
+  content: "—";
+  position: absolute;
+  left: 0;
+  color: var(--shu);
+}
+.license-card p { color: var(--paper-1); margin: var(--s-3) 0 0; }
+
+.ack-list {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  gap: var(--s-2);
+  margin: 0 0 var(--s-7);
+  color: var(--paper-1);
+}
+.ack-list li::before {
+  content: "—";
+  color: var(--shu);
+  margin-right: var(--s-2);
+}
+
+/* ============================================================
    LOGIN PAGE
    ============================================================ */
 
